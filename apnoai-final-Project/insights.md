@@ -52,4 +52,4 @@ The project includes a 1920×1080 dashboard screenshot plus a Streamlit app with
 
 ## AI use disclosure
 
-ChatGPT was used to help organize the analysis, refine the business wording, and scaffold the dashboard/report code. Figures were calculated from the supplied dataset; the scope mismatch is disclosed rather than silently treating May–October as Q2.
+ChatGPT was used to help organize the analysis, refine the business wording, and scaffold the dashboard/report code. Figures were calculated from the supplied dataset; the scope mismatch is disclosed rather than silently treating May–October as Q2 .
