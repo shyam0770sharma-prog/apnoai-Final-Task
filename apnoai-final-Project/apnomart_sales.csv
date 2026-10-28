@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Month,Day_of_Week,Region,City,Category,Product,Customer_Segment,Quantity,Sales,Discount,Profit,Profit_Margin,Payment_Method,Profit_Margin_Calc
+ORD00001,2026-10-11,2026-10,Sunday,West,Indore,Clothing,Jeans,Consumer,1,1319.55,5,401.86,30.45,UPI,30.454321549012924
+ORD00002,2026-05-29,2026-05,Friday,East,Ranchi,Furniture,Conference Table,Small Business,3,3284.4,15,1101.07,33.52,UPI,33.52423578126903
+ORD00003,2026-05-07,2026-05,Thursday,West,Mumbai,Electronics,Headphones,Home Office,10,12536.0,20,2917.78,23.28,Credit Card,23.27520740268028
+ORD00004,2026-07-10,2026-07,Friday,Central,Gwalior,Sports,Tennis Racket,Small Business,1,2650.5,25,810.96,30.6,Credit Card,30.596491228070178
+ORD00005,2026-07-02,2026-07,Thursday,North,Lucknow,Clothing,Jackets,Consumer,7,8645.0,5,2169.06,25.09,UPI,25.09034123770966
+ORD00006,2026-06-27,2026-06,Saturday,Central,Bhopal,Office Supplies,Markers,Corporate,7,31210.2,10,10247.97,32.84,Debit Card,32.83532306745871
+ORD00007,2026-06-05,2026-06,Friday,North,Delhi,Sports,Cycling Helmet,Consumer,9,13185.0,0,3625.95,27.5,Net Banking,27.50056882821388
+ORD00008,2026-05-27,2026-05,Wednesday,South,Hyderabad,Clothing,Jackets,Corporate,3,3501.15,15,1156.48,33.03,Debit Card,33.0314325293118
+ORD00009,2026-10-21,2026-10,Wednesday,East,Ranchi,Sports,Basketball,Small Business,7,18334.05,5,5182.04,28.26,Credit Card,28.264567839620813
+ORD00010,2026-09-17,2026-09,Thursday,South,Pune,Furniture,Bookshelf,Small Business,5,20079.0,10,5755.6,28.66,Cash,28.664774142138555
+ORD00011,2026-05-23,2026-05,Saturday,North,Lucknow,Furniture,Office Chair,Small Business,8,14292.0,25,4893.39,34.24,Credit Card,34.23866498740554
+ORD00012,2026-09-29,2026-09,Tuesday,West,Indore,Office Supplies,Markers,Corporate,3,2361.3,15,-332.69,-14.09,UPI,-14.089272858171345
+ORD00013,2026-08-17,2026-08,Monday,North,Jaipur,Clothing,Caps,Home Office,2,8132.0,0,2054.29,25.26,Cash,25.261805213969502
+ORD00014,2026-05-09,2026-05,Saturday,North,Delhi,Clothing,Shoes,Home Office,5,17880.0,25,7021.58,39.27,Cash,39.27058165548098
+ORD00015,2026-05-08,2026-05,Friday,West,Ahmedabad,Clothing,Shoes,Home Office,4,1761.0,25,680.01,38.61,Net Banking,38.61499148211244
+ORD00016,2026-05-24,2026-05,Sunday,South,Chennai,Electronics,Monitor,Consumer,9,31603.5,25,5472.69,17.32,Credit Card,17.316721249228724
+ORD00017,2026-06-25,2026-06,Thursday,East,Kolkata,Office Supplies,Pens,Consumer,3,1506.0,0,676.98,44.95,Net Banking,44.952191235059765
+ORD00018,2026-06-29,2026-06,Monday,North,Chandigarh,Clothing,Shoes,Corporate,9,19260.0,0,6690.64,34.74,Debit Card,34.73852544132918
+ORD00019,2026-09-07,2026-09,Monday,North,Delhi,Sports,Basketball,Consumer,6,18095.4,10,4438.06,24.53,Cash,24.525901610354012
+ORD00020,2026-10-02,2026-10,Friday,East,Ranchi,Clothing,Caps,Corporate,5,2555.5,5,719.19,28.14,Net Banking,28.142829191938958
+ORD00021,2026-05-07,2026-05,Thursday,North,Delhi,Sports,Basketball,Small Business,2,5256.0,20,2056.89,39.13,Debit Card,39.13413242009132
+ORD00022,2026-09-21,2026-09,Monday,East,Guwahati,Clothing,Shoes,Corporate,4,16059.6,10,6299.34,39.22,Credit Card,39.224762758723756
+ORD00023,2026-06-20,2026-06,Saturday,East,Ranchi,Sports,Yoga Mat,Consumer,2,8006.4,10,1709.45,21.35,Credit Card,21.351044164668266
+ORD00024,2026-10-14,2026-10,Wednesday,East,Bhubaneswar,Furniture,Bookshelf,Small Business,6,18614.4,20,5218.51,28.03,UPI,28.034801014268524
+ORD00025,2026-10-27,2026-10,Tuesday,West,Surat,Furniture,Bookshelf,Small Business,7,6620.25,25,2067.62,31.23,Debit Card,31.23175106680261
+ORD00026,2026-09-17,2026-09,Thursday,South,Chennai,Clothing,Jackets,Corporate,4,10867.2,20,2758.26,25.38,Debit Card,25.381515017667844
+ORD00027,2026-08-16,2026-08,Sunday,South,Chennai,Clothing,Jeans,Home Office,4,8722.8,10,2105.3,24.14,Net Banking,24.135598660980424
+ORD00028,2026-06-26,2026-06,Friday,Central,Nagpur,Sports,Basketball,Consumer,2,3554.0,0,1364.87,38.4,Cash,38.4037703995498
+ORD00029,2026-08-23,2026-08,Sunday,West,Indore,Sports,Yoga Mat,Consumer,1,4194.75,15,1150.37,27.42,Cash,27.424041957208413
+ORD00030,2026-09-28,2026-09,Monday,Central,Jabalpur,Clothing,Jeans,Home Office,5,19919.75,15,4868.76,24.44,UPI,24.441873015474595
+ORD00031,2026-07-11,2026-07,Saturday,South,Bangalore,Sports,Tennis Racket,Consumer,9,39762.0,0,11948.28,30.05,UPI,30.049494492228764
+ORD00032,2026-05-02,2026-05,Saturday,South,Chennai,Clothing,T-Shirts,Home Office,8,34164.0,10,-4404.59,-12.89,UPI,-12.892489169886431
+ORD00033,2026-06-10,2026-06,Wednesday,South,Bangalore,Office Supplies,Stapler,Home Office,3,6304.8,20,2140.02,33.94,Debit Card,33.94271031594975
+ORD00034,2026-10-26,2026-10,Monday,North,Chandigarh,Office Supplies,Pens,Small Business,7,30490.25,5,11063.81,36.29,Credit Card,36.286386631792126
+ORD00035,2026-08-17,2026-08,Monday,Central,Jabalpur,Clothing,Jackets,Small Business,3,10060.8,20,2276.03,22.62,Credit Card,22.622753657760818
+ORD00036,2026-07-27,2026-07,Monday,West,Ahmedabad,Electronics,Tablet,Corporate,9,18597.15,15,4382.06,23.56,Net Banking,23.56307283642924
+ORD00037,2026-07-11,2026-07,Saturday,Central,Nagpur,Clothing,T-Shirts,Small Business,7,11578.7,15,2627.14,22.69,Cash,22.689421092177874
+ORD00038,2026-06-09,2026-06,Tuesday,South,Hyderabad,Clothing,Jackets,Home Office,9,18396.0,20,3854.73,20.95,Cash,20.95417482061318
+ORD00039,2026-06-25,2026-06,Thursday,West,Ahmedabad,Electronics,Smartphone,Corporate,8,15498.0,25,2473.95,15.96,Net Banking,15.96302748741773
+ORD00040,2026-07-26,2026-07,Sunday,Central,Jabalpur,Office Supplies,Stapler,Consumer,6,15666.0,0,5667.4,36.18,Debit Card,36.17643303970382
+ORD00041,2026-05-27,2026-05,Wednesday,South,Chennai,Sports,Cycling Helmet,Home Office,3,13257.0,10,3592.94,27.1,Credit Card,27.10221015312665
+ORD00042,2026-05-24,2026-05,Sunday,South,Pune,Clothing,T-Shirts,Corporate,10,32589.0,10,9540.44,29.28,UPI,29.27503145233054
+ORD00043,2026-08-06,2026-08,Thursday,West,Ahmedabad,Office Supplies,Notebooks,Small Business,2,7630.0,0,2474.41,32.43,Credit Card,32.43001310615989
+ORD00044,2026-05-25,2026-05,Monday,East,Guwahati,Office Supplies,Stapler,Home Office,5,15890.75,15,6628.76,41.71,Net Banking,41.71458238283278
+ORD00045,2026-07-31,2026-07,Friday,West,Indore,Clothing,Jeans,Corporate,1,1905.7,5,658.52,34.56,Credit Card,34.5552815238495
+ORD00046,2026-07-28,2026-07,Tuesday,East,Kolkata,Furniture,Desk,Consumer,2,7504.0,0,1572.6,20.96,UPI,20.95682302771855
+ORD00047,2026-10-02,2026-10,Friday,North,Delhi,Electronics,Headphones,Home Office,2,9584.0,0,1689.13,17.62,Cash,17.62447829716194
+ORD00048,2026-07-07,2026-07,Tuesday,West,Indore,Office Supplies,Pens,Home Office,5,10735.5,15,4229.49,39.4,Net Banking,39.397233477714124
+ORD00049,2026-05-12,2026-05,Tuesday,East,Bhubaneswar,Electronics,Laptop,Corporate,6,17457.3,15,3434.19,19.67,Debit Card,19.671942396590538
+ORD00050,2026-08-26,2026-08,Wednesday,Central,Jabalpur,Sports,Tennis Racket,Corporate,9,13731.3,5,4368.84,31.82,Credit Card,31.81665246553495
+ORD00051,2026-09-15,2026-09,Tuesday,South,Pune,Sports,Cycling Helmet,Small Business,6,15483.6,15,4767.92,30.79,Credit Card,30.793355550388796
+ORD00052,2026-06-01,2026-06,Monday,North,Lucknow,Office Supplies,Stapler,Small Business,5,18411.0,5,-1260.45,-6.85,Debit Card,-6.846178914779208
+ORD00053,2026-08-05,2026-08,Wednesday,West,Ahmedabad,Office Supplies,Stapler,Home Office,9,39087.0,0,15758.53,40.32,Debit Card,40.31655025967713
+ORD00054,2026-05-21,2026-05,Thursday,East,Ranchi,Office Supplies,Printer Paper,Consumer,5,16104.0,20,-1813.88,-11.26,UPI,-11.26353700943865
+ORD00055,2026-09-19,2026-09,Saturday,Central,Gwalior,Sports,Tennis Racket,Small Business,4,14185.4,5,4865.42,34.3,Credit Card,34.29878607582444
+ORD00056,2026-07-15,2026-07,Wednesday,East,Ranchi,Furniture,Bookshelf,Consumer,7,6027.0,25,1421.98,23.59,Net Banking,23.59349593495935
+ORD00057,2026-10-08,2026-10,Thursday,West,Surat,Office Supplies,Markers,Corporate,7,17968.3,5,7690.83,42.8,Credit Card,42.80221278585064
+ORD00058,2026-10-06,2026-10,Tuesday,East,Guwahati,Electronics,Headphones,Corporate,5,15783.75,25,3350.5,21.23,UPI,21.227528312346557
+ORD00059,2026-08-01,2026-08,Saturday,West,Mumbai,Furniture,Office Chair,Small Business,1,4637.9,5,1604.02,34.59,Net Banking,34.585049267987664
+ORD00060,2026-09-25,2026-09,Friday,East,Bhubaneswar,Clothing,T-Shirts,Home Office,2,4573.3,5,928.13,20.29,Net Banking,20.294535674458267
+ORD00061,2026-06-19,2026-06,Friday,South,Pune,Office Supplies,Notebooks,Corporate,8,21252.0,25,8898.5,41.87,Net Banking,41.87135328439676
+ORD00062,2026-10-28,2026-10,Wednesday,West,Ahmedabad,Electronics,Tablet,Consumer,2,5942.4,20,1170.74,19.7,UPI,19.701467420570815
+ORD00063,2026-05-18,2026-05,Monday,West,Surat,Clothing,T-Shirts,Home Office,4,5096.6,15,1805.45,35.42,Credit Card,35.42459679001687
+ORD00064,2026-05-12,2026-05,Tuesday,North,Delhi,Furniture,Filing Cabinet,Small Business,9,8565.75,25,2975.03,34.73,Cash,34.731693079998834
+ORD00065,2026-10-17,2026-10,Saturday,South,Hyderabad,Office Supplies,Pens,Corporate,9,6084.0,20,1936.67,31.83,Net Banking,31.83218277449047
+ORD00066,2026-06-28,2026-06,Sunday,West,Surat,Furniture,Bookshelf,Small Business,4,3704.0,0,871.9,23.54,Debit Card,23.539416846652266
+ORD00067,2026-07-14,2026-07,Tuesday,Central,Bhopal,Furniture,Bookshelf,Home Office,7,9842.0,5,-705.2,-7.17,UPI,-7.16521032310506
+ORD00068,2026-05-21,2026-05,Thursday,East,Ranchi,Sports,Dumbbells,Home Office,2,6729.8,5,1558.22,23.15,Net Banking,23.154031323367708
+ORD00069,2026-06-29,2026-06,Monday,Central,Jabalpur,Electronics,Laptop,Home Office,3,7677.0,25,1563.31,20.36,UPI,20.363553471408103
+ORD00070,2026-05-26,2026-05,Tuesday,East,Ranchi,Furniture,Bookshelf,Consumer,8,20070.0,25,4594.92,22.89,Debit Card,22.894469357249626
+ORD00071,2026-08-06,2026-08,Thursday,East,Guwahati,Furniture,Bookshelf,Home Office,8,4938.0,25,1311.66,26.56,Net Banking,26.56257594167679
+ORD00072,2026-07-11,2026-07,Saturday,North,Lucknow,Furniture,Conference Table,Home Office,9,16426.8,10,4082.92,24.86,Credit Card,24.855236564638275
+ORD00073,2026-08-25,2026-08,Tuesday,West,Ahmedabad,Electronics,Monitor,Corporate,8,12736.8,10,2954.2,23.19,UPI,23.194208906475726
+ORD00074,2026-10-10,2026-10,Saturday,East,Ranchi,Electronics,Monitor,Consumer,3,10815.0,0,2292.49,21.2,Net Banking,21.19731853906611
+ORD00075,2026-08-02,2026-08,Sunday,North,Jaipur,Office Supplies,Printer Paper,Consumer,7,32684.75,5,12374.79,37.86,Net Banking,37.861051407766624
+ORD00076,2026-06-11,2026-06,Thursday,Central,Nagpur,Sports,Basketball,Small Business,7,16495.5,25,4361.49,26.44,UPI,26.440483768300442
+ORD00077,2026-08-03,2026-08,Monday,North,Delhi,Electronics,Smartphone,Home Office,1,1864.85,5,299.69,16.07,Debit Card,16.07046143121431
+ORD00078,2026-07-30,2026-07,Thursday,Central,Bhopal,Sports,Tennis Racket,Corporate,9,32493.6,20,11056.36,34.03,UPI,34.0262697885122
+ORD00079,2026-06-23,2026-06,Tuesday,West,Surat,Furniture,Conference Table,Small Business,1,1026.0,5,306.12,29.84,Cash,29.836257309941523
+ORD00080,2026-10-19,2026-10,Monday,East,Kolkata,Clothing,T-Shirts,Home Office,9,23328.0,25,9043.07,38.76,Credit Card,38.764874828532236
+ORD00081,2026-07-08,2026-07,Wednesday,South,Hyderabad,Electronics,Monitor,Consumer,9,24093.0,0,5383.1,22.34,Debit Card,22.34300419208899
+ORD00082,2026-10-27,2026-10,Tuesday,Central,Bhopal,Furniture,Conference Table,Home Office,2,1942.5,25,455.81,23.47,Credit Card,23.465122265122265
+ORD00083,2026-10-22,2026-10,Thursday,East,Bhubaneswar,Sports,Dumbbells,Home Office,9,13263.75,25,4133.36,31.16,Credit Card,31.162831024408632
+ORD00084,2026-10-13,2026-10,Tuesday,South,Hyderabad,Clothing,Shoes,Corporate,3,3853.2,5,1194.47,31.0,UPI,30.999429045987753
+ORD00085,2026-05-19,2026-05,Tuesday,South,Chennai,Sports,Cycling Helmet,Corporate,6,22296.6,10,6912.31,31.0,Cash,31.001632535902342
+ORD00086,2026-10-03,2026-10,Saturday,Central,Jabalpur,Clothing,Shoes,Corporate,10,29915.5,5,9352.45,31.26,Net Banking,31.262890474837462
+ORD00087,2026-10-10,2026-10,Saturday,East,Guwahati,Office Supplies,Notebooks,Small Business,7,29155.0,0,11922.85,40.89,Cash,40.89470073743783
+ORD00088,2026-06-13,2026-06,Saturday,South,Bangalore,Sports,Dumbbells,Corporate,1,2674.8,10,1061.57,39.69,Debit Card,39.68782712726185
+ORD00089,2026-09-14,2026-09,Monday,North,Chandigarh,Electronics,Tablet,Small Business,9,33753.6,20,8188.36,24.26,Cash,24.259219757299963
+ORD00090,2026-07-02,2026-07,Thursday,North,Delhi,Clothing,Jackets,Home Office,3,4800.6,10,1312.56,27.34,Credit Card,27.34158230221222
+ORD00091,2026-06-11,2026-06,Thursday,East,Bhubaneswar,Office Supplies,Stapler,Small Business,10,10642.0,15,4101.0,38.54,Net Banking,38.53598947566247
+ORD00092,2026-08-27,2026-08,Thursday,West,Mumbai,Office Supplies,Notebooks,Small Business,8,11496.0,25,4660.79,40.54,Cash,40.542710508002784
+ORD00093,2026-08-06,2026-08,Thursday,North,Delhi,Sports,Basketball,Corporate,10,6851.0,15,1477.73,21.57,Net Banking,21.569551890235005
+ORD00094,2026-07-09,2026-07,Thursday,Central,Jabalpur,Office Supplies,Notebooks,Corporate,2,7432.8,5,3063.44,41.22,Cash,41.21515445054354
+ORD00095,2026-10-11,2026-10,Sunday,East,Kolkata,Clothing,T-Shirts,Consumer,9,26964.0,0,7114.81,26.39,Net Banking,26.38632992137665
+ORD00096,2026-10-24,2026-10,Saturday,South,Hyderabad,Sports,Dumbbells,Small Business,1,1315.5,25,455.58,34.63,Cash,34.63169897377423
+ORD00097,2026-09-20,2026-09,Sunday,North,Lucknow,Sports,Cycling Helmet,Home Office,2,8804.6,5,2521.52,28.64,Debit Card,28.638666151784292
+ORD00098,2026-06-26,2026-06,Friday,East,Bhubaneswar,Furniture,Bookshelf,Consumer,8,7526.4,20,2346.71,31.18,Net Banking,31.179714073129254
+ORD00099,2026-10-23,2026-10,Friday,East,Guwahati,Electronics,Headphones,Consumer,7,24202.5,25,3945.92,16.3,UPI,16.303770271666153
+ORD00100,2026-07-23,2026-07,Thursday,West,Ahmedabad,Clothing,Shoes,Consumer,9,15163.2,20,6056.42,39.94,Credit Card,39.94156906193943
+ORD00101,2026-05-15,2026-05,Friday,South,Chennai,Electronics,Tablet,Corporate,6,18103.5,25,4388.54,24.24,Net Banking,24.241389786505373
+ORD00102,2026-06-28,2026-06,Sunday,South,Pune,Clothing,Jackets,Corporate,4,12070.8,10,3245.9,26.89,Credit Card,26.890512642078406
+ORD00103,2026-05-09,2026-05,Saturday,South,Hyderabad,Furniture,Bookshelf,Corporate,10,39159.0,5,10419.02,26.61,Cash,26.606961362649713
+ORD00104,2026-07-20,2026-07,Monday,Central,Nagpur,Furniture,Bookshelf,Home Office,2,3554.0,0,1105.07,31.09,Cash,31.093697242543612
+ORD00105,2026-08-11,2026-08,Tuesday,East,Bhubaneswar,Office Supplies,Printer Paper,Small Business,2,5961.6,10,-769.64,-12.91,Cash,-12.909957058507782
+ORD00106,2026-07-08,2026-07,Wednesday,Central,Nagpur,Furniture,Conference Table,Consumer,5,19144.0,20,5215.86,27.25,Cash,27.245403259506894
+ORD00107,2026-05-17,2026-05,Sunday,Central,Nagpur,Electronics,Headphones,Corporate,1,4333.5,10,723.83,16.7,Cash,16.703126802815277
+ORD00108,2026-06-24,2026-06,Wednesday,East,Guwahati,Electronics,Headphones,Small Business,2,965.6,15,208.61,21.6,Debit Card,21.604183927091963
+ORD00109,2026-09-23,2026-09,Wednesday,South,Hyderabad,Electronics,Laptop,Consumer,7,19258.4,5,4775.68,24.8,Credit Card,24.79790636813027
+ORD00110,2026-07-20,2026-07,Monday,East,Kolkata,Office Supplies,Notebooks,Small Business,2,9222.6,5,3041.9,32.98,Net Banking,32.98310671611042
+ORD00111,2026-06-24,2026-06,Wednesday,West,Mumbai,Electronics,Smartphone,Consumer,5,21762.0,10,4330.49,19.9,Debit Card,19.899319915448945
+ORD00112,2026-10-15,2026-10,Thursday,East,Kolkata,Office Supplies,Stapler,Small Business,5,16202.25,5,7281.28,44.94,Debit Card,44.9399311823975
+ORD00113,2026-09-05,2026-09,Saturday,East,Guwahati,Electronics,Tablet,Corporate,1,2936.8,20,719.26,24.49,Debit Card,24.49128302914737
+ORD00114,2026-08-10,2026-08,Monday,North,Chandigarh,Clothing,Jeans,Small Business,7,6826.4,20,2676.78,39.21,Debit Card,39.21217625688504
+ORD00115,2026-10-12,2026-10,Monday,West,Ahmedabad,Clothing,Jeans,Small Business,7,11031.3,10,4213.37,38.19,Debit Card,38.19468240370582
+ORD00116,2026-08-26,2026-08,Wednesday,North,Jaipur,Furniture,Desk,Consumer,4,18749.2,5,4618.86,24.63,Credit Card,24.634971092099928
+ORD00117,2026-06-06,2026-06,Saturday,South,Chennai,Clothing,Jeans,Small Business,6,10764.0,0,3352.64,31.15,Net Banking,31.14678558156819
+ORD00118,2026-07-07,2026-07,Tuesday,South,Bangalore,Furniture,Bookshelf,Home Office,1,1522.8,10,505.6,33.2,Credit Card,33.2019963225637
+ORD00119,2026-06-05,2026-06,Friday,West,Indore,Office Supplies,Notebooks,Consumer,3,7814.7,5,2469.57,31.6,Net Banking,31.60159699028754
+ORD00120,2026-07-03,2026-07,Friday,Central,Jabalpur,Sports,Cycling Helmet,Small Business,10,22714.5,5,-3226.65,-14.21,Debit Card,-14.205243346760879
+ORD00121,2026-09-21,2026-09,Monday,East,Ranchi,Furniture,Conference Table,Home Office,6,24738.0,5,8109.6,32.78,Debit Card,32.78195488721805
+ORD00122,2026-09-15,2026-09,Tuesday,North,Jaipur,Furniture,Desk,Consumer,1,2000.05,15,-246.03,-12.3,Cash,-12.301192470188244
+ORD00123,2026-07-07,2026-07,Tuesday,West,Indore,Furniture,Desk,Corporate,2,4132.5,5,1401.19,33.91,UPI,33.906594071385356
+ORD00124,2026-09-27,2026-09,Sunday,North,Lucknow,Office Supplies,Notebooks,Consumer,7,14999.95,15,6246.46,41.64,UPI,41.64320547735159
+ORD00125,2026-08-18,2026-08,Tuesday,East,Ranchi,Office Supplies,Notebooks,Consumer,9,33021.0,25,14244.18,43.14,Credit Card,43.13673117107296
+ORD00126,2026-09-27,2026-09,Sunday,Central,Bhopal,Clothing,Shoes,Small Business,4,2710.4,20,833.65,30.76,Credit Card,30.75745277449823
+ORD00127,2026-08-11,2026-08,Tuesday,North,Delhi,Sports,Tennis Racket,Home Office,1,4491.6,5,1159.89,25.82,Net Banking,25.82353726956986
+ORD00128,2026-08-01,2026-08,Saturday,West,Surat,Office Supplies,Notebooks,Consumer,7,11736.9,10,4600.51,39.2,Cash,39.19697705527013
+ORD00129,2026-06-26,2026-06,Friday,East,Bhubaneswar,Clothing,Shoes,Consumer,9,11160.0,0,2633.25,23.6,Net Banking,23.595430107526884
+ORD00130,2026-06-05,2026-06,Friday,East,Bhubaneswar,Clothing,Shoes,Consumer,8,25192.0,0,5939.66,23.58,Cash,23.577564306128927
+ORD00131,2026-09-08,2026-09,Tuesday,Central,Nagpur,Clothing,T-Shirts,Small Business,6,11466.0,25,3780.52,32.97,UPI,32.97156811442526
+ORD00132,2026-09-04,2026-09,Friday,West,Ahmedabad,Electronics,Laptop,Consumer,8,8610.0,25,1603.99,18.63,UPI,18.62938443670151
+ORD00133,2026-05-24,2026-05,Sunday,East,Ranchi,Sports,Cycling Helmet,Home Office,7,10130.4,20,2797.22,27.61,Cash,27.612137724078025
+ORD00134,2026-05-13,2026-05,Wednesday,North,Chandigarh,Sports,Dumbbells,Small Business,3,5209.8,5,1843.39,35.38,Net Banking,35.383124112249995
+ORD00135,2026-05-29,2026-05,Friday,South,Hyderabad,Office Supplies,Notebooks,Corporate,3,8595.0,0,3736.95,43.48,Credit Card,43.47818499127399
+ORD00136,2026-06-09,2026-06,Tuesday,West,Mumbai,Sports,Basketball,Corporate,8,4080.0,15,1514.02,37.11,Cash,37.108333333333334
+ORD00137,2026-10-08,2026-10,Thursday,North,Delhi,Sports,Tennis Racket,Small Business,4,7833.6,20,2599.93,33.19,Cash,33.189465890522875
+ORD00138,2026-06-10,2026-06,Wednesday,Central,Gwalior,Electronics,Monitor,Home Office,4,1769.6,20,314.65,17.78,Cash,17.780854430379748
+ORD00139,2026-10-22,2026-10,Thursday,Central,Nagpur,Electronics,Smartphone,Small Business,1,1285.5,25,237.69,18.49,Net Banking,18.490081680280046
+ORD00140,2026-08-17,2026-08,Monday,East,Kolkata,Sports,Cycling Helmet,Small Business,6,17664.0,0,3706.02,20.98,Credit Card,20.98063858695652
+ORD00141,2026-09-30,2026-09,Wednesday,Central,Nagpur,Furniture,Bookshelf,Small Business,8,11718.0,25,3361.25,28.68,Net Banking,28.68450247482506
+ORD00142,2026-05-17,2026-05,Sunday,South,Bangalore,Office Supplies,Stapler,Small Business,7,24633.0,0,10192.31,41.38,Debit Card,41.3766492104088
+ORD00143,2026-08-07,2026-08,Friday,North,Delhi,Office Supplies,Notebooks,Consumer,2,2403.0,25,1030.67,42.89,Debit Card,42.8909696213067
+ORD00144,2026-08-06,2026-08,Thursday,West,Indore,Sports,Dumbbells,Corporate,10,22120.0,0,4907.55,22.19,Cash,22.18603074141049
+ORD00145,2026-09-30,2026-09,Wednesday,East,Kolkata,Clothing,Caps,Home Office,7,15971.2,20,5902.31,36.96,Cash,36.95595822480465
+ORD00146,2026-08-28,2026-08,Friday,West,Surat,Furniture,Conference Table,Consumer,9,30820.5,25,9085.23,29.48,Cash,29.477879982479195
+ORD00147,2026-09-13,2026-09,Sunday,North,Jaipur,Sports,Dumbbells,Corporate,4,11516.0,0,2575.45,22.36,Credit Card,22.364102118791244
+ORD00148,2026-07-04,2026-07,Saturday,South,Bangalore,Furniture,Conference Table,Small Business,7,27272.0,0,6819.88,25.01,Credit Card,25.006893517160456
+ORD00149,2026-09-19,2026-09,Saturday,North,Jaipur,Electronics,Smartphone,Corporate,5,14035.0,0,2537.21,18.08,Cash,18.077734235838975
+ORD00150,2026-05-03,2026-05,Sunday,North,Chandigarh,Electronics,Laptop,Corporate,6,16473.0,15,3664.25,22.24,Credit Card,22.243974989376554
+ORD00151,2026-10-22,2026-10,Thursday,East,Kolkata,Furniture,Desk,Consumer,6,14431.5,25,3923.44,27.19,UPI,27.186640335377472
+ORD00152,2026-05-30,2026-05,Saturday,West,Mumbai,Furniture,Filing Cabinet,Consumer,8,11340.8,20,3792.24,33.44,Cash,33.43891083521445
+ORD00153,2026-10-22,2026-10,Thursday,North,Lucknow,Electronics,Monitor,Home Office,10,22140.0,25,4822.53,21.78,UPI,21.781978319783196
+ORD00154,2026-09-15,2026-09,Tuesday,North,Delhi,Furniture,Conference Table,Small Business,6,19302.0,0,6667.72,34.54,Net Banking,34.54419231167755
+ORD00155,2026-07-08,2026-07,Wednesday,South,Bangalore,Office Supplies,Notebooks,Small Business,3,11702.4,20,4573.92,39.09,UPI,39.08531583264971
+ORD00156,2026-10-12,2026-10,Monday,Central,Bhopal,Office Supplies,Stapler,Small Business,5,3225.75,15,1009.72,31.3,Net Banking,31.301867782686198
+ORD00157,2026-07-27,2026-07,Monday,South,Hyderabad,Clothing,Jackets,Corporate,9,18387.0,10,4320.99,23.5,Net Banking,23.5002447381302
+ORD00158,2026-05-29,2026-05,Friday,West,Mumbai,Furniture,Office Chair,Corporate,9,37215.0,0,11903.36,31.99,Cash,31.985382238344755
+ORD00159,2026-07-15,2026-07,Wednesday,West,Ahmedabad,Furniture,Bookshelf,Small Business,9,36126.0,10,11427.74,31.63,Cash,31.633006698776505
+ORD00160,2026-08-20,2026-08,Thursday,East,Kolkata,Sports,Dumbbells,Home Office,1,1853.0,15,514.24,27.75,Net Banking,27.751753912574205
+ORD00161,2026-06-10,2026-06,Wednesday,Central,Bhopal,Electronics,Tablet,Corporate,10,8600.0,0,1576.63,18.33,Credit Card,18.332906976744187
+ORD00162,2026-08-25,2026-08,Tuesday,West,Mumbai,Sports,Basketball,Home Office,10,6156.0,10,2017.75,32.78,Debit Card,32.776965562053284
+ORD00163,2026-05-01,2026-05,Friday,Central,Nagpur,Furniture,Bookshelf,Corporate,9,22404.6,10,7078.02,31.59,UPI,31.591815966364056
+ORD00164,2026-07-07,2026-07,Tuesday,South,Hyderabad,Furniture,Desk,Consumer,2,5482.0,0,1884.41,34.37,Net Banking,34.37449835826341
+ORD00165,2026-09-06,2026-09,Sunday,West,Mumbai,Furniture,Conference Table,Consumer,9,27288.9,10,6567.29,24.07,Debit Card,24.06579231848847
+ORD00166,2026-06-15,2026-06,Monday,North,Chandigarh,Sports,Dumbbells,Small Business,2,3425.4,10,1105.21,32.27,Cash,32.26513691831611
+ORD00167,2026-09-07,2026-09,Monday,West,Indore,Electronics,Smartphone,Consumer,8,4422.0,25,685.61,15.5,Cash,15.504522840343737
+ORD00168,2026-05-28,2026-05,Thursday,Central,Bhopal,Clothing,Shoes,Corporate,10,15728.0,20,5125.66,32.59,Net Banking,32.58939471007121
+ORD00169,2026-10-08,2026-10,Thursday,West,Indore,Sports,Basketball,Corporate,6,17436.3,5,5973.32,34.26,Credit Card,34.257956103072324
+ORD00170,2026-07-16,2026-07,Thursday,East,Kolkata,Clothing,Caps,Consumer,2,2368.5,25,695.52,29.37,Net Banking,29.365421152628247
+ORD00171,2026-10-11,2026-10,Sunday,North,Lucknow,Clothing,Jeans,Consumer,3,5599.2,20,1408.82,25.16,UPI,25.161094442063153
+ORD00172,2026-09-07,2026-09,Monday,East,Bhubaneswar,Office Supplies,Stapler,Consumer,8,33704.0,0,10441.66,30.98,Debit Card,30.98047709470686
+ORD00173,2026-10-03,2026-10,Saturday,South,Pune,Clothing,Jeans,Small Business,6,13497.6,20,4250.88,31.49,Credit Card,31.493598862019915
+ORD00174,2026-06-20,2026-06,Saturday,West,Indore,Electronics,Tablet,Consumer,5,4324.0,20,847.93,19.61,Net Banking,19.609851988899166
+ORD00175,2026-06-09,2026-06,Tuesday,West,Ahmedabad,Sports,Dumbbells,Corporate,3,12719.4,15,3520.26,27.68,UPI,27.67630548610784
+ORD00176,2026-08-04,2026-08,Tuesday,South,Pune,Clothing,Caps,Consumer,9,22295.25,25,5512.07,24.72,UPI,24.723068815106355
+ORD00177,2026-06-11,2026-06,Thursday,East,Kolkata,Sports,Tennis Racket,Small Business,10,11488.0,20,3361.18,29.26,Credit Card,29.25818245125348
+ORD00178,2026-09-16,2026-09,Wednesday,North,Lucknow,Furniture,Bookshelf,Small Business,2,6118.4,20,1323.48,21.63,UPI,21.63114539748954
+ORD00179,2026-09-13,2026-09,Sunday,East,Ranchi,Office Supplies,Notebooks,Corporate,2,1905.7,5,805.26,42.26,UPI,42.25533924542163
+ORD00180,2026-05-01,2026-05,Friday,Central,Bhopal,Furniture,Desk,Corporate,9,34101.0,10,8815.02,25.85,UPI,25.849740476818862
+ORD00181,2026-10-01,2026-10,Thursday,East,Bhubaneswar,Furniture,Bookshelf,Consumer,10,22162.5,25,5444.94,24.57,UPI,24.56825719120135
+ORD00182,2026-07-22,2026-07,Wednesday,North,Lucknow,Office Supplies,Printer Paper,Corporate,10,4528.0,20,1632.93,36.06,Net Banking,36.06294169611308
+ORD00183,2026-09-03,2026-09,Thursday,West,Surat,Electronics,Tablet,Home Office,1,4996.0,0,1100.8,22.03,Credit Card,22.033626901521217
+ORD00184,2026-05-05,2026-05,Tuesday,East,Guwahati,Electronics,Tablet,Corporate,4,2567.0,15,565.31,22.02,Debit Card,22.022204908453446
+ORD00185,2026-05-29,2026-05,Friday,South,Hyderabad,Clothing,Shoes,Home Office,7,20300.0,20,4917.54,24.22,Debit Card,24.22433497536946
+ORD00186,2026-08-01,2026-08,Saturday,North,Jaipur,Furniture,Conference Table,Home Office,6,18615.0,15,4153.75,22.31,UPI,22.313994090787002
+ORD00187,2026-07-18,2026-07,Saturday,West,Ahmedabad,Furniture,Office Chair,Corporate,1,1032.65,5,318.26,30.82,Net Banking,30.819735631627367
+ORD00188,2026-07-01,2026-07,Wednesday,North,Lucknow,Furniture,Office Chair,Home Office,7,9662.8,15,3227.74,33.4,UPI,33.403775303224734
+ORD00189,2026-05-15,2026-05,Friday,South,Pune,Sports,Dumbbells,Corporate,9,32298.3,15,10025.72,31.04,UPI,31.04101454256106
+ORD00190,2026-07-01,2026-07,Wednesday,Central,Jabalpur,Furniture,Desk,Corporate,10,39790.0,0,11407.43,28.67,Net Banking,28.669087710480024
+ORD00191,2026-09-23,2026-09,Wednesday,North,Jaipur,Sports,Basketball,Small Business,9,27828.0,20,7608.01,27.34,Cash,27.339406353313212
+ORD00192,2026-05-21,2026-05,Thursday,North,Lucknow,Office Supplies,Printer Paper,Home Office,2,8443.6,5,3457.89,40.95,Credit Card,40.95279264768582
+ORD00193,2026-05-22,2026-05,Friday,East,Guwahati,Clothing,Caps,Home Office,9,8208.0,20,1786.79,21.77,Debit Card,21.76888401559454
+ORD00194,2026-09-02,2026-09,Wednesday,South,Bangalore,Sports,Cycling Helmet,Consumer,10,30590.0,0,11646.13,38.07,Net Banking,38.07169009480222
+ORD00195,2026-05-18,2026-05,Monday,South,Bangalore,Clothing,Shoes,Corporate,8,30073.6,20,10428.41,34.68,Debit Card,34.67629415833156
+ORD00196,2026-09-14,2026-09,Monday,Central,Jabalpur,Office Supplies,Pens,Small Business,10,5917.5,25,2045.15,34.56,Net Banking,34.56104773975496
+ORD00197,2026-06-02,2026-06,Tuesday,South,Hyderabad,Electronics,Headphones,Small Business,10,18850.0,0,4064.66,21.56,Net Banking,21.56318302387268
+ORD00198,2026-06-02,2026-06,Tuesday,North,Delhi,Office Supplies,Notebooks,Consumer,3,2820.0,20,878.51,31.15,Cash,31.15283687943262
+ORD00199,2026-10-16,2026-10,Friday,Central,Jabalpur,Furniture,Conference Table,Home Office,5,12604.5,10,2547.75,20.21,UPI,20.213019159823872
+ORD00200,2026-08-30,2026-08,Sunday,South,Chennai,Sports,Dumbbells,Small Business,6,23700.6,5,5978.49,25.23,Credit Card,25.225057593478645
+ORD00201,2026-09-18,2026-09,Friday,Central,Gwalior,Furniture,Conference Table,Home Office,6,4626.0,0,1596.44,34.51,Cash,34.51015996541288
+ORD00202,2026-06-12,2026-06,Friday,South,Chennai,Clothing,Shoes,Small Business,4,10914.0,25,3143.64,28.8,Debit Card,28.80373831775701
+ORD00203,2026-07-07,2026-07,Tuesday,South,Chennai,Sports,Basketball,Small Business,5,4725.0,0,994.63,21.05,Credit Card,21.05037037037037
+ORD00204,2026-09-13,2026-09,Sunday,East,Ranchi,Office Supplies,Notebooks,Corporate,4,16530.8,15,6654.08,40.25,UPI,40.252619352965375
+ORD00205,2026-10-03,2026-10,Saturday,South,Hyderabad,Furniture,Conference Table,Home Office,1,3654.9,10,1239.32,33.91,Cash,33.908451667624284
+ORD00206,2026-08-17,2026-08,Monday,Central,Jabalpur,Sports,Yoga Mat,Small Business,9,8754.75,25,2370.49,27.08,Net Banking,27.076615551557726
+ORD00207,2026-06-24,2026-06,Wednesday,North,Chandigarh,Office Supplies,Stapler,Corporate,2,4836.6,10,1925.7,39.82,Debit Card,39.81515940950254
+ORD00208,2026-09-16,2026-09,Wednesday,East,Bhubaneswar,Sports,Dumbbells,Small Business,6,21415.5,25,7239.63,33.81,Cash,33.8055613924494
+ORD00209,2026-10-24,2026-10,Saturday,South,Bangalore,Electronics,Laptop,Corporate,7,4179.0,0,846.36,20.25,Cash,20.252692031586506
+ORD00210,2026-06-21,2026-06,Sunday,South,Hyderabad,Furniture,Bookshelf,Corporate,4,10252.0,0,2086.85,20.36,Credit Card,20.355540382364413
+ORD00211,2026-07-19,2026-07,Sunday,Central,Nagpur,Sports,Yoga Mat,Home Office,2,2371.2,20,535.85,22.6,Debit Card,22.598262483130906
+ORD00212,2026-08-11,2026-08,Tuesday,East,Bhubaneswar,Electronics,Smartphone,Corporate,5,10943.75,15,2364.37,21.6,Debit Card,21.604751570531125
+ORD00213,2026-10-19,2026-10,Monday,South,Pune,Office Supplies,Notebooks,Small Business,5,14957.75,5,6239.02,41.71,Debit Card,41.71095251625412
+ORD00214,2026-10-14,2026-10,Wednesday,North,Delhi,Clothing,Shoes,Consumer,1,2902.5,10,1135.23,39.11,Credit Card,39.11214470284238
+ORD00215,2026-08-04,2026-08,Tuesday,North,Lucknow,Electronics,Headphones,Small Business,10,18215.5,15,3057.37,16.78,Debit Card,16.784441821525622
+ORD00216,2026-08-21,2026-08,Friday,South,Chennai,Sports,Tennis Racket,Small Business,10,17167.5,25,3798.31,22.13,Credit Card,22.12500364059997
+ORD00217,2026-09-10,2026-09,Thursday,North,Chandigarh,Electronics,Laptop,Corporate,2,1755.2,20,390.98,22.28,Net Banking,22.27552415679125
+ORD00218,2026-08-24,2026-08,Monday,East,Kolkata,Clothing,Jeans,Small Business,1,380.25,25,105.75,27.81,Credit Card,27.810650887573964
+ORD00219,2026-05-31,2026-05,Sunday,South,Hyderabad,Clothing,Caps,Corporate,9,3577.5,25,1388.01,38.8,UPI,38.79832285115304
+ORD00220,2026-07-03,2026-07,Friday,Central,Gwalior,Clothing,T-Shirts,Home Office,4,19696.0,0,5453.52,27.69,Debit Card,27.68846466287571
+ORD00221,2026-06-27,2026-06,Saturday,East,Ranchi,Electronics,Monitor,Corporate,6,26379.0,10,5755.46,21.82,UPI,21.818340346487737
+ORD00222,2026-05-17,2026-05,Sunday,North,Delhi,Office Supplies,Markers,Home Office,2,5584.5,15,2312.36,41.41,UPI,41.40675082818516
+ORD00223,2026-07-26,2026-07,Sunday,South,Chennai,Furniture,Conference Table,Consumer,7,4315.5,25,986.74,22.87,Net Banking,22.8650214343645
+ORD00224,2026-05-06,2026-05,Wednesday,East,Kolkata,Office Supplies,Notebooks,Small Business,8,7170.0,25,-1057.31,-14.75,Cash,-14.746304044630405
+ORD00225,2026-09-28,2026-09,Monday,North,Jaipur,Clothing,Shoes,Home Office,9,6858.0,25,1793.68,26.15,Net Banking,26.15456401283173
+ORD00226,2026-09-19,2026-09,Saturday,South,Pune,Electronics,Laptop,Consumer,1,2951.1,10,-407.79,-13.82,Credit Card,-13.818237267459594
+ORD00227,2026-06-28,2026-06,Sunday,West,Indore,Sports,Dumbbells,Corporate,2,4816.0,0,1671.59,34.71,Credit Card,34.70909468438538
+ORD00228,2026-09-28,2026-09,Monday,Central,Bhopal,Clothing,Caps,Consumer,4,2625.0,25,-227.68,-8.67,Debit Card,-8.673523809523811
+ORD00229,2026-06-26,2026-06,Friday,North,Chandigarh,Electronics,Headphones,Home Office,10,18980.0,0,4399.18,23.18,UPI,23.17797681770285
+ORD00230,2026-05-02,2026-05,Saturday,North,Lucknow,Sports,Cycling Helmet,Small Business,2,4381.4,5,1249.76,28.52,Net Banking,28.524216004016985
+ORD00231,2026-05-19,2026-05,Tuesday,West,Indore,Office Supplies,Printer Paper,Consumer,3,13421.7,10,5710.45,42.55,Cash,42.54639874233517
+ORD00232,2026-10-09,2026-10,Friday,West,Mumbai,Sports,Dumbbells,Consumer,2,6496.0,0,1655.04,25.48,Net Banking,25.477832512315267
+ORD00233,2026-05-16,2026-05,Saturday,East,Bhubaneswar,Office Supplies,Markers,Corporate,8,14067.6,5,-1969.51,-14.0,Debit Card,-14.000326992521822
+ORD00234,2026-06-28,2026-06,Sunday,Central,Gwalior,Furniture,Office Chair,Corporate,2,8978.0,0,1805.33,20.11,Net Banking,20.10837603029628
+ORD00235,2026-05-18,2026-05,Monday,Central,Jabalpur,Clothing,Shoes,Small Business,4,5848.2,5,1918.01,32.8,Cash,32.796586984029275
+ORD00236,2026-05-09,2026-05,Saturday,North,Lucknow,Furniture,Desk,Corporate,10,7676.0,5,2360.98,30.76,Cash,30.75794684731631
+ORD00237,2026-07-24,2026-07,Friday,West,Mumbai,Office Supplies,Stapler,Home Office,1,3144.0,20,1054.33,33.53,UPI,33.534669211195926
+ORD00238,2026-05-19,2026-05,Tuesday,Central,Bhopal,Sports,Basketball,Home Office,9,42074.55,5,12321.25,29.28,UPI,29.28432983834646
+ORD00239,2026-09-09,2026-09,Wednesday,South,Chennai,Office Supplies,Printer Paper,Consumer,2,3963.4,5,1596.4,40.28,Debit Card,40.27854872079528
+ORD00240,2026-06-30,2026-06,Tuesday,Central,Gwalior,Clothing,Jeans,Corporate,1,1808.0,0,594.78,32.9,UPI,32.89712389380531
+ORD00241,2026-07-11,2026-07,Saturday,North,Lucknow,Office Supplies,Stapler,Corporate,1,4212.0,0,1731.4,41.11,Credit Card,41.106362773029446
+ORD00242,2026-10-19,2026-10,Monday,Central,Nagpur,Furniture,Office Chair,Consumer,9,40257.0,0,8479.29,21.06,UPI,21.062895893881812
+ORD00243,2026-09-02,2026-09,Wednesday,East,Ranchi,Sports,Cycling Helmet,Small Business,7,21080.5,5,7365.89,34.94,Credit Card,34.94172339365765
+ORD00244,2026-06-24,2026-06,Wednesday,West,Ahmedabad,Electronics,Tablet,Corporate,2,4493.5,5,1005.53,22.38,Net Banking,22.377434071436518
+ORD00245,2026-09-16,2026-09,Wednesday,North,Lucknow,Furniture,Office Chair,Corporate,10,37043.0,15,7710.53,20.82,Credit Card,20.815079772156682
+ORD00246,2026-06-03,2026-06,Wednesday,North,Jaipur,Sports,Tennis Racket,Small Business,7,12335.4,10,2803.6,22.73,Debit Card,22.728083402240706
+ORD00247,2026-09-24,2026-09,Thursday,West,Surat,Office Supplies,Pens,Corporate,3,9753.0,0,3938.57,40.38,Cash,40.383164154619095
+ORD00248,2026-09-25,2026-09,Friday,West,Ahmedabad,Electronics,Headphones,Home Office,7,28302.4,5,6397.3,22.6,Debit Card,22.60338345864662
+ORD00249,2026-08-30,2026-08,Sunday,West,Surat,Sports,Dumbbells,Home Office,10,15136.0,20,5615.47,37.1,Debit Card,37.10009249471459
+ORD00250,2026-07-02,2026-07,Thursday,North,Lucknow,Furniture,Conference Table,Small Business,8,31521.6,10,6372.9,20.22,Debit Card,20.217565098218365
+ORD00251,2026-08-30,2026-08,Sunday,West,Ahmedabad,Furniture,Bookshelf,Small Business,10,38541.5,5,12864.13,33.38,Debit Card,33.3773464966335
+ORD00252,2026-08-13,2026-08,Thursday,West,Ahmedabad,Sports,Yoga Mat,Home Office,1,3922.0,0,1561.95,39.83,UPI,39.82534421213666
+ORD00253,2026-06-18,2026-06,Thursday,North,Delhi,Clothing,Caps,Home Office,8,22380.0,25,8152.1,36.43,Net Banking,36.42582663092047
+ORD00254,2026-05-25,2026-05,Monday,North,Jaipur,Electronics,Monitor,Home Office,7,3996.65,5,652.54,16.33,Cash,16.327174008231893
+ORD00255,2026-05-25,2026-05,Monday,East,Kolkata,Electronics,Headphones,Home Office,3,6743.25,25,1321.19,19.59,Credit Card,19.592777963148333
+ORD00256,2026-10-16,2026-10,Friday,Central,Bhopal,Clothing,Shoes,Small Business,7,10872.75,5,3892.14,35.8,Credit Card,35.79719942056977
+ORD00257,2026-08-19,2026-08,Wednesday,South,Pune,Electronics,Laptop,Small Business,6,17529.6,20,2686.79,15.33,Net Banking,15.327160916392845
+ORD00258,2026-07-30,2026-07,Thursday,North,Chandigarh,Sports,Cycling Helmet,Consumer,2,3513.6,20,1321.71,37.62,Debit Card,37.61697404371585
+ORD00259,2026-08-17,2026-08,Monday,South,Bangalore,Sports,Basketball,Small Business,2,1567.4,15,428.09,27.31,Debit Card,27.312109225468927
+ORD00260,2026-08-14,2026-08,Friday,East,Guwahati,Office Supplies,Pens,Home Office,9,7074.0,25,2943.04,41.6,Cash,41.60361888606163
+ORD00261,2026-08-28,2026-08,Friday,Central,Jabalpur,Furniture,Conference Table,Corporate,8,8580.0,25,2924.68,34.09,Credit Card,34.08717948717948
+ORD00262,2026-05-14,2026-05,Thursday,Central,Nagpur,Furniture,Bookshelf,Home Office,5,13556.0,20,4094.37,30.2,Debit Card,30.20337857775155
+ORD00263,2026-10-20,2026-10,Tuesday,Central,Bhopal,Office Supplies,Stapler,Home Office,8,26918.4,20,10202.14,37.9,UPI,37.90024667142177
+ORD00264,2026-10-15,2026-10,Thursday,East,Guwahati,Clothing,Caps,Small Business,2,6678.5,5,2527.02,37.84,Cash,37.83813730628135
+ORD00265,2026-10-13,2026-10,Tuesday,West,Mumbai,Clothing,Jeans,Consumer,2,5724.0,0,1333.42,23.3,UPI,23.295248078266948
+ORD00266,2026-05-26,2026-05,Tuesday,Central,Nagpur,Clothing,Jeans,Corporate,9,14667.75,25,3000.11,20.45,UPI,20.453784663632803
+ORD00267,2026-05-16,2026-05,Saturday,Central,Nagpur,Clothing,Jackets,Corporate,8,23646.0,25,7778.04,32.89,Net Banking,32.893681806648054
+ORD00268,2026-08-12,2026-08,Wednesday,East,Kolkata,Electronics,Smartphone,Consumer,6,24255.6,15,5042.02,20.79,Net Banking,20.78703474661522
+ORD00269,2026-07-26,2026-07,Sunday,West,Surat,Clothing,Caps,Home Office,9,37048.95,15,10803.53,29.16,UPI,29.16015163722589
+ORD00270,2026-05-28,2026-05,Thursday,Central,Jabalpur,Furniture,Bookshelf,Small Business,8,16970.4,10,5865.12,34.56,Net Banking,34.56088247772592
+ORD00271,2026-07-03,2026-07,Friday,Central,Bhopal,Furniture,Bookshelf,Home Office,8,21500.4,5,6295.2,29.28,UPI,29.27945526594854
+ORD00272,2026-06-19,2026-06,Friday,West,Surat,Furniture,Desk,Corporate,3,5007.45,5,1089.31,21.75,Debit Card,21.753786857582202
+ORD00273,2026-06-18,2026-06,Thursday,North,Jaipur,Clothing,Jackets,Corporate,3,10054.8,5,-1189.54,-11.83,Net Banking,-11.830568484703823
+ORD00274,2026-09-15,2026-09,Tuesday,North,Chandigarh,Furniture,Bookshelf,Home Office,9,35679.15,5,9991.82,28.0,UPI,28.00464697169075
+ORD00275,2026-08-23,2026-08,Sunday,Central,Bhopal,Clothing,Shoes,Corporate,8,12168.0,10,2813.37,23.12,Cash,23.121055226824456
+ORD00276,2026-06-05,2026-06,Friday,South,Hyderabad,Office Supplies,Notebooks,Small Business,10,21555.0,25,6942.06,32.21,Cash,32.2062630480167
+ORD00277,2026-08-17,2026-08,Monday,West,Indore,Office Supplies,Printer Paper,Corporate,1,4201.85,5,1687.89,40.17,Net Banking,40.17016314242536
+ORD00278,2026-06-16,2026-06,Tuesday,West,Mumbai,Clothing,Caps,Small Business,8,16596.0,10,3626.16,21.85,Cash,21.849602313810557
+ORD00279,2026-07-11,2026-07,Saturday,South,Chennai,Sports,Cycling Helmet,Home Office,5,11015.25,5,2252.73,20.45,Credit Card,20.451011098250156
+ORD00280,2026-08-27,2026-08,Thursday,West,Indore,Electronics,Monitor,Home Office,4,12685.4,15,2305.9,18.18,Credit Card,18.177589985337477
+ORD00281,2026-07-03,2026-07,Friday,East,Kolkata,Office Supplies,Notebooks,Small Business,7,10779.3,10,-1245.1,-11.55,Cash,-11.550842819106991
+ORD00282,2026-05-20,2026-05,Wednesday,West,Surat,Clothing,Caps,Small Business,4,3651.0,25,1378.48,37.76,UPI,37.756231169542595
+ORD00283,2026-08-22,2026-08,Saturday,West,Indore,Clothing,Jackets,Small Business,7,9665.25,25,3665.89,37.93,Cash,37.9285584956416
+ORD00284,2026-09-18,2026-09,Friday,West,Mumbai,Furniture,Desk,Corporate,8,19097.6,20,6645.88,34.8,Cash,34.799555965147455
+ORD00285,2026-05-26,2026-05,Tuesday,North,Lucknow,Electronics,Laptop,Home Office,5,16379.5,15,2743.39,16.75,Cash,16.748923959827835
+ORD00286,2026-05-13,2026-05,Wednesday,East,Bhubaneswar,Furniture,Desk,Corporate,5,14508.0,20,3969.21,27.36,UPI,27.358767576509514
+ORD00287,2026-10-14,2026-10,Wednesday,West,Surat,Sports,Basketball,Corporate,9,30692.25,25,-4596.33,-14.98,UPI,-14.975539427705693
+ORD00288,2026-09-16,2026-09,Wednesday,East,Guwahati,Office Supplies,Notebooks,Small Business,5,6447.25,15,2107.64,32.69,Credit Card,32.69052696886269
+ORD00289,2026-05-04,2026-05,Monday,East,Bhubaneswar,Electronics,Laptop,Corporate,8,22160.0,0,4651.14,20.99,Net Banking,20.98889891696751
+ORD00290,2026-05-24,2026-05,Sunday,East,Ranchi,Sports,Tennis Racket,Consumer,8,15672.0,25,5699.22,36.37,Credit Card,36.3656202143951
+ORD00291,2026-06-30,2026-06,Tuesday,South,Bangalore,Office Supplies,Pens,Consumer,3,2643.3,10,975.79,36.92,UPI,36.915597926833875
+ORD00292,2026-06-12,2026-06,Friday,West,Surat,Furniture,Office Chair,Consumer,6,13938.3,15,4117.89,29.54,UPI,29.543703321064985
+ORD00293,2026-08-13,2026-08,Thursday,North,Delhi,Office Supplies,Stapler,Consumer,2,7740.8,20,2547.28,32.91,UPI,32.9071930549814
+ORD00294,2026-09-02,2026-09,Wednesday,North,Delhi,Sports,Dumbbells,Consumer,6,26751.6,10,9774.08,36.54,UPI,36.53643146578149
+ORD00295,2026-09-01,2026-09,Tuesday,North,Chandigarh,Office Supplies,Stapler,Small Business,9,9252.0,20,3263.59,35.27,UPI,35.2744271508863
+ORD00296,2026-06-24,2026-06,Wednesday,North,Jaipur,Sports,Basketball,Corporate,8,24174.0,15,6480.15,26.81,UPI,26.806279473814843
+ORD00297,2026-08-11,2026-08,Tuesday,West,Mumbai,Furniture,Desk,Corporate,4,17567.4,5,5608.67,31.93,Debit Card,31.926579915069958
+ORD00298,2026-05-16,2026-05,Saturday,North,Delhi,Clothing,Shoes,Consumer,2,2137.5,5,822.26,38.47,Debit Card,38.468304093567255
+ORD00299,2026-06-12,2026-06,Friday,East,Guwahati,Office Supplies,Pens,Corporate,10,32960.0,20,13663.19,41.45,Cash,41.45385315533981
+ORD00300,2026-08-06,2026-08,Thursday,South,Hyderabad,Electronics,Laptop,Consumer,3,5222.25,25,857.68,16.42,Debit Card,16.423572215041407
+ORD00301,2026-05-01,2026-05,Friday,Central,Nagpur,Furniture,Desk,Corporate,7,6000.75,25,1886.96,31.45,Credit Card,31.445402658001083
+ORD00302,2026-08-08,2026-08,Saturday,North,Delhi,Clothing,Shoes,Small Business,4,3392.0,0,700.65,20.66,Cash,20.655955188679247
+ORD00303,2026-07-07,2026-07,Tuesday,Central,Bhopal,Clothing,T-Shirts,Home Office,1,2572.0,0,-360.98,-14.03,Net Banking,-14.034992223950235
+ORD00304,2026-08-25,2026-08,Tuesday,Central,Bhopal,Sports,Dumbbells,Consumer,3,4810.5,25,1300.31,27.03,UPI,27.030662093337487
+ORD00305,2026-07-13,2026-07,Monday,Central,Jabalpur,Sports,Basketball,Small Business,3,8124.0,20,2893.45,35.62,Debit Card,35.61607582471689
+ORD00306,2026-08-17,2026-08,Monday,East,Kolkata,Electronics,Monitor,Small Business,9,5249.7,5,1163.23,22.16,Credit Card,22.158028077794924
+ORD00307,2026-10-26,2026-10,Monday,North,Jaipur,Sports,Yoga Mat,Consumer,4,4185.6,20,1549.76,37.03,Net Banking,37.02599388379205
+ORD00308,2026-09-20,2026-09,Sunday,West,Ahmedabad,Clothing,T-Shirts,Consumer,6,10103.1,15,2877.55,28.48,UPI,28.481852104799515
+ORD00309,2026-10-17,2026-10,Saturday,East,Ranchi,Electronics,Tablet,Small Business,8,12096.0,0,2443.06,20.2,UPI,20.19725529100529
+ORD00310,2026-09-02,2026-09,Wednesday,West,Surat,Office Supplies,Markers,Consumer,2,1497.6,10,560.19,37.41,Net Banking,37.405849358974365
+ORD00311,2026-06-09,2026-06,Tuesday,North,Lucknow,Sports,Basketball,Consumer,4,13235.2,20,3725.13,28.15,Net Banking,28.145626813346226
+ORD00312,2026-06-18,2026-06,Thursday,East,Ranchi,Furniture,Office Chair,Home Office,6,25057.2,5,5059.5,20.19,Net Banking,20.191801158948326
+ORD00313,2026-07-15,2026-07,Wednesday,Central,Bhopal,Clothing,Shoes,Home Office,2,9562.0,0,2186.58,22.87,Credit Card,22.867391759046225
+ORD00314,2026-06-25,2026-06,Thursday,East,Kolkata,Furniture,Office Chair,Consumer,4,12524.4,10,2881.11,23.0,Cash,23.003976238382677
+ORD00315,2026-05-15,2026-05,Friday,East,Ranchi,Electronics,Smartphone,Small Business,8,28648.8,10,6488.43,22.65,Cash,22.648173745497196
+ORD00316,2026-09-26,2026-09,Saturday,North,Chandigarh,Clothing,Jackets,Corporate,10,37374.5,15,14856.54,39.75,Debit Card,39.7504715782151
+ORD00317,2026-09-16,2026-09,Wednesday,Central,Nagpur,Clothing,T-Shirts,Consumer,5,6375.0,15,1909.02,29.95,UPI,29.94541176470588
+ORD00318,2026-05-16,2026-05,Saturday,Central,Nagpur,Electronics,Laptop,Consumer,2,1584.4,15,345.1,21.78,Debit Card,21.781115879828327
+ORD00319,2026-07-20,2026-07,Monday,South,Pune,Sports,Basketball,Corporate,5,7004.0,20,2273.82,32.46,Cash,32.464591661907484
+ORD00320,2026-05-15,2026-05,Friday,South,Pune,Clothing,Jeans,Corporate,8,19747.2,15,5943.1,30.1,Net Banking,30.095912331874903
+ORD00321,2026-05-13,2026-05,Wednesday,West,Mumbai,Electronics,Headphones,Corporate,7,8776.25,15,1592.5,18.15,UPI,18.14556331006979
+ORD00322,2026-09-27,2026-09,Sunday,South,Pune,Electronics,Laptop,Home Office,9,13149.0,25,3103.64,23.6,Cash,23.603620047151875
+ORD00323,2026-08-31,2026-08,Monday,North,Jaipur,Clothing,Shoes,Home Office,5,6003.75,25,1667.94,27.78,UPI,27.781636477201747
+ORD00324,2026-09-06,2026-09,Sunday,East,Ranchi,Sports,Cycling Helmet,Home Office,8,27827.2,20,10320.28,37.09,Debit Card,37.08702276908924
+ORD00325,2026-09-13,2026-09,Sunday,Central,Gwalior,Office Supplies,Notebooks,Small Business,10,26955.0,25,9512.81,35.29,Cash,35.291448710814315
+ORD00326,2026-06-10,2026-06,Wednesday,East,Guwahati,Electronics,Laptop,Consumer,3,2346.3,10,433.8,18.49,Debit Card,18.488684311469118
+ORD00327,2026-05-15,2026-05,Friday,North,Delhi,Office Supplies,Notebooks,Home Office,7,8171.1,10,3667.12,44.88,UPI,44.8791472384379
+ORD00328,2026-09-08,2026-09,Tuesday,East,Kolkata,Furniture,Desk,Small Business,5,9688.0,20,2061.04,21.27,Credit Card,21.27415359207267
+ORD00329,2026-05-21,2026-05,Thursday,Central,Jabalpur,Electronics,Tablet,Small Business,1,1512.0,20,276.11,18.26,Net Banking,18.261243386243386
+ORD00330,2026-06-17,2026-06,Wednesday,South,Pune,Sports,Cycling Helmet,Corporate,5,19750.0,0,6699.04,33.92,Debit Card,33.91918987341772
+ORD00331,2026-05-18,2026-05,Monday,West,Surat,Clothing,Caps,Corporate,6,17745.6,20,3895.96,21.95,UPI,21.954512667928952
+ORD00332,2026-09-30,2026-09,Wednesday,Central,Nagpur,Office Supplies,Notebooks,Home Office,6,26322.6,5,10324.36,39.22,Cash,39.2224172384187
+ORD00333,2026-05-18,2026-05,Monday,Central,Gwalior,Furniture,Filing Cabinet,Consumer,9,9550.35,5,-481.12,-5.04,Debit Card,-5.037721130639191
+ORD00334,2026-10-20,2026-10,Tuesday,Central,Gwalior,Furniture,Conference Table,Consumer,10,12530.0,0,3618.41,28.88,UPI,28.877972865123702
+ORD00335,2026-06-30,2026-06,Tuesday,Central,Gwalior,Clothing,Jeans,Consumer,2,5017.5,25,1830.12,36.47,Credit Card,36.47473841554559
+ORD00336,2026-08-12,2026-08,Wednesday,North,Chandigarh,Clothing,Caps,Small Business,4,10424.4,15,2923.63,28.05,Debit Card,28.046026629830017
+ORD00337,2026-05-31,2026-05,Sunday,Central,Gwalior,Sports,Dumbbells,Small Business,9,5574.6,5,1758.05,31.54,UPI,31.53679187744412
+ORD00338,2026-09-23,2026-09,Wednesday,East,Ranchi,Office Supplies,Markers,Small Business,10,30397.5,25,11977.03,39.4,Debit Card,39.4013652438523
+ORD00339,2026-07-03,2026-07,Friday,North,Chandigarh,Clothing,Jeans,Small Business,3,5555.25,25,1872.46,33.71,UPI,33.70613383736106
+ORD00340,2026-09-26,2026-09,Saturday,South,Pune,Clothing,Jackets,Consumer,4,3491.8,15,884.78,25.34,Net Banking,25.338793745346237
+ORD00341,2026-09-30,2026-09,Wednesday,East,Bhubaneswar,Office Supplies,Markers,Consumer,7,16186.1,5,5131.54,31.7,UPI,31.703375118156934
+ORD00342,2026-05-11,2026-05,Monday,East,Bhubaneswar,Office Supplies,Notebooks,Corporate,9,34241.4,15,12440.0,36.33,UPI,36.330290233460076
+ORD00343,2026-10-06,2026-10,Tuesday,East,Bhubaneswar,Furniture,Bookshelf,Consumer,1,1455.3,10,463.44,31.84,UPI,31.84498041640899
+ORD00344,2026-05-21,2026-05,Thursday,East,Bhubaneswar,Electronics,Headphones,Small Business,1,663.0,0,120.26,18.14,Cash,18.138763197586727
+ORD00345,2026-08-16,2026-08,Sunday,North,Delhi,Clothing,Jackets,Small Business,7,6504.75,25,2397.33,36.86,UPI,36.85506745070909
+ORD00346,2026-10-16,2026-10,Friday,South,Bangalore,Sports,Cycling Helmet,Home Office,5,20408.5,15,7692.23,37.69,Net Banking,37.69130509346596
+ORD00347,2026-09-27,2026-09,Sunday,South,Bangalore,Office Supplies,Stapler,Consumer,4,12559.6,15,4178.59,33.27,Credit Card,33.270088219370045
+ORD00348,2026-09-22,2026-09,Tuesday,Central,Nagpur,Office Supplies,Notebooks,Consumer,5,15380.0,20,4743.02,30.84,Net Banking,30.83888166449935
+ORD00349,2026-09-11,2026-09,Friday,West,Mumbai,Office Supplies,Markers,Corporate,8,23826.0,25,8028.22,33.7,Credit Card,33.69520691681356
+ORD00350,2026-07-20,2026-07,Monday,North,Jaipur,Office Supplies,Notebooks,Corporate,5,17560.0,0,6967.98,39.68,Cash,39.68097949886105
+ORD00351,2026-07-06,2026-07,Monday,South,Bangalore,Electronics,Smartphone,Small Business,9,19675.8,15,3559.88,18.09,Cash,18.092682381402536
+ORD00352,2026-06-22,2026-06,Monday,North,Chandigarh,Electronics,Monitor,Home Office,8,16564.8,15,2497.75,15.08,Cash,15.07866077465469
+ORD00353,2026-10-19,2026-10,Monday,North,Chandigarh,Office Supplies,Printer Paper,Consumer,5,11533.0,5,4946.65,42.89,Credit Card,42.891268533772646
+ORD00354,2026-07-20,2026-07,Monday,Central,Gwalior,Office Supplies,Notebooks,Consumer,5,3885.0,0,1645.22,42.35,Net Banking,42.34800514800515
+ORD00355,2026-07-01,2026-07,Wednesday,South,Pune,Clothing,Jackets,Home Office,2,7524.0,5,2555.88,33.97,Debit Card,33.96969696969697
+ORD00356,2026-07-07,2026-07,Tuesday,West,Surat,Clothing,Caps,Consumer,6,25428.6,15,8621.36,33.9,Cash,33.904186624509414
+ORD00357,2026-08-10,2026-08,Monday,West,Ahmedabad,Clothing,Jeans,Corporate,7,3491.25,5,1136.96,32.57,Credit Card,32.565986394557825
+ORD00358,2026-06-03,2026-06,Wednesday,West,Mumbai,Electronics,Smartphone,Home Office,9,17172.0,25,4240.91,24.7,Net Banking,24.69665734917307
+ORD00359,2026-10-19,2026-10,Monday,East,Bhubaneswar,Sports,Tennis Racket,Consumer,8,21188.8,15,7939.47,37.47,Cash,37.47012572679906
+ORD00360,2026-10-13,2026-10,Tuesday,South,Chennai,Sports,Basketball,Corporate,4,11232.0,0,3177.52,28.29,UPI,28.289886039886042
+ORD00361,2026-07-16,2026-07,Thursday,East,Ranchi,Sports,Dumbbells,Corporate,1,535.2,20,176.31,32.94,Net Banking,32.94282511210762
+ORD00362,2026-08-26,2026-08,Wednesday,East,Kolkata,Clothing,Jeans,Small Business,3,7932.0,0,2222.6,28.02,Credit Card,28.020675743822487
+ORD00363,2026-07-20,2026-07,Monday,East,Guwahati,Furniture,Office Chair,Consumer,3,8433.6,20,1835.17,21.76,Debit Card,21.76022102067919
+ORD00364,2026-05-19,2026-05,Tuesday,Central,Gwalior,Clothing,Shoes,Home Office,4,4410.0,25,1061.17,24.06,Debit Card,24.062811791383222
+ORD00365,2026-05-03,2026-05,Sunday,Central,Jabalpur,Office Supplies,Notebooks,Corporate,3,9253.95,15,3964.86,42.85,Debit Card,42.84505535474041
+ORD00366,2026-08-26,2026-08,Wednesday,North,Chandigarh,Furniture,Filing Cabinet,Corporate,7,13147.05,5,2686.15,20.43,UPI,20.431579707995333
+ORD00367,2026-10-07,2026-10,Wednesday,North,Jaipur,Sports,Tennis Racket,Small Business,6,12163.2,20,4097.22,33.69,Net Banking,33.685378847671664
+ORD00368,2026-09-22,2026-09,Tuesday,South,Bangalore,Clothing,Jeans,Home Office,7,16527.0,25,4006.86,24.24,Cash,24.244327464149574
+ORD00369,2026-05-26,2026-05,Tuesday,South,Pune,Sports,Basketball,Small Business,2,1756.8,20,372.0,21.17,Net Banking,21.174863387978142
+ORD00370,2026-05-19,2026-05,Tuesday,Central,Nagpur,Clothing,Jackets,Corporate,1,784.8,10,236.15,30.09,Debit Card,30.090468909276254
+ORD00371,2026-09-15,2026-09,Tuesday,North,Lucknow,Office Supplies,Pens,Consumer,10,7942.0,5,2692.69,33.9,UPI,33.90443213296399
+ORD00372,2026-06-24,2026-06,Wednesday,North,Chandigarh,Clothing,Jeans,Home Office,6,5553.0,25,1699.69,30.61,Debit Card,30.60849990995858
+ORD00373,2026-09-07,2026-09,Monday,East,Kolkata,Office Supplies,Printer Paper,Consumer,8,11138.4,10,4590.95,41.22,Credit Card,41.217320261437905
+ORD00374,2026-07-07,2026-07,Tuesday,West,Surat,Office Supplies,Markers,Consumer,9,21546.0,10,7872.18,36.54,Net Banking,36.53661932609301
+ORD00375,2026-06-03,2026-06,Wednesday,West,Indore,Furniture,Conference Table,Small Business,1,3898.8,5,866.68,22.23,UPI,22.22940391915461
+ORD00376,2026-07-29,2026-07,Wednesday,West,Mumbai,Clothing,Jackets,Corporate,8,12505.2,15,2791.22,22.32,Debit Card,22.320474682532062
+ORD00377,2026-05-18,2026-05,Monday,Central,Gwalior,Electronics,Headphones,Consumer,9,26163.0,15,5122.09,19.58,UPI,19.57760960134541
+ORD00378,2026-07-02,2026-07,Thursday,West,Ahmedabad,Electronics,Tablet,Home Office,4,4557.6,10,765.98,16.81,Credit Card,16.806652624188168
+ORD00379,2026-08-03,2026-08,Monday,West,Surat,Sports,Cycling Helmet,Small Business,10,22390.0,0,6833.5,30.52,Credit Card,30.520321572130417
+ORD00380,2026-07-12,2026-07,Sunday,East,Ranchi,Electronics,Smartphone,Home Office,2,8244.0,10,1258.0,15.26,Net Banking,15.259582726831637
+ORD00381,2026-06-10,2026-06,Wednesday,South,Bangalore,Clothing,Jackets,Consumer,6,7797.6,5,1604.55,20.58,UPI,20.577485380116958
+ORD00382,2026-08-21,2026-08,Friday,Central,Gwalior,Clothing,Jackets,Home Office,6,3282.0,0,1087.11,33.12,Debit Card,33.123400365630715
+ORD00383,2026-09-17,2026-09,Thursday,North,Chandigarh,Sports,Dumbbells,Small Business,1,1673.25,25,429.34,25.66,Debit Card,25.659046765277154
+ORD00384,2026-10-28,2026-10,Wednesday,East,Kolkata,Sports,Cycling Helmet,Small Business,2,6160.8,15,1546.56,25.1,Cash,25.10323334631866
+ORD00385,2026-07-17,2026-07,Friday,West,Indore,Electronics,Laptop,Corporate,3,5622.75,15,1281.7,22.79,Debit Card,22.794895736072206
+ORD00386,2026-10-04,2026-10,Sunday,North,Jaipur,Electronics,Tablet,Home Office,7,23735.25,25,5474.19,23.06,Net Banking,23.063544727778304
+ORD00387,2026-10-15,2026-10,Thursday,East,Bhubaneswar,Office Supplies,Printer Paper,Small Business,9,30010.5,5,11207.22,37.34,Credit Card,37.34432948468036
+ORD00388,2026-09-13,2026-09,Sunday,Central,Gwalior,Office Supplies,Markers,Small Business,2,6740.5,15,2842.13,42.16,Debit Card,42.16497292485721
+ORD00389,2026-05-03,2026-05,Sunday,West,Indore,Clothing,T-Shirts,Corporate,9,6731.1,10,2656.46,39.47,Cash,39.4654662685148
+ORD00390,2026-10-18,2026-10,Sunday,Central,Nagpur,Clothing,Caps,Small Business,2,8636.4,10,2536.03,29.36,Net Banking,29.364434255013666
+ORD00391,2026-09-19,2026-09,Saturday,East,Ranchi,Office Supplies,Pens,Consumer,5,7343.5,5,2779.25,37.85,Net Banking,37.846394770885816
+ORD00392,2026-07-16,2026-07,Thursday,North,Delhi,Sports,Yoga Mat,Home Office,9,7821.0,0,2362.96,30.21,Net Banking,30.213016238332695
+ORD00393,2026-10-17,2026-10,Saturday,South,Pune,Sports,Basketball,Corporate,5,13644.0,20,2951.93,21.64,Net Banking,21.635370858985635
+ORD00394,2026-05-27,2026-05,Wednesday,West,Mumbai,Clothing,Jeans,Consumer,7,13944.0,0,3021.08,21.67,Net Banking,21.66580608146873
+ORD00395,2026-06-04,2026-06,Thursday,Central,Jabalpur,Office Supplies,Markers,Consumer,8,27052.8,20,11393.97,42.12,Net Banking,42.11752572746629
+ORD00396,2026-07-07,2026-07,Tuesday,North,Jaipur,Furniture,Desk,Home Office,10,10260.0,10,3393.42,33.07,Credit Card,33.07426900584795
+ORD00397,2026-05-30,2026-05,Saturday,North,Delhi,Electronics,Headphones,Corporate,1,1382.25,5,297.99,21.56,Credit Card,21.558328811720024
+ORD00398,2026-05-28,2026-05,Thursday,South,Pune,Sports,Tennis Racket,Small Business,10,23840.0,20,6487.95,27.21,Cash,27.214555369127513
+ORD00399,2026-09-19,2026-09,Saturday,East,Ranchi,Office Supplies,Printer Paper,Corporate,3,4572.0,0,1502.45,32.86,Debit Card,32.861986001749784
+ORD00400,2026-06-09,2026-06,Tuesday,South,Chennai,Electronics,Smartphone,Small Business,3,9992.25,25,1740.43,17.42,UPI,17.4177987940654
+ORD00401,2026-07-09,2026-07,Thursday,South,Chennai,Electronics,Tablet,Home Office,3,10954.8,15,2105.38,19.22,Credit Card,19.218789936831346
+ORD00402,2026-07-12,2026-07,Sunday,East,Bhubaneswar,Clothing,Shoes,Home Office,1,3707.7,15,1175.51,31.7,UPI,31.70456077891955
+ORD00403,2026-10-02,2026-10,Friday,East,Ranchi,Electronics,Tablet,Consumer,2,846.0,25,198.61,23.48,Cash,23.476359338061467
+ORD00404,2026-06-23,2026-06,Tuesday,East,Ranchi,Clothing,Caps,Consumer,1,2449.7,15,685.76,27.99,Debit Card,27.99363187329061
+ORD00405,2026-07-27,2026-07,Monday,North,Lucknow,Furniture,Office Chair,Consumer,1,4102.95,15,1175.33,28.65,Credit Card,28.645974238048233
+ORD00406,2026-06-22,2026-06,Monday,North,Chandigarh,Clothing,Shoes,Home Office,8,9324.8,20,3616.09,38.78,Credit Card,38.77927676733013
+ORD00407,2026-10-23,2026-10,Friday,West,Indore,Electronics,Smartphone,Small Business,4,9720.6,15,1792.33,18.44,Debit Card,18.438470876283354
+ORD00408,2026-10-10,2026-10,Saturday,West,Ahmedabad,Sports,Basketball,Home Office,3,11709.9,10,4035.22,34.46,Debit Card,34.45990145090906
+ORD00409,2026-07-07,2026-07,Tuesday,South,Pune,Office Supplies,Notebooks,Home Office,10,17356.5,5,5942.32,34.24,UPI,34.23685650908882
+ORD00410,2026-09-07,2026-09,Monday,South,Pune,Furniture,Desk,Consumer,3,5121.6,20,1402.44,27.38,UPI,27.382849109653236
+ORD00411,2026-09-03,2026-09,Thursday,West,Indore,Office Supplies,Pens,Corporate,9,19935.0,0,8968.54,44.99,Debit Card,44.988913970403814
+ORD00412,2026-07-04,2026-07,Saturday,Central,Jabalpur,Office Supplies,Pens,Consumer,9,17379.0,0,7316.95,42.1,Credit Card,42.10224984176305
+ORD00413,2026-05-14,2026-05,Thursday,South,Bangalore,Sports,Dumbbells,Corporate,9,12722.4,5,3782.03,29.73,Net Banking,29.727331321134383
+ORD00414,2026-05-24,2026-05,Sunday,Central,Jabalpur,Electronics,Monitor,Small Business,3,6054.75,25,1437.21,23.74,Cash,23.73690078037904
+ORD00415,2026-10-10,2026-10,Saturday,Central,Bhopal,Electronics,Headphones,Small Business,2,8488.0,0,1936.67,22.82,Cash,22.816564561734214
+ORD00416,2026-08-17,2026-08,Monday,East,Kolkata,Sports,Yoga Mat,Small Business,2,8844.5,5,2883.18,32.6,UPI,32.598564079371364
+ORD00417,2026-07-10,2026-07,Friday,North,Chandigarh,Furniture,Bookshelf,Consumer,9,31487.4,15,9757.4,30.99,Debit Card,30.988268323202295
+ORD00418,2026-05-12,2026-05,Tuesday,West,Surat,Office Supplies,Pens,Consumer,4,5123.8,15,2282.37,44.54,Credit Card,44.54447870720949
+ORD00419,2026-05-01,2026-05,Friday,North,Delhi,Furniture,Filing Cabinet,Consumer,5,13184.0,20,2975.49,22.57,Credit Card,22.568947208737864
+ORD00420,2026-07-25,2026-07,Saturday,West,Indore,Office Supplies,Pens,Home Office,9,13318.65,15,5568.29,41.81,UPI,41.80821629819839
+ORD00421,2026-06-03,2026-06,Wednesday,North,Lucknow,Clothing,Shoes,Consumer,9,28741.5,25,-3892.79,-13.54,UPI,-13.544143485900179
+ORD00422,2026-10-11,2026-10,Sunday,West,Mumbai,Sports,Yoga Mat,Home Office,6,6447.6,10,1807.46,28.03,Net Banking,28.033066567404923
+ORD00423,2026-07-07,2026-07,Tuesday,North,Lucknow,Electronics,Headphones,Small Business,3,1927.2,20,300.22,15.58,Cash,15.578040680780408
+ORD00424,2026-06-11,2026-06,Thursday,East,Guwahati,Clothing,Shoes,Consumer,6,16162.2,10,3257.98,20.16,Cash,20.15802304141763
+ORD00425,2026-08-22,2026-08,Saturday,Central,Nagpur,Clothing,Shoes,Home Office,9,15696.0,20,5613.96,35.77,Cash,35.76681957186544
+ORD00426,2026-09-19,2026-09,Saturday,West,Surat,Clothing,Jeans,Small Business,2,5940.0,0,1826.47,30.75,UPI,30.748653198653198
+ORD00427,2026-10-28,2026-10,Wednesday,Central,Nagpur,Sports,Cycling Helmet,Small Business,4,11300.0,0,3416.38,30.23,Net Banking,30.23345132743363
+ORD00428,2026-08-18,2026-08,Tuesday,West,Surat,Furniture,Office Chair,Consumer,9,5241.6,20,1251.71,23.88,Debit Card,23.88030372405372
+ORD00429,2026-09-21,2026-09,Monday,West,Surat,Clothing,Caps,Corporate,1,1263.6,10,318.37,25.2,UPI,25.19547325102881
+ORD00430,2026-05-03,2026-05,Sunday,East,Kolkata,Electronics,Laptop,Corporate,5,16704.0,20,3736.45,22.37,Net Banking,22.368594348659002
+ORD00431,2026-05-29,2026-05,Friday,North,Jaipur,Sports,Cycling Helmet,Small Business,10,46246.0,5,12489.54,27.01,UPI,27.006746529429577
+ORD00432,2026-05-20,2026-05,Wednesday,West,Ahmedabad,Clothing,Caps,Corporate,2,4550.4,10,1380.09,30.33,Debit Card,30.32898206751055
+ORD00433,2026-10-24,2026-10,Saturday,North,Chandigarh,Clothing,T-Shirts,Corporate,7,10115.0,15,2188.78,21.64,Debit Card,21.6389520514088
+ORD00434,2026-06-08,2026-06,Monday,East,Bhubaneswar,Clothing,Jeans,Home Office,2,7477.2,10,2507.59,33.54,Net Banking,33.536484245439475
+ORD00435,2026-09-17,2026-09,Thursday,South,Pune,Office Supplies,Markers,Home Office,7,27286.7,15,11006.16,40.34,Credit Card,40.335254904403975
+ORD00436,2026-05-10,2026-05,Sunday,Central,Gwalior,Furniture,Desk,Home Office,3,11839.65,15,3630.9,30.67,Debit Card,30.66729168514272
+ORD00437,2026-08-03,2026-08,Monday,West,Mumbai,Furniture,Filing Cabinet,Small Business,1,3282.75,25,733.78,22.35,Debit Card,22.352600715863225
+ORD00438,2026-09-27,2026-09,Sunday,East,Kolkata,Sports,Tennis Racket,Corporate,2,2525.4,10,-340.09,-13.47,Debit Card,-13.466777540191652
+ORD00439,2026-09-19,2026-09,Saturday,North,Chandigarh,Office Supplies,Stapler,Consumer,5,12682.0,15,3857.82,30.42,Debit Card,30.419649897492512
+ORD00440,2026-06-07,2026-06,Sunday,West,Indore,Electronics,Tablet,Corporate,4,10723.6,5,2486.94,23.19,Credit Card,23.19127904808087
+ORD00441,2026-08-19,2026-08,Wednesday,North,Delhi,Sports,Basketball,Small Business,1,895.05,15,265.15,29.62,Cash,29.624043349533547
+ORD00442,2026-06-02,2026-06,Tuesday,South,Pune,Office Supplies,Notebooks,Home Office,10,41733.5,5,17289.88,41.43,Cash,41.42925946781363
+ORD00443,2026-05-11,2026-05,Monday,West,Indore,Clothing,Shoes,Small Business,6,10320.0,0,3714.81,36.0,Debit Card,35.99622093023256
+ORD00444,2026-07-18,2026-07,Saturday,Central,Gwalior,Clothing,Jeans,Home Office,6,17947.2,20,3753.91,20.92,Credit Card,20.916410359276096
+ORD00445,2026-08-02,2026-08,Sunday,West,Indore,Office Supplies,Printer Paper,Small Business,1,1484.8,20,585.78,39.45,UPI,39.45177801724138
+ORD00446,2026-05-11,2026-05,Monday,Central,Jabalpur,Sports,Yoga Mat,Consumer,4,3830.4,20,1181.17,30.84,Credit Card,30.836727234753553
+ORD00447,2026-07-31,2026-07,Friday,North,Jaipur,Clothing,Caps,Home Office,2,978.0,25,378.72,38.72,Net Banking,38.7239263803681
+ORD00448,2026-06-23,2026-06,Tuesday,West,Mumbai,Office Supplies,Pens,Home Office,10,21326.5,15,6668.74,31.27,UPI,31.269734836939953
+ORD00449,2026-10-22,2026-10,Thursday,East,Guwahati,Clothing,Caps,Corporate,8,6944.0,0,1860.93,26.8,Cash,26.799107142857142
+ORD00450,2026-07-03,2026-07,Friday,East,Kolkata,Sports,Basketball,Small Business,5,18145.0,0,4045.05,22.29,Cash,22.292918159272528
+ORD00451,2026-10-18,2026-10,Sunday,South,Chennai,Office Supplies,Pens,Corporate,5,9980.0,0,3224.88,32.31,Credit Card,32.31342685370742
+ORD00452,2026-05-27,2026-05,Wednesday,East,Bhubaneswar,Electronics,Monitor,Small Business,3,9492.0,0,2100.86,22.13,Cash,22.132954066582386
+ORD00453,2026-07-30,2026-07,Thursday,South,Bangalore,Office Supplies,Pens,Consumer,6,20957.4,10,7467.69,35.63,Credit Card,35.63271207306249
+ORD00454,2026-09-21,2026-09,Monday,North,Delhi,Electronics,Smartphone,Corporate,10,19696.0,20,3420.19,17.36,Credit Card,17.36489642567019
+ORD00455,2026-08-13,2026-08,Thursday,Central,Gwalior,Electronics,Tablet,Home Office,6,5079.6,15,1042.9,20.53,Credit Card,20.531144184581464
+ORD00456,2026-10-06,2026-10,Tuesday,North,Delhi,Clothing,Jeans,Consumer,5,2608.0,20,1024.15,39.27,Credit Card,39.26955521472393
+ORD00457,2026-06-09,2026-06,Tuesday,Central,Nagpur,Sports,Dumbbells,Small Business,10,25457.5,15,7362.22,28.92,Credit Card,28.919650397721696
+ORD00458,2026-06-30,2026-06,Tuesday,Central,Nagpur,Furniture,Bookshelf,Home Office,3,14041.95,5,3940.6,28.06,Net Banking,28.063053920573704
+ORD00459,2026-06-11,2026-06,Thursday,South,Pune,Electronics,Laptop,Small Business,10,38754.0,10,8343.96,21.53,Net Banking,21.53057748877535
+ORD00460,2026-06-15,2026-06,Monday,East,Kolkata,Clothing,Jackets,Home Office,7,16096.5,10,5931.36,36.85,Net Banking,36.84875594073245
+ORD00461,2026-08-14,2026-08,Friday,East,Guwahati,Electronics,Smartphone,Small Business,10,48750.0,0,8778.11,18.01,Credit Card,18.006379487179487
+ORD00462,2026-05-07,2026-05,Thursday,South,Bangalore,Furniture,Conference Table,Home Office,7,18546.85,5,5407.65,29.16,Cash,29.156703159835768
+ORD00463,2026-06-15,2026-06,Monday,South,Hyderabad,Office Supplies,Stapler,Small Business,5,19988.0,5,7982.04,39.93,UPI,39.93416049629778
+ORD00464,2026-07-25,2026-07,Saturday,North,Jaipur,Clothing,Caps,Corporate,1,2392.5,25,542.49,22.67,Net Banking,22.674608150470217
+ORD00465,2026-08-14,2026-08,Friday,South,Pune,Electronics,Laptop,Home Office,7,10757.6,20,2576.73,23.95,Debit Card,23.952647430653677
+ORD00466,2026-10-19,2026-10,Monday,East,Ranchi,Sports,Yoga Mat,Home Office,9,10215.0,0,3866.52,37.85,Debit Card,37.85139500734214
+ORD00467,2026-07-03,2026-07,Friday,South,Pune,Electronics,Tablet,Corporate,10,32247.0,10,6084.21,18.87,Credit Card,18.86752256023816
+ORD00468,2026-07-08,2026-07,Wednesday,South,Bangalore,Electronics,Headphones,Small Business,4,12015.6,15,1813.59,15.09,UPI,15.093628283231798
+ORD00469,2026-06-10,2026-06,Wednesday,Central,Jabalpur,Office Supplies,Pens,Home Office,10,9277.5,25,3205.16,34.55,Net Banking,34.54766909188898
+ORD00470,2026-10-27,2026-10,Tuesday,South,Chennai,Clothing,Jackets,Corporate,5,3404.25,15,1296.68,38.09,Credit Card,38.09003451567893
+ORD00471,2026-05-28,2026-05,Thursday,North,Jaipur,Electronics,Smartphone,Small Business,2,6739.2,10,1394.41,20.69,Cash,20.691031576448246
+ORD00472,2026-08-06,2026-08,Thursday,South,Chennai,Sports,Cycling Helmet,Home Office,2,3099.2,20,699.33,22.56,UPI,22.56485544656686
+ORD00473,2026-05-10,2026-05,Sunday,West,Surat,Sports,Dumbbells,Home Office,5,22728.75,5,-1205.05,-5.3,Cash,-5.301875378100424
+ORD00474,2026-08-29,2026-08,Saturday,West,Surat,Sports,Tennis Racket,Small Business,7,2709.0,25,906.49,33.46,Cash,33.46216315983758
+ORD00475,2026-06-26,2026-06,Friday,Central,Jabalpur,Clothing,Shoes,Corporate,2,4116.0,25,1249.86,30.37,Debit Card,30.365889212827984
+ORD00476,2026-06-21,2026-06,Sunday,Central,Bhopal,Furniture,Office Chair,Home Office,7,15545.6,20,-2029.31,-13.05,Net Banking,-13.05391879374228
+ORD00477,2026-08-26,2026-08,Wednesday,West,Mumbai,Sports,Yoga Mat,Small Business,7,16436.0,0,6301.55,38.34,Credit Card,38.339924555853
+ORD00478,2026-07-29,2026-07,Wednesday,Central,Jabalpur,Office Supplies,Printer Paper,Home Office,1,1098.2,15,-77.18,-7.03,Cash,-7.027863777089784
+ORD00479,2026-07-18,2026-07,Saturday,Central,Jabalpur,Office Supplies,Pens,Small Business,8,10510.8,5,4664.91,44.38,Cash,44.38206416257564
+ORD00480,2026-06-28,2026-06,Sunday,East,Guwahati,Sports,Dumbbells,Home Office,10,8776.0,20,2524.91,28.77,Credit Card,28.77062443026436
+ORD00481,2026-06-27,2026-06,Saturday,East,Ranchi,Sports,Yoga Mat,Consumer,1,1200.0,0,330.57,27.55,UPI,27.547499999999996
+ORD00482,2026-05-07,2026-05,Thursday,South,Bangalore,Furniture,Office Chair,Corporate,1,3708.0,10,1081.29,29.16,Credit Card,29.161003236245953
+ORD00483,2026-10-16,2026-10,Friday,West,Mumbai,Electronics,Monitor,Corporate,5,3939.75,15,749.22,19.02,Credit Card,19.01694269940986
+ORD00484,2026-06-19,2026-06,Friday,North,Lucknow,Furniture,Conference Table,Consumer,8,3984.8,15,1074.43,26.96,Net Banking,26.96321019875527
+ORD00485,2026-08-11,2026-08,Tuesday,West,Mumbai,Office Supplies,Printer Paper,Small Business,9,34173.9,10,13265.35,38.82,Debit Card,38.81719674956619
+ORD00486,2026-07-24,2026-07,Friday,West,Mumbai,Sports,Yoga Mat,Corporate,10,19817.0,5,6489.53,32.75,Cash,32.74728768229298
+ORD00487,2026-07-11,2026-07,Saturday,East,Ranchi,Clothing,Caps,Small Business,3,11804.7,5,-1619.98,-13.72,Debit Card,-13.723178056197954
+ORD00488,2026-05-18,2026-05,Monday,East,Ranchi,Sports,Basketball,Home Office,10,24392.0,20,8661.58,35.51,UPI,35.50992128566743
+ORD00489,2026-07-11,2026-07,Saturday,Central,Jabalpur,Sports,Basketball,Consumer,6,17304.0,0,5252.39,30.35,Cash,30.353617660656496
+ORD00490,2026-07-29,2026-07,Wednesday,North,Jaipur,Electronics,Smartphone,Small Business,9,41886.0,0,8050.75,19.22,Debit Card,19.22062264241035
+ORD00491,2026-10-12,2026-10,Monday,East,Bhubaneswar,Furniture,Office Chair,Small Business,4,9891.0,25,2684.01,27.14,UPI,27.13588110403397
+ORD00492,2026-09-08,2026-09,Tuesday,Central,Gwalior,Sports,Basketball,Corporate,10,29241.0,10,8296.81,28.37,Net Banking,28.373892821722922
+ORD00493,2026-08-11,2026-08,Tuesday,North,Lucknow,Electronics,Headphones,Home Office,1,1722.75,25,296.83,17.23,UPI,17.23001015817733
+ORD00494,2026-10-21,2026-10,Wednesday,East,Bhubaneswar,Furniture,Filing Cabinet,Corporate,7,21379.75,5,5559.74,26.0,Debit Card,26.00470070978379
+ORD00495,2026-09-15,2026-09,Tuesday,West,Mumbai,Office Supplies,Printer Paper,Home Office,6,6624.0,0,2538.34,38.32,Credit Card,38.320350241545896
+ORD00496,2026-07-24,2026-07,Friday,West,Indore,Furniture,Conference Table,Corporate,1,3448.0,0,792.59,22.99,Cash,22.986948955916475
+ORD00497,2026-05-08,2026-05,Friday,North,Jaipur,Office Supplies,Pens,Small Business,9,28069.65,5,-1844.51,-6.57,Net Banking,-6.571189879460555
+ORD00498,2026-05-30,2026-05,Saturday,North,Delhi,Electronics,Smartphone,Small Business,2,6487.2,10,1580.36,24.36,Debit Card,24.361203600937227
+ORD00499,2026-07-06,2026-07,Monday,East,Bhubaneswar,Office Supplies,Stapler,Consumer,9,13701.6,20,5922.51,43.22,Net Banking,43.22495183044316
+ORD00500,2026-06-15,2026-06,Monday,East,Kolkata,Electronics,Smartphone,Small Business,4,5969.8,5,1213.39,20.33,UPI,20.325471540085097
+ORD00501,2026-09-26,2026-09,Saturday,North,Chandigarh,Sports,Tennis Racket,Small Business,1,2002.4,20,635.69,31.75,Debit Card,31.746404314822215
+ORD00502,2026-07-07,2026-07,Tuesday,North,Chandigarh,Furniture,Bookshelf,Small Business,1,1893.0,25,604.51,31.93,Credit Card,31.933967247754886
+ORD00503,2026-05-10,2026-05,Sunday,Central,Gwalior,Furniture,Office Chair,Small Business,10,43550.0,0,9803.76,22.51,Credit Card,22.511504018369692
+ORD00504,2026-05-28,2026-05,Thursday,Central,Jabalpur,Clothing,Caps,Consumer,3,11618.1,10,3979.17,34.25,Credit Card,34.249748237663646
+ORD00505,2026-09-30,2026-09,Wednesday,Central,Gwalior,Clothing,Shoes,Home Office,10,22933.0,15,7513.34,32.76,Credit Card,32.76213317054027
+ORD00506,2026-08-20,2026-08,Thursday,West,Mumbai,Furniture,Desk,Consumer,8,16431.2,5,4262.01,25.94,Cash,25.93851940211305
+ORD00507,2026-07-28,2026-07,Tuesday,West,Indore,Sports,Dumbbells,Consumer,5,14256.0,20,3092.86,21.7,Net Banking,21.695145903479236
+ORD00508,2026-07-20,2026-07,Monday,Central,Jabalpur,Clothing,Caps,Corporate,4,10816.0,20,2252.2,20.82,Debit Card,20.822855029585796
+ORD00509,2026-08-20,2026-08,Thursday,Central,Jabalpur,Clothing,Shoes,Home Office,7,25763.5,15,7046.38,27.35,Credit Card,27.350243561627885
+ORD00510,2026-10-03,2026-10,Saturday,North,Chandigarh,Clothing,T-Shirts,Corporate,8,14979.6,5,3791.71,25.31,Cash,25.3124916553179
+ORD00511,2026-09-08,2026-09,Tuesday,West,Mumbai,Office Supplies,Markers,Consumer,9,31725.0,25,9889.44,31.17,Credit Card,31.17238770685579
+ORD00512,2026-05-30,2026-05,Saturday,Central,Nagpur,Electronics,Laptop,Small Business,6,6504.0,0,1330.74,20.46,Credit Card,20.460332103321033
+ORD00513,2026-08-07,2026-08,Friday,South,Hyderabad,Office Supplies,Stapler,Home Office,4,8244.0,25,3220.15,39.06,UPI,39.060528869480834
+ORD00514,2026-09-25,2026-09,Friday,East,Guwahati,Electronics,Tablet,Small Business,6,14320.8,15,3502.6,24.46,Debit Card,24.45813083067985
+ORD00515,2026-06-18,2026-06,Thursday,Central,Bhopal,Clothing,Caps,Consumer,7,11451.3,5,2809.98,24.54,Net Banking,24.538524010374367
+ORD00516,2026-07-05,2026-07,Sunday,West,Indore,Furniture,Conference Table,Consumer,8,31240.8,10,9959.17,31.88,UPI,31.87872909784641
+ORD00517,2026-05-12,2026-05,Tuesday,Central,Nagpur,Clothing,Shoes,Consumer,8,15068.8,15,-2050.94,-13.61,UPI,-13.610506476959017
+ORD00518,2026-08-20,2026-08,Thursday,South,Chennai,Office Supplies,Printer Paper,Home Office,6,24807.6,10,8281.36,33.38,Net Banking,33.38235056998662
+ORD00519,2026-05-01,2026-05,Friday,North,Lucknow,Sports,Basketball,Corporate,10,31710.0,0,-4315.3,-13.61,Credit Card,-13.608640807316306
+ORD00520,2026-09-11,2026-09,Friday,West,Surat,Sports,Cycling Helmet,Corporate,7,24618.3,5,9594.7,38.97,Credit Card,38.973852784310864
+ORD00521,2026-09-15,2026-09,Tuesday,North,Lucknow,Furniture,Filing Cabinet,Small Business,6,6667.2,20,2295.46,34.43,Debit Card,34.429145668346536
+ORD00522,2026-10-23,2026-10,Friday,East,Guwahati,Electronics,Smartphone,Home Office,9,11576.7,5,1773.62,15.32,Credit Card,15.320600862076411
+ORD00523,2026-10-19,2026-10,Monday,North,Lucknow,Electronics,Smartphone,Small Business,2,3621.0,15,645.92,17.84,UPI,17.83816625241646
+ORD00524,2026-06-20,2026-06,Saturday,Central,Bhopal,Clothing,T-Shirts,Small Business,9,31671.0,0,7422.58,23.44,UPI,23.436519213160302
+ORD00525,2026-08-02,2026-08,Sunday,South,Pune,Clothing,Jeans,Corporate,3,3376.8,20,957.94,28.37,UPI,28.368277659322434
+ORD00526,2026-08-19,2026-08,Wednesday,North,Lucknow,Furniture,Desk,Home Office,5,9282.0,15,2995.16,32.27,Net Banking,32.2684766214178
+ORD00527,2026-05-18,2026-05,Monday,South,Chennai,Sports,Cycling Helmet,Consumer,10,28899.0,5,8684.01,30.05,Credit Card,30.0495172843351
+ORD00528,2026-10-18,2026-10,Sunday,West,Surat,Furniture,Office Chair,Small Business,8,13344.0,0,4319.28,32.37,Credit Card,32.368705035971225
+ORD00529,2026-07-24,2026-07,Friday,West,Ahmedabad,Sports,Basketball,Consumer,8,30742.8,15,9690.95,31.52,Credit Card,31.522665469638422
+ORD00530,2026-10-07,2026-10,Wednesday,Central,Jabalpur,Clothing,Jackets,Home Office,7,16441.6,20,5996.02,36.47,Credit Card,36.46859186453874
+ORD00531,2026-07-20,2026-07,Monday,Central,Gwalior,Furniture,Desk,Small Business,8,27465.2,15,9245.47,33.66,Debit Card,33.66248925913519
+ORD00532,2026-10-17,2026-10,Saturday,Central,Bhopal,Clothing,T-Shirts,Consumer,3,6650.1,10,2503.84,37.65,Debit Card,37.6511631404039
+ORD00533,2026-06-01,2026-06,Monday,South,Bangalore,Furniture,Filing Cabinet,Consumer,9,34821.0,0,12162.89,34.93,UPI,34.929755032882454
+ORD00534,2026-07-16,2026-07,Thursday,East,Kolkata,Sports,Basketball,Corporate,8,29328.4,5,7348.33,25.06,UPI,25.055338852443366
+ORD00535,2026-09-07,2026-09,Monday,East,Ranchi,Electronics,Laptop,Home Office,7,26982.9,10,6060.24,22.46,Net Banking,22.45955771988926
+ORD00536,2026-07-19,2026-07,Sunday,East,Ranchi,Electronics,Laptop,Home Office,2,3828.0,25,925.28,24.17,Cash,24.171368861024035
+ORD00537,2026-10-18,2026-10,Sunday,West,Indore,Clothing,Shoes,Home Office,2,1692.8,20,561.0,33.14,UPI,33.140359168241964
+ORD00538,2026-08-13,2026-08,Thursday,West,Indore,Furniture,Filing Cabinet,Small Business,3,7940.1,5,2586.68,32.58,Credit Card,32.57742345814284
+ORD00539,2026-07-23,2026-07,Thursday,East,Bhubaneswar,Office Supplies,Printer Paper,Corporate,7,32445.35,5,10111.2,31.16,UPI,31.16378772304814
+ORD00540,2026-08-12,2026-08,Wednesday,Central,Jabalpur,Furniture,Filing Cabinet,Small Business,3,9784.05,5,3005.29,30.72,UPI,30.71621669962848
+ORD00541,2026-10-26,2026-10,Monday,North,Jaipur,Clothing,T-Shirts,Home Office,2,8131.1,15,2748.88,33.81,Debit Card,33.80698798440556
+ORD00542,2026-07-15,2026-07,Wednesday,East,Kolkata,Electronics,Headphones,Small Business,4,7747.2,10,1866.11,24.09,Credit Card,24.087541305245765
+ORD00543,2026-09-19,2026-09,Saturday,North,Delhi,Clothing,T-Shirts,Consumer,6,3528.3,5,1185.48,33.6,Net Banking,33.599183742879006
+ORD00544,2026-06-02,2026-06,Tuesday,East,Kolkata,Furniture,Desk,Small Business,7,4816.0,20,1040.99,21.62,Net Banking,21.615240863787374
+ORD00545,2026-06-19,2026-06,Friday,North,Jaipur,Sports,Dumbbells,Small Business,7,29375.15,15,6584.76,22.42,Net Banking,22.416089790179793
+ORD00546,2026-08-16,2026-08,Sunday,Central,Jabalpur,Office Supplies,Pens,Home Office,7,3265.5,25,1134.55,34.74,UPI,34.743530852855606
+ORD00547,2026-10-18,2026-10,Sunday,West,Indore,Furniture,Office Chair,Consumer,10,25029.0,10,5170.76,20.66,Net Banking,20.659075472451956
+ORD00548,2026-08-06,2026-08,Thursday,East,Ranchi,Office Supplies,Markers,Home Office,2,6888.0,25,2620.38,38.04,Net Banking,38.04268292682927
+ORD00549,2026-10-21,2026-10,Wednesday,East,Bhubaneswar,Office Supplies,Printer Paper,Consumer,7,16574.25,25,7270.84,43.87,Net Banking,43.868289666199075
+ORD00550,2026-06-14,2026-06,Sunday,Central,Nagpur,Office Supplies,Pens,Consumer,8,24832.0,0,8697.8,35.03,Debit Card,35.02657860824742
+ORD00551,2026-10-05,2026-10,Monday,South,Pune,Clothing,Caps,Consumer,9,17308.8,20,-2559.6,-14.79,Credit Card,-14.787853577371049
+ORD00552,2026-09-23,2026-09,Wednesday,East,Kolkata,Office Supplies,Pens,Home Office,4,12832.0,20,4002.41,31.19,Debit Card,31.19085099750623
+ORD00553,2026-07-17,2026-07,Friday,North,Lucknow,Office Supplies,Pens,Consumer,7,11584.3,5,4590.93,39.63,Credit Card,39.630620753951476
+ORD00554,2026-08-12,2026-08,Wednesday,Central,Gwalior,Office Supplies,Pens,Corporate,6,12501.0,25,-885.35,-7.08,Debit Card,-7.082233421326293
+ORD00555,2026-09-18,2026-09,Friday,South,Pune,Office Supplies,Printer Paper,Corporate,6,12830.4,10,4315.34,33.63,Credit Card,33.63371368000998
+ORD00556,2026-05-01,2026-05,Friday,East,Bhubaneswar,Furniture,Conference Table,Corporate,9,29362.5,10,6680.9,22.75,Net Banking,22.753171562366965
+ORD00557,2026-07-17,2026-07,Friday,East,Kolkata,Clothing,T-Shirts,Corporate,1,1557.0,25,620.31,39.84,Cash,39.84007707129094
+ORD00558,2026-07-13,2026-07,Monday,West,Ahmedabad,Electronics,Smartphone,Home Office,4,18984.8,5,3811.06,20.07,Net Banking,20.074269942269606
+ORD00559,2026-06-23,2026-06,Tuesday,South,Pune,Office Supplies,Pens,Small Business,4,7201.2,15,2350.94,32.65,Cash,32.64650336055102
+ORD00560,2026-08-19,2026-08,Wednesday,Central,Jabalpur,Sports,Tennis Racket,Small Business,5,9133.25,15,1972.81,21.6,Net Banking,21.60030657214026
+ORD00561,2026-09-26,2026-09,Saturday,North,Lucknow,Clothing,Jeans,Corporate,8,29620.8,15,8917.59,30.11,Debit Card,30.105837789661322
+ORD00562,2026-10-03,2026-10,Saturday,East,Bhubaneswar,Clothing,T-Shirts,Small Business,7,25368.0,0,8923.74,35.18,Cash,35.1771523178808
+ORD00563,2026-10-15,2026-10,Thursday,Central,Nagpur,Sports,Dumbbells,Corporate,7,15511.65,15,4051.17,26.12,Net Banking,26.11695080794113
+ORD00564,2026-07-22,2026-07,Wednesday,West,Indore,Electronics,Tablet,Corporate,8,12304.4,5,2036.04,16.55,UPI,16.54725138974676
+ORD00565,2026-08-28,2026-08,Friday,East,Kolkata,Sports,Basketball,Small Business,7,26923.75,15,10447.95,38.81,Cash,38.80570128603928
+ORD00566,2026-08-22,2026-08,Saturday,South,Hyderabad,Clothing,Shoes,Small Business,10,30210.0,0,-1747.34,-5.78,Credit Card,-5.783978814961933
+ORD00567,2026-08-22,2026-08,Saturday,Central,Gwalior,Sports,Dumbbells,Consumer,7,13173.3,10,4666.7,35.43,Debit Card,35.425443890293245
+ORD00568,2026-10-20,2026-10,Tuesday,North,Chandigarh,Sports,Tennis Racket,Corporate,1,2637.0,25,730.62,27.71,Net Banking,27.706484641638223
+ORD00569,2026-06-24,2026-06,Wednesday,West,Ahmedabad,Furniture,Filing Cabinet,Small Business,6,3519.0,25,-293.6,-8.34,Net Banking,-8.343279340721796
+ORD00570,2026-09-08,2026-09,Tuesday,Central,Nagpur,Office Supplies,Markers,Small Business,3,11423.7,10,3851.07,33.71,Credit Card,33.71123191260275
+ORD00571,2026-08-30,2026-08,Sunday,East,Bhubaneswar,Electronics,Laptop,Small Business,7,7473.2,15,1648.64,22.06,Net Banking,22.060696890221056
+ORD00572,2026-06-13,2026-06,Saturday,North,Delhi,Sports,Dumbbells,Consumer,3,10108.2,15,2532.85,25.06,Net Banking,25.05737915751568
+ORD00573,2026-10-16,2026-10,Friday,East,Ranchi,Sports,Basketball,Corporate,2,7742.0,0,2533.46,32.72,Credit Card,32.72358563678636
+ORD00574,2026-05-22,2026-05,Friday,East,Guwahati,Furniture,Bookshelf,Corporate,7,11634.0,25,2864.47,24.62,Credit Card,24.62154031287605
+ORD00575,2026-07-12,2026-07,Sunday,South,Pune,Electronics,Laptop,Home Office,7,6003.2,20,1150.72,19.17,UPI,19.168443496801707
+ORD00576,2026-09-09,2026-09,Wednesday,South,Pune,Furniture,Desk,Consumer,3,8030.25,25,1767.86,22.02,UPI,22.015005759471997
+ORD00577,2026-10-17,2026-10,Saturday,East,Kolkata,Clothing,Caps,Consumer,3,6386.85,5,1352.71,21.18,Credit Card,21.17961123245418
+ORD00578,2026-10-10,2026-10,Saturday,West,Ahmedabad,Office Supplies,Notebooks,Corporate,10,41100.0,0,17683.45,43.03,Cash,43.025425790754255
+ORD00579,2026-10-06,2026-10,Tuesday,South,Hyderabad,Electronics,Headphones,Home Office,5,7605.0,0,1400.96,18.42,Cash,18.4215647600263
+ORD00580,2026-07-25,2026-07,Saturday,South,Pune,Clothing,T-Shirts,Home Office,1,519.3,10,-47.65,-9.18,Cash,-9.17581359522434
+ORD00581,2026-05-24,2026-05,Sunday,South,Bangalore,Electronics,Smartphone,Corporate,1,4061.3,15,854.09,21.03,Debit Card,21.029965774505698
+ORD00582,2026-06-30,2026-06,Tuesday,South,Hyderabad,Clothing,Shoes,Small Business,10,27710.0,15,7407.16,26.73,UPI,26.730999639119453
+ORD00583,2026-10-20,2026-10,Tuesday,North,Chandigarh,Office Supplies,Pens,Consumer,7,20581.05,15,8059.98,39.16,Cash,39.16214187322804
+ORD00584,2026-07-19,2026-07,Sunday,East,Guwahati,Electronics,Laptop,Home Office,7,22275.75,25,5202.33,23.35,Cash,23.354230497289652
+ORD00585,2026-06-27,2026-06,Saturday,North,Delhi,Sports,Yoga Mat,Small Business,5,18172.5,25,6365.61,35.03,Cash,35.028807263722655
+ORD00586,2026-06-20,2026-06,Saturday,Central,Gwalior,Sports,Tennis Racket,Home Office,7,24769.5,25,5884.91,23.76,Credit Card,23.75869516946244
+ORD00587,2026-06-07,2026-06,Sunday,Central,Jabalpur,Electronics,Tablet,Small Business,6,3933.0,25,764.7,19.44,Net Banking,19.443173150266972
+ORD00588,2026-05-07,2026-05,Thursday,Central,Gwalior,Sports,Yoga Mat,Small Business,7,19950.35,15,7927.76,39.74,Debit Card,39.73744821519422
+ORD00589,2026-05-12,2026-05,Tuesday,North,Delhi,Clothing,Jackets,Consumer,3,5035.2,20,1889.44,37.52,Net Banking,37.52462662853511
+ORD00590,2026-07-02,2026-07,Thursday,East,Kolkata,Furniture,Filing Cabinet,Home Office,5,4548.75,25,1589.54,34.94,UPI,34.94454520472657
+ORD00591,2026-08-30,2026-08,Sunday,Central,Gwalior,Furniture,Filing Cabinet,Home Office,8,8682.0,25,2440.51,28.11,Net Banking,28.109997696383328
+ORD00592,2026-10-04,2026-10,Sunday,South,Chennai,Electronics,Laptop,Small Business,1,3858.9,5,937.33,24.29,Debit Card,24.29008266604473
+ORD00593,2026-05-19,2026-05,Tuesday,Central,Gwalior,Office Supplies,Pens,Corporate,8,15660.0,25,4987.16,31.85,Cash,31.84648786717752
+ORD00594,2026-08-25,2026-08,Tuesday,West,Indore,Electronics,Tablet,Home Office,10,18664.0,20,2920.29,15.65,Cash,15.646645949421345
+ORD00595,2026-08-15,2026-08,Saturday,South,Pune,Sports,Tennis Racket,Consumer,4,8679.6,10,1936.75,22.31,Credit Card,22.313816304898843
+ORD00596,2026-10-09,2026-10,Friday,South,Bangalore,Office Supplies,Markers,Corporate,2,3265.6,20,1159.81,35.52,Credit Card,35.51598481136698
+ORD00597,2026-09-25,2026-09,Friday,South,Pune,Sports,Yoga Mat,Home Office,1,2436.8,20,748.39,30.71,Debit Card,30.71199934340118
+ORD00598,2026-06-19,2026-06,Friday,Central,Gwalior,Office Supplies,Stapler,Consumer,9,10354.5,25,4040.77,39.02,Cash,39.02428895649235
+ORD00599,2026-10-26,2026-10,Monday,South,Pune,Electronics,Monitor,Corporate,6,24356.1,5,5641.23,23.16,Net Banking,23.161466737285526
+ORD00600,2026-08-07,2026-08,Friday,West,Ahmedabad,Clothing,Shoes,Home Office,10,15363.0,10,3520.8,22.92,Net Banking,22.917398945518457
+ORD00601,2026-09-04,2026-09,Friday,North,Delhi,Sports,Basketball,Consumer,9,20452.5,25,4595.53,22.47,Debit Card,22.469282483803934
+ORD00602,2026-08-11,2026-08,Tuesday,West,Indore,Furniture,Filing Cabinet,Corporate,7,20209.0,0,7015.99,34.72,Credit Card,34.717155722697804
+ORD00603,2026-07-02,2026-07,Thursday,East,Bhubaneswar,Furniture,Office Chair,Home Office,8,11796.0,25,3052.46,25.88,Net Banking,25.877076975245846
+ORD00604,2026-06-07,2026-06,Sunday,South,Chennai,Electronics,Monitor,Corporate,6,18936.3,15,4124.13,21.78,UPI,21.778964211593607
+ORD00605,2026-10-15,2026-10,Thursday,West,Indore,Clothing,T-Shirts,Small Business,5,21708.0,10,7364.99,33.93,Debit Card,33.92753823475216
+ORD00606,2026-10-24,2026-10,Saturday,Central,Gwalior,Electronics,Smartphone,Small Business,10,31490.0,0,7399.55,23.5,UPI,23.498094633216894
+ORD00607,2026-05-02,2026-05,Saturday,East,Ranchi,Furniture,Conference Table,Corporate,8,9756.0,25,2657.21,27.24,UPI,27.236674866748668
+ORD00608,2026-05-28,2026-05,Thursday,West,Ahmedabad,Furniture,Desk,Small Business,6,2583.0,25,848.31,32.84,Credit Card,32.84204413472706
+ORD00609,2026-08-17,2026-08,Monday,South,Chennai,Clothing,Shoes,Small Business,1,1878.0,0,509.16,27.11,Cash,27.111821086261983
+ORD00610,2026-06-26,2026-06,Friday,Central,Bhopal,Electronics,Monitor,Corporate,10,27812.0,15,6868.8,24.7,Debit Card,24.697252984323313
+ORD00611,2026-06-15,2026-06,Monday,South,Pune,Furniture,Office Chair,Small Business,4,5008.2,15,1368.71,27.33,Cash,27.32937981709996
+ORD00612,2026-10-26,2026-10,Monday,East,Bhubaneswar,Clothing,T-Shirts,Corporate,7,27077.4,10,8839.87,32.65,Net Banking,32.64667213247949
+ORD00613,2026-09-10,2026-09,Thursday,West,Mumbai,Electronics,Laptop,Corporate,2,1999.2,15,428.11,21.41,Net Banking,21.4140656262505
+ORD00614,2026-08-27,2026-08,Thursday,South,Chennai,Electronics,Monitor,Small Business,5,16605.0,25,3728.42,22.45,Debit Card,22.453598313760917
+ORD00615,2026-05-13,2026-05,Wednesday,East,Bhubaneswar,Clothing,Shoes,Home Office,5,16208.0,20,3647.57,22.5,Credit Card,22.504750740375123
+ORD00616,2026-09-20,2026-09,Sunday,Central,Nagpur,Clothing,T-Shirts,Corporate,9,26820.0,20,9566.56,35.67,Net Banking,35.66950037285608
+ORD00617,2026-07-03,2026-07,Friday,West,Mumbai,Sports,Cycling Helmet,Corporate,2,9338.5,5,3671.3,39.31,Net Banking,39.31359426032019
+ORD00618,2026-06-01,2026-06,Monday,West,Ahmedabad,Sports,Dumbbells,Home Office,9,4153.95,15,1495.85,36.01,Cash,36.01030344611755
+ORD00619,2026-08-25,2026-08,Tuesday,East,Bhubaneswar,Sports,Dumbbells,Small Business,2,2912.0,20,731.94,25.14,Net Banking,25.1353021978022
+ORD00620,2026-06-04,2026-06,Thursday,West,Mumbai,Electronics,Monitor,Consumer,6,14136.0,20,2362.98,16.72,Credit Card,16.7160441426146
+ORD00621,2026-08-27,2026-08,Thursday,Central,Bhopal,Furniture,Bookshelf,Home Office,9,7111.8,10,2125.53,29.89,Net Banking,29.887370286003545
+ORD00622,2026-10-18,2026-10,Sunday,Central,Gwalior,Office Supplies,Markers,Consumer,10,27072.0,20,10195.01,37.66,Net Banking,37.658872635933804
+ORD00623,2026-09-13,2026-09,Sunday,West,Mumbai,Furniture,Office Chair,Small Business,3,5508.0,10,1808.9,32.84,UPI,32.841321713870734
+ORD00624,2026-09-21,2026-09,Monday,South,Chennai,Sports,Cycling Helmet,Corporate,10,20421.0,10,5217.14,25.55,Credit Card,25.54791636060918
+ORD00625,2026-09-30,2026-09,Wednesday,South,Pune,Electronics,Monitor,Corporate,5,10999.0,15,2364.53,21.5,Net Banking,21.49768160741886
+ORD00626,2026-07-21,2026-07,Tuesday,Central,Gwalior,Electronics,Tablet,Small Business,3,9561.6,20,1629.07,17.04,Credit Card,17.037629685408298
+ORD00627,2026-08-22,2026-08,Saturday,South,Hyderabad,Furniture,Bookshelf,Small Business,10,44545.5,5,11713.37,26.3,Credit Card,26.29529357623105
+ORD00628,2026-10-04,2026-10,Sunday,East,Ranchi,Clothing,T-Shirts,Small Business,2,4548.6,10,1023.09,22.49,Net Banking,22.492415248647934
+ORD00629,2026-09-07,2026-09,Monday,North,Lucknow,Electronics,Tablet,Small Business,6,6631.2,10,1510.63,22.78,Net Banking,22.780643020871036
+ORD00630,2026-08-18,2026-08,Tuesday,West,Ahmedabad,Office Supplies,Printer Paper,Small Business,7,8658.3,5,3089.24,35.68,Credit Card,35.67952138410542
+ORD00631,2026-09-18,2026-09,Friday,East,Kolkata,Furniture,Conference Table,Small Business,10,25593.5,15,5485.48,21.43,Cash,21.43309824760193
+ORD00632,2026-08-23,2026-08,Sunday,Central,Jabalpur,Sports,Basketball,Small Business,1,1245.45,5,328.3,26.36,Cash,26.359950218796417
+ORD00633,2026-06-10,2026-06,Wednesday,North,Jaipur,Office Supplies,Markers,Corporate,8,24307.2,20,-2397.75,-9.86,Credit Card,-9.864361176935228
+ORD00634,2026-08-30,2026-08,Sunday,Central,Nagpur,Furniture,Desk,Consumer,10,27022.5,25,6488.25,24.01,Credit Card,24.010546766583403
+ORD00635,2026-08-24,2026-08,Monday,North,Chandigarh,Furniture,Conference Table,Consumer,8,29837.6,5,7932.15,26.58,Cash,26.5844102742848
+ORD00636,2026-07-06,2026-07,Monday,East,Ranchi,Sports,Basketball,Corporate,7,15450.4,20,5999.94,38.83,Cash,38.83355770724383
+ORD00637,2026-07-03,2026-07,Friday,North,Jaipur,Office Supplies,Printer Paper,Home Office,7,18918.9,10,8074.34,42.68,UPI,42.67869696441125
+ORD00638,2026-10-11,2026-10,Sunday,South,Bangalore,Furniture,Office Chair,Consumer,10,18520.0,0,3938.98,21.27,Cash,21.26879049676026
+ORD00639,2026-07-10,2026-07,Friday,East,Ranchi,Electronics,Headphones,Home Office,3,11900.85,15,2377.56,19.98,Cash,19.978068793405512
+ORD00640,2026-09-11,2026-09,Friday,West,Mumbai,Clothing,T-Shirts,Corporate,1,1542.75,25,439.68,28.5,Debit Card,28.499756927564412
+ORD00641,2026-09-02,2026-09,Wednesday,Central,Jabalpur,Furniture,Conference Table,Home Office,10,7191.0,15,2478.72,34.47,Net Banking,34.4697538589904
+ORD00642,2026-10-08,2026-10,Thursday,South,Chennai,Furniture,Office Chair,Corporate,3,8414.4,20,2128.79,25.3,UPI,25.299367750522915
+ORD00643,2026-07-01,2026-07,Wednesday,West,Indore,Clothing,Jeans,Small Business,2,6402.6,10,2450.97,38.28,UPI,38.280854652797295
+ORD00644,2026-07-10,2026-07,Friday,North,Delhi,Office Supplies,Stapler,Small Business,5,20056.5,10,6657.95,33.2,Credit Card,33.1959713808491
+ORD00645,2026-08-21,2026-08,Friday,South,Pune,Furniture,Bookshelf,Consumer,1,4014.55,15,1340.35,33.39,Debit Card,33.38730368285361
+ORD00646,2026-05-20,2026-05,Wednesday,West,Mumbai,Office Supplies,Printer Paper,Consumer,6,23063.4,10,-1406.41,-6.1,Net Banking,-6.098016771161234
+ORD00647,2026-07-13,2026-07,Monday,East,Bhubaneswar,Clothing,Jackets,Home Office,2,972.4,15,290.17,29.84,UPI,29.840600575894694
+ORD00648,2026-06-30,2026-06,Tuesday,North,Jaipur,Clothing,T-Shirts,Home Office,1,4267.4,5,1510.19,35.39,Cash,35.388995641374144
+ORD00649,2026-07-09,2026-07,Thursday,West,Indore,Clothing,Jackets,Consumer,6,15050.1,15,5695.54,37.84,Cash,37.843868147055495
+ORD00650,2026-07-25,2026-07,Saturday,North,Chandigarh,Electronics,Headphones,Small Business,3,11682.15,5,2165.56,18.54,Cash,18.537341157235613
+ORD00651,2026-07-21,2026-07,Tuesday,West,Surat,Furniture,Office Chair,Corporate,5,10260.0,0,2257.73,22.01,Net Banking,22.005165692007797
+ORD00652,2026-09-16,2026-09,Wednesday,Central,Jabalpur,Electronics,Smartphone,Small Business,8,12780.0,25,3173.18,24.83,UPI,24.829264475743347
+ORD00653,2026-05-21,2026-05,Thursday,East,Ranchi,Sports,Tennis Racket,Consumer,6,7869.3,15,2363.72,30.04,Net Banking,30.03723329902278
+ORD00654,2026-06-05,2026-06,Friday,South,Pune,Furniture,Office Chair,Corporate,1,1313.85,5,293.42,22.33,Credit Card,22.332838604102452
+ORD00655,2026-06-08,2026-06,Monday,West,Ahmedabad,Electronics,Tablet,Home Office,10,30142.5,25,4545.58,15.08,Credit Card,15.080301899311602
+ORD00656,2026-06-29,2026-06,Monday,North,Chandigarh,Clothing,T-Shirts,Consumer,4,12841.6,20,2959.98,23.05,Debit Card,23.04993147271368
+ORD00657,2026-08-07,2026-08,Friday,East,Bhubaneswar,Office Supplies,Printer Paper,Small Business,4,7974.0,25,3373.73,42.31,Credit Card,42.30912967143215
+ORD00658,2026-10-25,2026-10,Sunday,South,Bangalore,Sports,Cycling Helmet,Home Office,4,6348.8,20,2068.32,32.58,UPI,32.578125
+ORD00659,2026-06-09,2026-06,Tuesday,North,Delhi,Furniture,Filing Cabinet,Home Office,5,3866.5,5,1312.15,33.94,UPI,33.93637656795552
+ORD00660,2026-10-28,2026-10,Wednesday,East,Bhubaneswar,Electronics,Laptop,Consumer,7,20244.0,20,3656.97,18.06,UPI,18.064463544754002
+ORD00661,2026-06-24,2026-06,Wednesday,North,Jaipur,Furniture,Bookshelf,Small Business,8,31920.0,0,8825.23,27.65,Cash,27.647963659147866
+ORD00662,2026-05-17,2026-05,Sunday,East,Guwahati,Electronics,Tablet,Consumer,5,15651.0,10,3461.35,22.12,Cash,22.115839243498815
+ORD00663,2026-08-15,2026-08,Saturday,South,Bangalore,Furniture,Office Chair,Corporate,1,378.0,25,117.83,31.17,UPI,31.171957671957674
+ORD00664,2026-08-13,2026-08,Thursday,South,Pune,Office Supplies,Markers,Corporate,7,8811.25,5,2976.79,33.78,Credit Card,33.78396935735565
+ORD00665,2026-07-24,2026-07,Friday,North,Chandigarh,Office Supplies,Printer Paper,Home Office,1,969.75,25,371.19,38.28,Credit Card,38.276875483372
+ORD00666,2026-09-16,2026-09,Wednesday,East,Guwahati,Office Supplies,Stapler,Small Business,10,43488.0,10,14600.57,33.57,Debit Card,33.57379047093451
+ORD00667,2026-08-28,2026-08,Friday,West,Indore,Electronics,Laptop,Corporate,10,15680.0,0,2416.35,15.41,Net Banking,15.410395408163266
+ORD00668,2026-08-15,2026-08,Saturday,South,Chennai,Furniture,Filing Cabinet,Corporate,2,2092.8,20,612.88,29.29,Debit Card,29.285168195718654
+ORD00669,2026-05-16,2026-05,Saturday,West,Indore,Furniture,Conference Table,Corporate,1,1670.1,5,382.05,22.88,Net Banking,22.875875696066107
+ORD00670,2026-06-22,2026-06,Monday,West,Surat,Sports,Basketball,Corporate,8,20988.0,25,7208.65,34.35,Credit Card,34.34653135124833
+ORD00671,2026-08-16,2026-08,Sunday,Central,Bhopal,Clothing,Shoes,Consumer,9,43110.0,0,10061.31,23.34,UPI,23.33869171885873
+ORD00672,2026-08-08,2026-08,Saturday,North,Jaipur,Office Supplies,Printer Paper,Home Office,4,2994.0,25,1264.01,42.22,Cash,42.21810287241149
+ORD00673,2026-09-27,2026-09,Sunday,North,Delhi,Furniture,Filing Cabinet,Home Office,7,26163.2,20,8291.27,31.69,Debit Card,31.690580662915853
+ORD00674,2026-10-26,2026-10,Monday,North,Chandigarh,Furniture,Desk,Corporate,3,1269.6,20,295.4,23.27,Debit Card,23.267170762444863
+ORD00675,2026-05-06,2026-05,Wednesday,East,Ranchi,Sports,Cycling Helmet,Home Office,5,12445.0,5,3226.65,25.93,Credit Card,25.927280032141425
+ORD00676,2026-09-25,2026-09,Friday,South,Bangalore,Furniture,Desk,Home Office,9,7464.15,5,1819.58,24.38,Net Banking,24.377591554296203
+ORD00677,2026-08-06,2026-08,Thursday,South,Hyderabad,Furniture,Bookshelf,Home Office,4,3503.6,5,-403.8,-11.53,Debit Card,-11.525288274917228
+ORD00678,2026-08-31,2026-08,Monday,Central,Jabalpur,Office Supplies,Printer Paper,Home Office,5,18746.25,25,5999.58,32.0,Net Banking,32.004160832166434
+ORD00679,2026-05-02,2026-05,Saturday,Central,Jabalpur,Office Supplies,Printer Paper,Consumer,6,3334.5,5,1365.72,40.96,Debit Card,40.95726495726496
+ORD00680,2026-07-30,2026-07,Thursday,Central,Jabalpur,Electronics,Monitor,Corporate,7,7197.75,25,1264.89,17.57,UPI,17.57340835677816
+ORD00681,2026-07-16,2026-07,Thursday,West,Ahmedabad,Clothing,Jeans,Small Business,5,14991.0,5,4742.14,31.63,Credit Card,31.633246614635453
+ORD00682,2026-08-08,2026-08,Saturday,North,Lucknow,Furniture,Filing Cabinet,Consumer,7,15107.4,10,3357.62,22.23,Net Banking,22.225002316745435
+ORD00683,2026-08-16,2026-08,Sunday,East,Ranchi,Furniture,Filing Cabinet,Home Office,3,5742.75,5,1639.26,28.54,Credit Card,28.54486091158417
+ORD00684,2026-09-15,2026-09,Tuesday,South,Chennai,Office Supplies,Printer Paper,Corporate,3,8664.0,5,3661.62,42.26,Cash,42.26246537396122
+ORD00685,2026-09-17,2026-09,Thursday,East,Bhubaneswar,Electronics,Smartphone,Corporate,7,7248.5,5,1417.1,19.55,Credit Card,19.550251776229562
+ORD00686,2026-10-02,2026-10,Friday,North,Lucknow,Electronics,Monitor,Corporate,1,1299.2,20,207.84,16.0,Net Banking,15.997536945812808
+ORD00687,2026-06-26,2026-06,Friday,North,Delhi,Electronics,Laptop,Corporate,4,6328.0,0,1118.57,17.68,Net Banking,17.67651706700379
+ORD00688,2026-09-02,2026-09,Wednesday,South,Bangalore,Electronics,Laptop,Home Office,6,22243.5,25,3525.52,15.85,Cash,15.849663946770967
+ORD00689,2026-06-26,2026-06,Friday,West,Indore,Furniture,Bookshelf,Corporate,8,24449.2,5,5783.98,23.66,Cash,23.657133975753805
+ORD00690,2026-07-09,2026-07,Thursday,Central,Jabalpur,Sports,Yoga Mat,Small Business,1,673.0,0,207.91,30.89,Debit Card,30.893016344725112
+ORD00691,2026-08-20,2026-08,Thursday,West,Indore,Furniture,Office Chair,Small Business,1,2220.15,5,586.28,26.41,Net Banking,26.407224737067313
+ORD00692,2026-09-02,2026-09,Wednesday,North,Chandigarh,Furniture,Filing Cabinet,Corporate,8,10792.0,5,3762.26,34.86,Credit Card,34.86156412157154
+ORD00693,2026-05-08,2026-05,Friday,North,Chandigarh,Office Supplies,Printer Paper,Home Office,2,5819.4,10,2551.79,43.85,Cash,43.84970959205417
+ORD00694,2026-08-08,2026-08,Saturday,West,Mumbai,Sports,Dumbbells,Small Business,7,10964.8,20,2927.26,26.7,Credit Card,26.69688457609806
+ORD00695,2026-07-26,2026-07,Sunday,Central,Gwalior,Furniture,Bookshelf,Small Business,6,17106.0,0,4116.8,24.07,Cash,24.06640944697767
+ORD00696,2026-10-19,2026-10,Monday,Central,Jabalpur,Office Supplies,Printer Paper,Small Business,3,1163.25,25,374.55,32.2,Net Banking,32.19858156028369
+ORD00697,2026-10-21,2026-10,Wednesday,North,Lucknow,Clothing,T-Shirts,Consumer,10,12129.5,15,4753.76,39.19,Cash,39.19172265963148
+ORD00698,2026-08-12,2026-08,Wednesday,Central,Bhopal,Office Supplies,Pens,Consumer,7,12530.7,10,4359.4,34.79,Net Banking,34.789756358383805
+ORD00699,2026-06-12,2026-06,Friday,Central,Gwalior,Sports,Basketball,Small Business,4,5548.8,15,1574.37,28.37,Cash,28.373161764705877
+ORD00700,2026-08-28,2026-08,Friday,South,Pune,Sports,Cycling Helmet,Home Office,7,16695.0,0,5278.84,31.62,Debit Card,31.619287211740044
+ORD00701,2026-06-02,2026-06,Tuesday,South,Chennai,Electronics,Smartphone,Home Office,1,3289.85,5,-309.78,-9.42,Cash,-9.416234782740855
+ORD00702,2026-10-07,2026-10,Wednesday,East,Bhubaneswar,Electronics,Laptop,Small Business,6,19157.7,5,3438.23,17.95,Debit Card,17.9469873732233
+ORD00703,2026-09-14,2026-09,Monday,West,Indore,Furniture,Desk,Small Business,1,1754.25,25,387.11,22.07,Debit Card,22.0669801909648
+ORD00704,2026-05-07,2026-05,Thursday,North,Jaipur,Clothing,T-Shirts,Home Office,6,23874.0,0,8123.85,34.03,Credit Card,34.028022116109575
+ORD00705,2026-08-09,2026-08,Sunday,Central,Bhopal,Clothing,Caps,Consumer,1,1705.25,5,465.62,27.31,Net Banking,27.305087230611345
+ORD00706,2026-09-29,2026-09,Tuesday,East,Kolkata,Electronics,Monitor,Consumer,3,11146.35,5,2195.57,19.7,Cash,19.697658874878325
+ORD00707,2026-09-22,2026-09,Tuesday,South,Hyderabad,Clothing,Shoes,Small Business,8,19578.0,25,6637.91,33.9,Cash,33.904944325263045
+ORD00708,2026-10-17,2026-10,Saturday,Central,Nagpur,Electronics,Laptop,Home Office,9,16424.55,5,2481.53,15.11,UPI,15.10866355547032
+ORD00709,2026-05-07,2026-05,Thursday,West,Indore,Sports,Basketball,Consumer,5,17291.25,25,4244.36,24.55,Cash,24.546287862358128
+ORD00710,2026-05-22,2026-05,Friday,South,Hyderabad,Electronics,Monitor,Small Business,3,8082.0,25,1383.53,17.12,Net Banking,17.118658747834694
+ORD00711,2026-10-12,2026-10,Monday,North,Jaipur,Clothing,Jeans,Corporate,8,7697.6,15,2021.68,26.26,Net Banking,26.263770525878193
+ORD00712,2026-08-18,2026-08,Tuesday,Central,Gwalior,Furniture,Office Chair,Small Business,7,23560.95,5,5666.12,24.05,Cash,24.048775622375157
+ORD00713,2026-06-04,2026-06,Thursday,East,Guwahati,Sports,Basketball,Corporate,4,2624.4,10,610.31,23.26,Debit Card,23.255220240816946
+ORD00714,2026-08-27,2026-08,Thursday,North,Jaipur,Sports,Yoga Mat,Small Business,4,9702.4,20,2331.93,24.03,UPI,24.034568766490764
+ORD00715,2026-06-16,2026-06,Tuesday,Central,Nagpur,Office Supplies,Printer Paper,Home Office,10,7369.5,15,2261.35,30.69,Net Banking,30.68525680168261
+ORD00716,2026-05-13,2026-05,Wednesday,Central,Jabalpur,Electronics,Tablet,Home Office,7,15752.8,20,2669.92,16.95,UPI,16.948859885226756
+ORD00717,2026-07-06,2026-07,Monday,Central,Jabalpur,Furniture,Office Chair,Home Office,7,16873.5,25,4649.27,27.55,UPI,27.553678845527013
+ORD00718,2026-08-06,2026-08,Thursday,Central,Nagpur,Electronics,Monitor,Home Office,8,23232.0,20,-3110.25,-13.39,Net Banking,-13.387784090909092
+ORD00719,2026-07-23,2026-07,Thursday,Central,Gwalior,Electronics,Laptop,Corporate,4,7191.0,25,1549.1,21.54,Debit Card,21.542205534696144
+ORD00720,2026-06-24,2026-06,Wednesday,North,Jaipur,Sports,Cycling Helmet,Small Business,6,24408.6,15,8715.59,35.71,Debit Card,35.70704587727277
+ORD00721,2026-08-25,2026-08,Tuesday,West,Surat,Sports,Tennis Racket,Home Office,7,5499.55,5,1329.59,24.18,Net Banking,24.1763417006846
+ORD00722,2026-07-23,2026-07,Thursday,West,Mumbai,Furniture,Conference Table,Consumer,2,9150.0,0,2025.75,22.14,Cash,22.139344262295083
+ORD00723,2026-07-26,2026-07,Sunday,North,Delhi,Clothing,T-Shirts,Consumer,6,24082.5,5,9315.38,38.68,Cash,38.681116993667594
+ORD00724,2026-08-06,2026-08,Thursday,West,Surat,Sports,Basketball,Consumer,2,6788.0,0,1600.86,23.58,UPI,23.58367707719505
+ORD00725,2026-07-11,2026-07,Saturday,East,Guwahati,Clothing,Jackets,Small Business,3,12363.0,0,4875.18,39.43,Cash,39.43363261344334
+ORD00726,2026-08-16,2026-08,Sunday,East,Guwahati,Office Supplies,Notebooks,Consumer,10,28875.0,25,9221.16,31.93,UPI,31.934753246753246
+ORD00727,2026-07-04,2026-07,Saturday,North,Chandigarh,Office Supplies,Printer Paper,Consumer,9,29712.6,15,10085.17,33.94,Cash,33.942401540087374
+ORD00728,2026-05-21,2026-05,Thursday,East,Kolkata,Sports,Yoga Mat,Corporate,9,22545.0,0,5205.92,23.09,Debit Card,23.09123974273675
+ORD00729,2026-08-29,2026-08,Saturday,North,Lucknow,Furniture,Conference Table,Small Business,2,7163.0,5,1849.73,25.82,Debit Card,25.823398017590392
+ORD00730,2026-05-05,2026-05,Tuesday,East,Kolkata,Office Supplies,Notebooks,Small Business,9,33178.05,15,10496.47,31.64,Debit Card,31.636789986150475
+ORD00731,2026-09-16,2026-09,Wednesday,South,Bangalore,Clothing,Shoes,Consumer,7,13444.2,10,2862.19,21.29,Cash,21.289403608991236
+ORD00732,2026-05-14,2026-05,Thursday,North,Lucknow,Furniture,Filing Cabinet,Small Business,5,6103.0,15,1255.65,20.57,UPI,20.57430771751598
+ORD00733,2026-07-29,2026-07,Wednesday,Central,Gwalior,Furniture,Desk,Corporate,10,31220.0,0,10869.92,34.82,UPI,34.81716848174247
+ORD00734,2026-06-27,2026-06,Saturday,East,Kolkata,Office Supplies,Notebooks,Corporate,4,17512.0,0,-1298.31,-7.41,Debit Card,-7.413830516217451
+ORD00735,2026-10-14,2026-10,Wednesday,South,Pune,Office Supplies,Stapler,Home Office,2,3689.8,5,1145.27,31.04,Debit Card,31.0388096915822
+ORD00736,2026-05-18,2026-05,Monday,North,Chandigarh,Clothing,Shoes,Corporate,4,14394.0,25,5449.78,37.86,Cash,37.86147005696818
+ORD00737,2026-10-14,2026-10,Wednesday,East,Kolkata,Electronics,Headphones,Home Office,5,15679.75,5,2663.37,16.99,Cash,16.986048884707984
+ORD00738,2026-05-11,2026-05,Monday,Central,Gwalior,Clothing,Caps,Consumer,7,11440.8,10,4376.33,38.25,UPI,38.25195790504161
+ORD00739,2026-05-08,2026-05,Friday,East,Kolkata,Sports,Cycling Helmet,Home Office,2,3189.0,25,1063.83,33.36,Credit Card,33.359360301034805
+ORD00740,2026-07-03,2026-07,Friday,South,Hyderabad,Office Supplies,Printer Paper,Home Office,8,13163.2,5,4935.11,37.49,UPI,37.49171933876261
+ORD00741,2026-06-21,2026-06,Sunday,West,Indore,Office Supplies,Markers,Consumer,8,4028.0,5,1591.64,39.51,Cash,39.51439920556108
+ORD00742,2026-05-06,2026-05,Wednesday,West,Mumbai,Electronics,Smartphone,Home Office,7,10694.25,25,2188.14,20.46,Net Banking,20.460901886527804
+ORD00743,2026-10-07,2026-10,Wednesday,South,Pune,Furniture,Bookshelf,Corporate,4,6654.0,25,-456.61,-6.86,Cash,-6.862188157499249
+ORD00744,2026-06-09,2026-06,Tuesday,South,Bangalore,Office Supplies,Stapler,Consumer,2,6919.5,25,2593.91,37.49,Cash,37.48695715008309
+ORD00745,2026-07-01,2026-07,Wednesday,North,Lucknow,Clothing,Jackets,Small Business,9,25895.25,15,7888.57,30.46,Net Banking,30.46338614224616
+ORD00746,2026-06-02,2026-06,Tuesday,West,Mumbai,Furniture,Filing Cabinet,Home Office,6,22851.3,5,6464.93,28.29,Cash,28.291300713744956
+ORD00747,2026-08-30,2026-08,Sunday,North,Lucknow,Clothing,Jackets,Corporate,5,15311.25,25,4962.0,32.41,UPI,32.40754347293657
+ORD00748,2026-10-19,2026-10,Monday,East,Kolkata,Electronics,Laptop,Small Business,1,987.2,20,240.14,24.33,Net Banking,24.325364667747163
+ORD00749,2026-05-30,2026-05,Saturday,South,Bangalore,Clothing,Caps,Consumer,5,3259.75,15,790.08,24.24,Credit Card,24.23744152158908
+ORD00750,2026-09-22,2026-09,Tuesday,North,Lucknow,Electronics,Smartphone,Consumer,2,7822.8,10,1930.37,24.68,Cash,24.67620289410441
+ORD00751,2026-06-25,2026-06,Thursday,South,Pune,Clothing,T-Shirts,Consumer,4,11420.8,20,2931.96,25.67,Credit Card,25.672107032782293
+ORD00752,2026-08-28,2026-08,Friday,North,Chandigarh,Office Supplies,Notebooks,Corporate,1,2106.3,15,-149.44,-7.09,Credit Card,-7.094905758913734
+ORD00753,2026-10-27,2026-10,Tuesday,East,Guwahati,Office Supplies,Pens,Small Business,4,12870.4,20,5740.5,44.6,Net Banking,44.602343361511686
+ORD00754,2026-07-05,2026-07,Sunday,East,Ranchi,Electronics,Monitor,Consumer,3,9033.75,25,1707.75,18.9,Debit Card,18.904109589041095
+ORD00755,2026-08-03,2026-08,Monday,Central,Gwalior,Office Supplies,Markers,Corporate,7,11950.05,5,3763.51,31.49,Credit Card,31.493675758678837
+ORD00756,2026-06-12,2026-06,Friday,West,Mumbai,Sports,Tennis Racket,Corporate,9,22495.05,5,8767.22,38.97,Credit Card,38.97399650145254
+ORD00757,2026-10-03,2026-10,Saturday,Central,Bhopal,Electronics,Headphones,Small Business,10,5643.0,5,862.15,15.28,Debit Card,15.278220804536593
+ORD00758,2026-10-03,2026-10,Saturday,West,Mumbai,Sports,Tennis Racket,Consumer,3,1802.85,15,589.34,32.69,UPI,32.68935296891034
+ORD00759,2026-05-30,2026-05,Saturday,East,Bhubaneswar,Furniture,Desk,Consumer,4,9382.4,20,3059.31,32.61,Debit Card,32.60690228512961
+ORD00760,2026-06-11,2026-06,Thursday,North,Lucknow,Office Supplies,Printer Paper,Home Office,2,5228.8,5,2060.75,39.41,UPI,39.411528457772334
+ORD00761,2026-07-19,2026-07,Sunday,South,Bangalore,Electronics,Headphones,Consumer,2,2859.5,5,509.7,17.82,UPI,17.824794544500786
+ORD00762,2026-05-28,2026-05,Thursday,East,Kolkata,Electronics,Headphones,Small Business,4,11764.0,15,1883.03,16.01,Debit Card,16.006715402924176
+ORD00763,2026-09-26,2026-09,Saturday,East,Ranchi,Electronics,Headphones,Corporate,4,3375.0,25,647.97,19.2,Credit Card,19.19911111111111
+ORD00764,2026-05-07,2026-05,Thursday,North,Lucknow,Furniture,Desk,Small Business,1,2799.65,5,836.96,29.9,UPI,29.895165467111962
+ORD00765,2026-07-19,2026-07,Sunday,East,Kolkata,Electronics,Tablet,Consumer,8,21376.0,20,-2091.11,-9.78,Debit Card,-9.782513098802397
+ORD00766,2026-09-25,2026-09,Friday,East,Guwahati,Electronics,Smartphone,Corporate,9,6678.0,0,1347.62,20.18,Cash,20.17999401018269
+ORD00767,2026-10-21,2026-10,Wednesday,North,Jaipur,Office Supplies,Printer Paper,Small Business,1,2049.3,10,657.38,32.08,Credit Card,32.07827062899526
+ORD00768,2026-08-05,2026-08,Wednesday,East,Bhubaneswar,Office Supplies,Stapler,Consumer,4,17780.0,0,6263.59,35.23,UPI,35.228290213723284
+ORD00769,2026-08-10,2026-08,Monday,West,Surat,Clothing,Shoes,Consumer,9,31150.8,15,11976.54,38.45,Net Banking,38.44697407450211
+ORD00770,2026-06-20,2026-06,Saturday,West,Ahmedabad,Office Supplies,Notebooks,Consumer,10,10736.0,20,3722.58,34.67,Credit Card,34.67380774962742
+ORD00771,2026-05-20,2026-05,Wednesday,West,Indore,Clothing,Shoes,Home Office,10,29782.5,25,7574.73,25.43,Cash,25.433492822966507
+ORD00772,2026-09-29,2026-09,Tuesday,West,Mumbai,Sports,Tennis Racket,Home Office,4,12851.2,20,3477.32,27.06,Cash,27.05832918326693
+ORD00773,2026-10-24,2026-10,Saturday,East,Kolkata,Clothing,Jeans,Home Office,9,6285.6,10,1994.89,31.74,Debit Card,31.737463408425608
+ORD00774,2026-10-08,2026-10,Thursday,South,Hyderabad,Clothing,T-Shirts,Corporate,3,3885.3,10,1110.72,28.59,Cash,28.587753841402208
+ORD00775,2026-07-02,2026-07,Thursday,West,Ahmedabad,Electronics,Smartphone,Small Business,6,20200.8,5,4604.8,22.8,Net Banking,22.795136826264308
+ORD00776,2026-05-27,2026-05,Wednesday,West,Surat,Electronics,Tablet,Corporate,8,14406.4,20,3306.61,22.95,Debit Card,22.952368391825857
+ORD00777,2026-10-26,2026-10,Monday,East,Kolkata,Clothing,Jackets,Corporate,9,19134.9,5,4220.85,22.06,Cash,22.0583854632112
+ORD00778,2026-07-17,2026-07,Friday,Central,Bhopal,Sports,Tennis Racket,Consumer,6,21951.0,10,-2208.41,-10.06,UPI,-10.060635050794952
+ORD00779,2026-10-23,2026-10,Friday,East,Kolkata,Office Supplies,Notebooks,Consumer,2,2509.2,15,817.17,32.57,Credit Card,32.56695361071258
+ORD00780,2026-10-01,2026-10,Thursday,North,Lucknow,Furniture,Conference Table,Corporate,5,3370.0,0,999.37,29.65,Net Banking,29.654896142433234
+ORD00781,2026-05-31,2026-05,Sunday,West,Mumbai,Clothing,Jackets,Small Business,7,11011.0,0,4175.0,37.92,Net Banking,37.916628825719734
+ORD00782,2026-09-22,2026-09,Tuesday,North,Delhi,Office Supplies,Printer Paper,Home Office,8,8544.0,0,3626.74,42.45,Net Banking,42.447799625468164
+ORD00783,2026-05-11,2026-05,Monday,West,Surat,Office Supplies,Stapler,Corporate,7,23324.0,0,8944.0,38.35,UPI,38.346767278339904
+ORD00784,2026-07-28,2026-07,Tuesday,Central,Bhopal,Clothing,Jackets,Corporate,8,25338.0,25,9968.74,39.34,Cash,39.34304207119741
+ORD00785,2026-09-14,2026-09,Monday,South,Hyderabad,Sports,Yoga Mat,Small Business,4,2956.0,0,1079.21,36.51,Credit Card,36.50913396481732
+ORD00786,2026-08-18,2026-08,Tuesday,Central,Jabalpur,Clothing,Jeans,Small Business,2,3598.6,5,1240.87,34.48,Credit Card,34.48202078586117
+ORD00787,2026-10-17,2026-10,Saturday,East,Kolkata,Electronics,Tablet,Corporate,2,1704.0,0,416.99,24.47,UPI,24.4712441314554
+ORD00788,2026-08-03,2026-08,Monday,East,Guwahati,Sports,Tennis Racket,Consumer,3,7726.35,5,2446.86,31.67,Debit Card,31.66902871342872
+ORD00789,2026-05-18,2026-05,Monday,North,Chandigarh,Furniture,Conference Table,Consumer,8,23310.0,25,5089.88,21.84,Cash,21.835607035607037
+ORD00790,2026-09-07,2026-09,Monday,North,Lucknow,Clothing,Jackets,Corporate,8,23841.2,5,5205.96,21.84,Net Banking,21.835981410331694
+ORD00791,2026-10-13,2026-10,Tuesday,East,Kolkata,Office Supplies,Markers,Consumer,4,7455.0,25,2323.74,31.17,Debit Card,31.170221327967806
+ORD00792,2026-07-27,2026-07,Monday,East,Kolkata,Furniture,Office Chair,Small Business,8,15436.0,15,3522.3,22.82,UPI,22.818735423684895
+ORD00793,2026-05-04,2026-05,Monday,East,Bhubaneswar,Sports,Cycling Helmet,Home Office,6,25434.0,10,8690.86,34.17,Cash,34.170244554533305
+ORD00794,2026-08-16,2026-08,Sunday,West,Mumbai,Furniture,Desk,Small Business,7,20694.1,15,6832.75,33.02,Cash,33.017864995336836
+ORD00795,2026-09-03,2026-09,Thursday,Central,Gwalior,Furniture,Office Chair,Home Office,7,18460.4,5,5592.39,30.29,Cash,30.293980628805446
+ORD00796,2026-05-28,2026-05,Thursday,West,Mumbai,Furniture,Filing Cabinet,Corporate,2,2616.3,5,529.77,20.25,Debit Card,20.248824676069255
+ORD00797,2026-08-19,2026-08,Wednesday,South,Hyderabad,Electronics,Headphones,Corporate,8,34912.8,10,6164.13,17.66,Debit Card,17.655788135010653
+ORD00798,2026-08-01,2026-08,Saturday,West,Mumbai,Office Supplies,Notebooks,Home Office,3,5704.35,15,2141.01,37.53,UPI,37.53293539141182
+ORD00799,2026-10-10,2026-10,Saturday,East,Kolkata,Clothing,Jackets,Consumer,2,7058.0,0,2327.19,32.97,Net Banking,32.972371776707284
+ORD00800,2026-08-26,2026-08,Wednesday,West,Indore,Furniture,Bookshelf,Corporate,7,13639.15,5,3943.18,28.91,Debit Card,28.910745904253567
+ORD00801,2026-06-09,2026-06,Tuesday,North,Lucknow,Sports,Tennis Racket,Home Office,1,1045.5,25,261.15,24.98,Credit Card,24.97847919655667
+ORD00802,2026-08-20,2026-08,Thursday,East,Kolkata,Electronics,Laptop,Consumer,4,10720.0,0,2178.45,20.32,Debit Card,20.321361940298505
+ORD00803,2026-06-15,2026-06,Monday,Central,Gwalior,Clothing,Shoes,Home Office,4,3987.0,25,1454.51,36.48,Debit Card,36.48131427138199
+ORD00804,2026-09-11,2026-09,Friday,West,Indore,Furniture,Desk,Corporate,6,9751.5,25,2371.55,24.32,Cash,24.31984822847767
+ORD00805,2026-10-14,2026-10,Wednesday,East,Kolkata,Electronics,Smartphone,Corporate,10,39287.0,15,8796.72,22.39,Credit Card,22.39091811540713
+ORD00806,2026-07-09,2026-07,Thursday,North,Jaipur,Furniture,Bookshelf,Small Business,3,3043.8,5,760.41,24.98,Net Banking,24.982259018332346
+ORD00807,2026-10-05,2026-10,Monday,North,Delhi,Clothing,Shoes,Home Office,1,3074.2,5,1213.92,39.49,Credit Card,39.48734630147681
+ORD00808,2026-09-15,2026-09,Tuesday,West,Ahmedabad,Electronics,Monitor,Consumer,8,21657.6,20,3250.82,15.01,Net Banking,15.010065750591018
+ORD00809,2026-09-01,2026-09,Tuesday,East,Ranchi,Electronics,Laptop,Corporate,10,4815.0,25,1199.13,24.9,UPI,24.904049844236763
+ORD00810,2026-08-28,2026-08,Friday,Central,Nagpur,Furniture,Office Chair,Small Business,5,4946.25,25,1238.3,25.04,Cash,25.03512762193581
+ORD00811,2026-08-20,2026-08,Thursday,South,Hyderabad,Sports,Basketball,Small Business,5,20182.5,10,5888.25,29.18,UPI,29.175027870680044
+ORD00812,2026-09-29,2026-09,Tuesday,North,Chandigarh,Office Supplies,Markers,Consumer,2,8040.6,10,3239.3,40.29,Debit Card,40.28679451782205
+ORD00813,2026-07-08,2026-07,Wednesday,South,Bangalore,Furniture,Filing Cabinet,Corporate,3,6220.8,10,1708.7,27.47,Debit Card,27.467528292181072
+ORD00814,2026-07-22,2026-07,Wednesday,Central,Gwalior,Office Supplies,Pens,Small Business,4,4185.4,15,1656.62,39.58,Cash,39.58092416495437
+ORD00815,2026-07-02,2026-07,Thursday,West,Indore,Sports,Dumbbells,Consumer,6,14434.2,10,4015.67,27.82,UPI,27.820523478959693
+ORD00816,2026-05-23,2026-05,Saturday,North,Chandigarh,Office Supplies,Pens,Consumer,10,6688.0,20,2710.48,40.53,Credit Card,40.52751196172249
+ORD00817,2026-07-11,2026-07,Saturday,South,Bangalore,Clothing,Shoes,Home Office,5,16710.0,0,6581.97,39.39,UPI,39.38940754039498
+ORD00818,2026-08-24,2026-08,Monday,North,Jaipur,Clothing,Jeans,Home Office,5,19140.0,20,5964.56,31.16,Net Banking,31.162800417972836
+ORD00819,2026-07-02,2026-07,Thursday,South,Pune,Office Supplies,Printer Paper,Corporate,1,2476.9,15,758.29,30.61,Debit Card,30.61447777463765
+ORD00820,2026-08-27,2026-08,Thursday,East,Kolkata,Electronics,Headphones,Small Business,1,2554.25,15,473.11,18.52,Credit Card,18.522462562396008
+ORD00821,2026-09-23,2026-09,Wednesday,East,Kolkata,Office Supplies,Pens,Small Business,5,13472.0,20,5386.09,39.98,Debit Card,39.979884204275535
+ORD00822,2026-10-04,2026-10,Sunday,West,Ahmedabad,Electronics,Tablet,Home Office,4,5671.2,15,1182.57,20.85,UPI,20.852200592467202
+ORD00823,2026-10-19,2026-10,Monday,Central,Nagpur,Electronics,Headphones,Corporate,4,10215.0,25,2182.99,21.37,Cash,21.370435633871754
+ORD00824,2026-08-06,2026-08,Thursday,North,Delhi,Office Supplies,Stapler,Small Business,3,7308.0,20,2670.14,36.54,Credit Card,36.53721948549535
+ORD00825,2026-07-26,2026-07,Sunday,Central,Nagpur,Furniture,Bookshelf,Consumer,7,9021.6,20,2074.32,22.99,Cash,22.992817238627296
+ORD00826,2026-05-08,2026-05,Friday,South,Hyderabad,Sports,Tennis Racket,Consumer,3,12676.05,15,4518.77,35.65,UPI,35.648092268490586
+ORD00827,2026-09-04,2026-09,Friday,West,Mumbai,Furniture,Conference Table,Consumer,6,19776.0,20,6728.43,34.02,Net Banking,34.02320995145631
+ORD00828,2026-07-23,2026-07,Thursday,East,Ranchi,Office Supplies,Notebooks,Consumer,7,25709.95,15,9491.92,36.92,Cash,36.919247217516954
+ORD00829,2026-06-16,2026-06,Tuesday,East,Kolkata,Clothing,T-Shirts,Home Office,10,14859.0,10,5309.51,35.73,Cash,35.732619960966424
+ORD00830,2026-09-02,2026-09,Wednesday,West,Surat,Furniture,Conference Table,Corporate,10,44550.0,10,9267.75,20.8,UPI,20.803030303030305
+ORD00831,2026-06-24,2026-06,Wednesday,North,Jaipur,Clothing,T-Shirts,Consumer,9,32826.15,15,12074.76,36.78,Credit Card,36.783966441388955
+ORD00832,2026-07-30,2026-07,Thursday,Central,Jabalpur,Electronics,Tablet,Consumer,5,5188.0,20,1027.99,19.81,UPI,19.814764841942946
+ORD00833,2026-07-06,2026-07,Monday,South,Bangalore,Electronics,Monitor,Small Business,1,3513.0,25,598.99,17.05,Cash,17.050668943922574
+ORD00834,2026-07-27,2026-07,Monday,Central,Gwalior,Furniture,Desk,Home Office,5,6626.25,25,1634.26,24.66,Debit Card,24.66342199584984
+ORD00835,2026-07-11,2026-07,Saturday,East,Kolkata,Clothing,Caps,Small Business,2,4288.0,0,857.63,20.0,Debit Card,20.00069962686567
+ORD00836,2026-09-30,2026-09,Wednesday,West,Mumbai,Sports,Yoga Mat,Small Business,4,10100.0,0,2976.96,29.47,Cash,29.474851485148516
+ORD00837,2026-10-27,2026-10,Tuesday,East,Ranchi,Clothing,T-Shirts,Small Business,5,6362.25,15,1887.96,29.67,Credit Card,29.674407638807025
+ORD00838,2026-07-10,2026-07,Friday,East,Bhubaneswar,Sports,Basketball,Consumer,10,40970.0,0,11736.71,28.65,Cash,28.6470832316329
+ORD00839,2026-09-20,2026-09,Sunday,South,Chennai,Furniture,Desk,Corporate,9,12811.5,25,3906.79,30.49,Debit Card,30.494399562892717
+ORD00840,2026-05-03,2026-05,Sunday,North,Lucknow,Office Supplies,Stapler,Home Office,10,11211.5,15,3981.21,35.51,Net Banking,35.5100566382732
+ORD00841,2026-09-10,2026-09,Thursday,North,Lucknow,Electronics,Headphones,Consumer,7,26034.75,5,3978.03,15.28,Cash,15.279693486590041
+ORD00842,2026-06-18,2026-06,Thursday,South,Pune,Electronics,Monitor,Home Office,1,2235.0,25,480.62,21.5,Cash,21.504250559284117
+ORD00843,2026-05-22,2026-05,Friday,West,Indore,Electronics,Tablet,Consumer,8,9846.0,25,-1321.02,-13.42,Net Banking,-13.416819012797074
+ORD00844,2026-07-01,2026-07,Wednesday,Central,Nagpur,Office Supplies,Markers,Corporate,9,33291.0,0,10858.68,32.62,Credit Card,32.61746417950798
+ORD00845,2026-08-13,2026-08,Thursday,West,Surat,Clothing,Jeans,Corporate,5,11815.0,15,2524.18,21.36,UPI,21.36419805332205
+ORD00846,2026-09-03,2026-09,Thursday,Central,Gwalior,Clothing,Shoes,Home Office,10,14827.5,25,5715.74,38.55,Debit Card,38.54823807115157
+ORD00847,2026-09-20,2026-09,Sunday,North,Chandigarh,Furniture,Bookshelf,Small Business,10,26808.0,20,8698.74,32.45,Debit Card,32.448299015219334
+ORD00848,2026-07-01,2026-07,Wednesday,East,Kolkata,Furniture,Desk,Consumer,2,2193.0,15,745.92,34.01,UPI,34.01367989056087
+ORD00849,2026-10-24,2026-10,Saturday,East,Bhubaneswar,Furniture,Office Chair,Home Office,7,11453.75,15,3875.45,33.84,UPI,33.83564334824839
+ORD00850,2026-08-30,2026-08,Sunday,West,Surat,Electronics,Laptop,Small Business,8,7898.4,10,1663.82,21.07,UPI,21.065279043856982
+ORD00851,2026-10-13,2026-10,Tuesday,South,Chennai,Office Supplies,Printer Paper,Corporate,7,27810.3,5,12468.21,44.83,UPI,44.83306544697468
+ORD00852,2026-09-03,2026-09,Thursday,Central,Nagpur,Furniture,Bookshelf,Consumer,8,27138.0,25,6592.18,24.29,Debit Card,24.29132581619869
+ORD00853,2026-08-23,2026-08,Sunday,East,Bhubaneswar,Clothing,Caps,Corporate,2,3320.0,20,680.1,20.48,Cash,20.484939759036145
+ORD00854,2026-05-05,2026-05,Tuesday,West,Mumbai,Furniture,Office Chair,Consumer,1,1485.9,10,469.78,31.62,Cash,31.615855710343894
+ORD00855,2026-05-24,2026-05,Sunday,South,Bangalore,Office Supplies,Pens,Small Business,8,36677.6,5,15582.86,42.49,Net Banking,42.486040526097675
+ORD00856,2026-07-15,2026-07,Wednesday,North,Lucknow,Sports,Basketball,Consumer,10,27360.0,20,10141.92,37.07,Cash,37.06842105263158
+ORD00857,2026-06-26,2026-06,Friday,South,Pune,Clothing,Shoes,Small Business,10,10800.0,0,2434.74,22.54,Credit Card,22.543888888888887
+ORD00858,2026-08-12,2026-08,Wednesday,North,Delhi,Electronics,Headphones,Consumer,1,1910.4,20,-129.65,-6.79,Credit Card,-6.786536850921274
+ORD00859,2026-10-25,2026-10,Sunday,West,Surat,Office Supplies,Notebooks,Home Office,2,6518.9,5,2902.33,44.52,UPI,44.521775146113605
+ORD00860,2026-07-02,2026-07,Thursday,South,Chennai,Sports,Cycling Helmet,Corporate,5,19533.0,15,6323.4,32.37,Net Banking,32.37290738749808
+ORD00861,2026-07-18,2026-07,Saturday,West,Mumbai,Sports,Tennis Racket,Consumer,1,2654.0,0,710.23,26.76,Debit Card,26.760738507912585
+ORD00862,2026-10-17,2026-10,Saturday,North,Chandigarh,Electronics,Smartphone,Consumer,9,14667.75,25,2683.62,18.3,Cash,18.296057677557904
+ORD00863,2026-09-26,2026-09,Saturday,East,Kolkata,Furniture,Filing Cabinet,Corporate,10,8776.0,20,2680.75,30.55,Cash,30.54637648131267
+ORD00864,2026-08-03,2026-08,Monday,East,Kolkata,Office Supplies,Printer Paper,Consumer,10,29317.5,25,11488.5,39.19,Debit Card,39.18649270913277
+ORD00865,2026-08-30,2026-08,Sunday,North,Lucknow,Furniture,Bookshelf,Corporate,2,1682.0,0,461.69,27.45,Credit Card,27.448870392390013
+ORD00866,2026-09-19,2026-09,Saturday,Central,Jabalpur,Clothing,Shoes,Small Business,4,11940.0,0,-857.5,-7.18,UPI,-7.181742043551089
+ORD00867,2026-09-13,2026-09,Sunday,Central,Nagpur,Sports,Cycling Helmet,Home Office,1,2885.6,20,855.39,29.64,Net Banking,29.643401718879957
+ORD00868,2026-07-28,2026-07,Tuesday,East,Ranchi,Furniture,Filing Cabinet,Home Office,9,34165.8,5,7425.51,21.73,Credit Card,21.733751295154804
+ORD00869,2026-08-17,2026-08,Monday,East,Guwahati,Office Supplies,Pens,Corporate,7,23170.0,0,7778.76,33.57,Net Banking,33.57255071212775
+ORD00870,2026-09-18,2026-09,Friday,South,Bangalore,Furniture,Filing Cabinet,Home Office,10,48920.0,0,-3816.61,-7.8,UPI,-7.801737530662306
+ORD00871,2026-07-24,2026-07,Friday,South,Bangalore,Electronics,Laptop,Corporate,8,11688.8,5,2083.64,17.83,Cash,17.825953049072616
+ORD00872,2026-07-30,2026-07,Thursday,East,Bhubaneswar,Office Supplies,Pens,Home Office,8,22548.0,25,7178.3,31.84,UPI,31.83563952456981
+ORD00873,2026-10-27,2026-10,Tuesday,Central,Jabalpur,Sports,Dumbbells,Consumer,6,25957.8,5,7494.23,28.87,Credit Card,28.870821101942383
+ORD00874,2026-08-25,2026-08,Tuesday,South,Hyderabad,Sports,Basketball,Consumer,9,20250.0,10,5341.38,26.38,Cash,26.377185185185187
+ORD00875,2026-07-09,2026-07,Thursday,North,Delhi,Electronics,Tablet,Home Office,10,32852.5,15,5847.03,17.8,UPI,17.797823605509475
+ORD00876,2026-07-18,2026-07,Saturday,South,Chennai,Sports,Dumbbells,Small Business,9,25632.9,5,5755.86,22.45,Cash,22.454969979986654
+ORD00877,2026-07-04,2026-07,Saturday,South,Chennai,Electronics,Smartphone,Home Office,8,32848.0,0,4997.13,15.21,Cash,15.21288967364832
+ORD00878,2026-06-29,2026-06,Monday,South,Hyderabad,Office Supplies,Markers,Consumer,5,18235.0,0,5633.85,30.9,Net Banking,30.895804771044695
+ORD00879,2026-05-31,2026-05,Sunday,West,Indore,Clothing,T-Shirts,Home Office,7,21622.3,15,4516.53,20.89,Net Banking,20.88829587971677
+ORD00880,2026-06-19,2026-06,Friday,North,Jaipur,Clothing,Caps,Consumer,5,4640.0,0,1430.56,30.83,Credit Card,30.831034482758618
+ORD00881,2026-07-20,2026-07,Monday,East,Kolkata,Sports,Basketball,Small Business,10,25175.0,5,8847.76,35.15,UPI,35.145024826216485
+ORD00882,2026-05-31,2026-05,Sunday,Central,Gwalior,Clothing,T-Shirts,Small Business,9,10664.1,15,4164.27,39.05,Debit Card,39.04942751849664
+ORD00883,2026-09-15,2026-09,Tuesday,Central,Jabalpur,Sports,Tennis Racket,Home Office,10,29790.0,25,9343.95,31.37,UPI,31.366062437059416
+ORD00884,2026-10-24,2026-10,Saturday,East,Bhubaneswar,Clothing,Shoes,Consumer,3,7353.0,0,1883.4,25.61,Cash,25.6140350877193
+ORD00885,2026-06-17,2026-06,Wednesday,West,Surat,Electronics,Smartphone,Small Business,5,22257.0,10,-2728.11,-12.26,Credit Card,-12.257312306240733
+ORD00886,2026-06-19,2026-06,Friday,Central,Jabalpur,Office Supplies,Markers,Corporate,2,1081.8,10,416.78,38.53,Credit Card,38.52652985764466
+ORD00887,2026-06-25,2026-06,Thursday,South,Hyderabad,Furniture,Filing Cabinet,Home Office,1,3646.5,15,-416.17,-11.41,Debit Card,-11.412861648155765
+ORD00888,2026-09-01,2026-09,Tuesday,Central,Nagpur,Clothing,T-Shirts,Corporate,5,4604.0,20,1428.57,31.03,Cash,31.02888792354474
+ORD00889,2026-07-10,2026-07,Friday,North,Lucknow,Furniture,Bookshelf,Home Office,5,11738.5,15,2571.71,21.91,Cash,21.908335818034672
+ORD00890,2026-09-28,2026-09,Monday,North,Jaipur,Sports,Yoga Mat,Consumer,2,3609.0,25,749.59,20.77,Credit Card,20.77001939595456
+ORD00891,2026-09-12,2026-09,Saturday,East,Ranchi,Sports,Basketball,Consumer,9,5690.25,25,1397.47,24.56,Credit Card,24.559026404815253
+ORD00892,2026-09-30,2026-09,Wednesday,West,Surat,Office Supplies,Printer Paper,Corporate,9,22909.5,25,7026.57,30.67,Debit Card,30.670988018071103
+ORD00893,2026-07-12,2026-07,Sunday,West,Mumbai,Electronics,Monitor,Consumer,2,6616.0,20,1043.64,15.77,Debit Card,15.774486094316808
+ORD00894,2026-05-26,2026-05,Tuesday,Central,Jabalpur,Clothing,T-Shirts,Consumer,5,18966.75,5,3887.03,20.49,Net Banking,20.49391698630498
+ORD00895,2026-06-19,2026-06,Friday,West,Surat,Office Supplies,Notebooks,Consumer,8,25696.8,10,10106.23,39.33,Credit Card,39.32874910494692
+ORD00896,2026-07-15,2026-07,Wednesday,West,Mumbai,Office Supplies,Pens,Corporate,2,1134.4,20,376.31,33.17,Debit Card,33.17260225669958
+ORD00897,2026-06-28,2026-06,Sunday,Central,Jabalpur,Furniture,Filing Cabinet,Consumer,3,1955.85,15,614.9,31.44,Cash,31.43901628447989
+ORD00898,2026-08-01,2026-08,Saturday,North,Delhi,Furniture,Conference Table,Small Business,10,34680.0,25,9787.91,28.22,Net Banking,28.223500576701266
+ORD00899,2026-06-15,2026-06,Monday,South,Bangalore,Sports,Yoga Mat,Home Office,9,31456.8,20,9065.96,28.82,Credit Card,28.820350448869558
+ORD00900,2026-07-17,2026-07,Friday,East,Guwahati,Furniture,Bookshelf,Small Business,6,14198.7,5,3810.55,26.84,Debit Card,26.837316092318307
+ORD00901,2026-05-04,2026-05,Monday,North,Delhi,Furniture,Filing Cabinet,Corporate,6,23148.0,0,5851.76,25.28,Credit Card,25.27976499049594
+ORD00902,2026-09-14,2026-09,Monday,West,Surat,Clothing,Caps,Corporate,8,16231.6,15,3992.21,24.6,Net Banking,24.595295596244362
+ORD00903,2026-06-02,2026-06,Tuesday,West,Ahmedabad,Sports,Dumbbells,Consumer,10,28792.5,25,6553.98,22.76,UPI,22.76280281323261
+ORD00904,2026-07-10,2026-07,Friday,Central,Jabalpur,Office Supplies,Stapler,Small Business,2,2492.2,15,905.05,36.32,Credit Card,36.3153037476928
+ORD00905,2026-05-12,2026-05,Tuesday,East,Ranchi,Furniture,Desk,Corporate,1,4008.05,5,874.23,21.81,Credit Card,21.811853644540363
+ORD00906,2026-05-14,2026-05,Thursday,South,Pune,Electronics,Smartphone,Home Office,7,5453.0,0,1194.23,21.9,Credit Card,21.90042178617275
+ORD00907,2026-09-19,2026-09,Saturday,Central,Nagpur,Sports,Cycling Helmet,Corporate,7,23177.7,10,5226.35,22.55,Credit Card,22.54904498720753
+ORD00908,2026-07-14,2026-07,Tuesday,Central,Nagpur,Office Supplies,Printer Paper,Small Business,6,15643.2,20,6121.4,39.13,Debit Card,39.13137976884524
+ORD00909,2026-10-26,2026-10,Monday,South,Bangalore,Electronics,Tablet,Home Office,7,21929.25,25,4275.66,19.5,UPI,19.497520435035398
+ORD00910,2026-06-02,2026-06,Tuesday,South,Hyderabad,Clothing,Jeans,Home Office,10,16016.0,20,3471.59,21.68,Cash,21.67576173826174
+ORD00911,2026-10-11,2026-10,Sunday,West,Surat,Clothing,Shoes,Consumer,8,23750.0,5,7166.17,30.17,Credit Card,30.173347368421055
+ORD00912,2026-09-03,2026-09,Thursday,Central,Bhopal,Furniture,Bookshelf,Home Office,6,27246.0,0,7754.75,28.46,Cash,28.461976069881818
+ORD00913,2026-05-27,2026-05,Wednesday,North,Lucknow,Office Supplies,Stapler,Consumer,6,20782.2,5,-1153.3,-5.55,Debit Card,-5.549460596087036
+ORD00914,2026-05-04,2026-05,Monday,North,Jaipur,Clothing,Caps,Consumer,10,22232.0,20,5844.2,26.29,UPI,26.287333573227777
+ORD00915,2026-09-24,2026-09,Thursday,Central,Nagpur,Electronics,Tablet,Corporate,8,18652.4,15,3214.99,17.24,Net Banking,17.23633419828011
+ORD00916,2026-07-12,2026-07,Sunday,South,Hyderabad,Sports,Yoga Mat,Corporate,5,11385.75,5,2495.7,21.92,Net Banking,21.91950464396285
+ORD00917,2026-08-29,2026-08,Saturday,East,Bhubaneswar,Electronics,Monitor,Consumer,9,5940.0,20,-396.49,-6.67,Net Banking,-6.674915824915825
+ORD00918,2026-08-31,2026-08,Monday,South,Bangalore,Office Supplies,Pens,Small Business,10,23868.0,15,9781.43,40.98,Net Banking,40.98135579017932
+ORD00919,2026-08-21,2026-08,Friday,South,Pune,Office Supplies,Printer Paper,Consumer,8,10077.6,15,3768.9,37.4,Net Banking,37.39878542510122
+ORD00920,2026-07-27,2026-07,Monday,East,Bhubaneswar,Office Supplies,Printer Paper,Small Business,2,5095.5,25,2135.0,41.9,UPI,41.899715435187915
+ORD00921,2026-06-17,2026-06,Wednesday,South,Hyderabad,Furniture,Conference Table,Home Office,5,13799.75,15,4065.32,29.46,Credit Card,29.459374264026522
+ORD00922,2026-05-14,2026-05,Thursday,East,Kolkata,Office Supplies,Printer Paper,Home Office,2,6075.0,25,2546.21,41.91,Net Banking,41.912921810699586
+ORD00923,2026-07-04,2026-07,Saturday,Central,Bhopal,Electronics,Smartphone,Home Office,10,13778.5,15,3268.42,23.72,Credit Card,23.72115977791487
+ORD00924,2026-08-31,2026-08,Monday,East,Bhubaneswar,Office Supplies,Notebooks,Consumer,8,13224.0,5,5422.29,41.0,Cash,41.003402903811256
+ORD00925,2026-05-30,2026-05,Saturday,North,Jaipur,Electronics,Monitor,Small Business,1,1915.9,15,300.27,15.67,Credit Card,15.672529881517821
+ORD00926,2026-05-17,2026-05,Sunday,East,Bhubaneswar,Furniture,Office Chair,Consumer,5,15700.0,20,4035.58,25.7,Cash,25.704331210191082
+ORD00927,2026-08-11,2026-08,Tuesday,South,Hyderabad,Clothing,Caps,Home Office,5,9381.25,5,3518.04,37.5,Credit Card,37.500759493670884
+ORD00928,2026-09-03,2026-09,Thursday,Central,Gwalior,Clothing,Caps,Corporate,9,26201.25,15,6788.31,25.91,Cash,25.90834406755403
+ORD00929,2026-05-19,2026-05,Tuesday,East,Guwahati,Clothing,Shoes,Home Office,4,9495.0,25,2705.82,28.5,Credit Card,28.497314375987365
+ORD00930,2026-09-25,2026-09,Friday,South,Hyderabad,Electronics,Tablet,Home Office,3,9590.55,15,2244.3,23.4,Credit Card,23.401160517384305
+ORD00931,2026-10-09,2026-10,Friday,East,Ranchi,Furniture,Office Chair,Corporate,5,11532.0,20,2678.49,23.23,UPI,23.226586888657646
+ORD00932,2026-10-23,2026-10,Friday,Central,Gwalior,Electronics,Monitor,Small Business,5,11801.25,25,2145.02,18.18,Cash,18.176210147230165
+ORD00933,2026-05-14,2026-05,Thursday,Central,Gwalior,Clothing,Shoes,Home Office,1,2371.5,10,704.58,29.71,Credit Card,29.710309930423783
+ORD00934,2026-06-08,2026-06,Monday,North,Delhi,Office Supplies,Notebooks,Small Business,4,12342.4,20,5323.81,43.13,UPI,43.13431747472129
+ORD00935,2026-06-08,2026-06,Monday,Central,Bhopal,Sports,Cycling Helmet,Corporate,3,7680.0,20,2365.08,30.8,UPI,30.795312499999998
+ORD00936,2026-09-22,2026-09,Tuesday,South,Bangalore,Clothing,T-Shirts,Corporate,6,15504.0,20,-1999.3,-12.9,Cash,-12.895381836945305
+ORD00937,2026-07-17,2026-07,Friday,Central,Nagpur,Furniture,Conference Table,Corporate,4,13464.0,10,4311.08,32.02,Credit Card,32.019310754604874
+ORD00938,2026-05-22,2026-05,Friday,Central,Jabalpur,Clothing,Jeans,Consumer,1,2537.0,0,936.4,36.91,UPI,36.90973590855341
+ORD00939,2026-07-03,2026-07,Friday,South,Bangalore,Sports,Tennis Racket,Small Business,1,4248.4,5,-368.95,-8.68,Net Banking,-8.684445909048112
+ORD00940,2026-05-31,2026-05,Sunday,South,Chennai,Electronics,Tablet,Consumer,7,7938.0,25,1508.82,19.01,Net Banking,19.00755857898715
+ORD00941,2026-09-20,2026-09,Sunday,Central,Jabalpur,Electronics,Laptop,Corporate,9,7458.75,25,1643.53,22.03,Net Banking,22.03492542316072
+ORD00942,2026-08-15,2026-08,Saturday,Central,Bhopal,Electronics,Monitor,Home Office,2,2614.5,25,545.96,20.88,Credit Card,20.882004207305414
+ORD00943,2026-10-03,2026-10,Saturday,East,Guwahati,Office Supplies,Notebooks,Consumer,1,4227.3,10,1441.96,34.11,Net Banking,34.11066165164526
+ORD00944,2026-09-30,2026-09,Wednesday,Central,Jabalpur,Sports,Tennis Racket,Home Office,5,15232.0,15,3329.91,21.86,Debit Card,21.861278886554622
+ORD00945,2026-10-06,2026-10,Tuesday,North,Chandigarh,Clothing,Jackets,Consumer,9,41621.4,5,11507.55,27.65,Cash,27.64815695771886
+ORD00946,2026-06-27,2026-06,Saturday,North,Lucknow,Office Supplies,Markers,Small Business,8,10541.2,5,-768.24,-7.29,Debit Card,-7.2879748036276695
+ORD00947,2026-09-11,2026-09,Friday,North,Lucknow,Office Supplies,Notebooks,Home Office,5,6264.0,10,2014.29,32.16,Debit Card,32.1566091954023
+ORD00948,2026-08-06,2026-08,Thursday,North,Delhi,Electronics,Monitor,Consumer,4,6412.4,15,1342.38,20.93,Net Banking,20.934127627721296
+ORD00949,2026-08-24,2026-08,Monday,Central,Gwalior,Sports,Tennis Racket,Corporate,10,45476.5,5,9631.31,21.18,Cash,21.17865271074071
+ORD00950,2026-08-22,2026-08,Saturday,East,Ranchi,Office Supplies,Stapler,Corporate,1,1559.7,10,629.1,40.33,UPI,40.33467974610502
+ORD00951,2026-07-16,2026-07,Thursday,South,Bangalore,Office Supplies,Pens,Small Business,9,34447.95,15,11951.8,34.7,Debit Card,34.69524311316058
+ORD00952,2026-09-28,2026-09,Monday,Central,Jabalpur,Clothing,Shoes,Small Business,9,31819.5,25,12681.7,39.86,UPI,39.85512028787379
+ORD00953,2026-08-18,2026-08,Tuesday,West,Mumbai,Clothing,T-Shirts,Consumer,3,10731.0,0,2494.08,23.24,UPI,23.24182275649986
+ORD00954,2026-07-18,2026-07,Saturday,Central,Nagpur,Furniture,Filing Cabinet,Corporate,1,1216.35,15,333.62,27.43,Credit Card,27.427960702100552
+ORD00955,2026-09-23,2026-09,Wednesday,North,Lucknow,Furniture,Conference Table,Home Office,7,27475.0,0,6717.99,24.45,Cash,24.451282984531392
+ORD00956,2026-10-06,2026-10,Tuesday,West,Surat,Office Supplies,Markers,Consumer,10,28260.0,10,10867.99,38.46,Cash,38.45714791224346
+ORD00957,2026-05-16,2026-05,Saturday,Central,Jabalpur,Sports,Dumbbells,Consumer,9,25495.2,20,6380.12,25.02,Debit Card,25.02478897988641
+ORD00958,2026-10-04,2026-10,Sunday,East,Guwahati,Furniture,Desk,Corporate,8,38360.0,0,9499.98,24.77,Credit Card,24.76532846715328
+ORD00959,2026-05-26,2026-05,Tuesday,East,Ranchi,Electronics,Laptop,Small Business,4,11605.2,5,2546.23,21.94,Credit Card,21.940423258539273
+ORD00960,2026-06-23,2026-06,Tuesday,West,Surat,Electronics,Laptop,Home Office,10,41220.5,5,6458.31,15.67,Credit Card,15.667713880229497
+ORD00961,2026-10-08,2026-10,Thursday,South,Chennai,Office Supplies,Printer Paper,Small Business,5,9351.0,10,3956.53,42.31,Cash,42.31130360389264
+ORD00962,2026-06-24,2026-06,Wednesday,West,Surat,Office Supplies,Markers,Consumer,5,15212.0,20,5798.09,38.12,Cash,38.11523797002367
+ORD00963,2026-07-07,2026-07,Tuesday,East,Kolkata,Sports,Dumbbells,Consumer,4,4834.8,10,1139.39,23.57,Net Banking,23.566435012823696
+ORD00964,2026-10-17,2026-10,Saturday,West,Ahmedabad,Sports,Cycling Helmet,Corporate,6,17457.6,20,6186.9,35.44,Cash,35.43957932361837
+ORD00965,2026-05-21,2026-05,Thursday,North,Chandigarh,Sports,Tennis Racket,Small Business,3,6642.0,0,2369.02,35.67,Cash,35.66726889491117
+ORD00966,2026-06-10,2026-06,Wednesday,North,Delhi,Sports,Dumbbells,Consumer,3,4268.7,15,1600.43,37.49,Credit Card,37.49221074331764
+ORD00967,2026-07-01,2026-07,Wednesday,South,Bangalore,Furniture,Conference Table,Consumer,7,21530.25,25,5829.39,27.08,UPI,27.075347476225314
+ORD00968,2026-06-14,2026-06,Sunday,West,Mumbai,Furniture,Conference Table,Small Business,7,22139.95,15,6773.42,30.59,Debit Card,30.593655360558625
+ORD00969,2026-09-19,2026-09,Saturday,West,Surat,Sports,Yoga Mat,Corporate,3,5067.0,25,1858.18,36.67,UPI,36.67219261890665
+ORD00970,2026-05-20,2026-05,Wednesday,West,Indore,Sports,Tennis Racket,Corporate,5,16927.5,25,3792.57,22.4,Debit Card,22.404785112981834
+ORD00971,2026-06-10,2026-06,Wednesday,West,Surat,Furniture,Office Chair,Home Office,8,20970.0,25,5282.32,25.19,Net Banking,25.189890319504055
+ORD00972,2026-05-01,2026-05,Friday,South,Chennai,Clothing,Jackets,Home Office,1,1867.7,5,538.67,28.84,Cash,28.841355678106762
+ORD00973,2026-08-13,2026-08,Thursday,East,Kolkata,Sports,Basketball,Home Office,2,5742.0,10,2200.11,38.32,Debit Card,38.316091954022994
+ORD00974,2026-08-24,2026-08,Monday,Central,Bhopal,Sports,Basketball,Small Business,5,2902.5,25,-233.51,-8.05,Debit Card,-8.04513350559862
+ORD00975,2026-10-24,2026-10,Saturday,South,Hyderabad,Office Supplies,Printer Paper,Home Office,8,4793.6,20,1892.69,39.48,Debit Card,39.48368658210948
+ORD00976,2026-09-30,2026-09,Wednesday,East,Ranchi,Sports,Yoga Mat,Home Office,6,4872.0,0,1571.63,32.26,Debit Card,32.258415435139575
+ORD00977,2026-08-29,2026-08,Saturday,East,Bhubaneswar,Furniture,Office Chair,Small Business,2,7874.0,0,2098.47,26.65,Cash,26.650622301244596
+ORD00978,2026-07-14,2026-07,Tuesday,East,Guwahati,Electronics,Monitor,Home Office,4,8319.0,25,-551.32,-6.63,UPI,-6.627238850823416
+ORD00979,2026-05-09,2026-05,Saturday,West,Surat,Furniture,Conference Table,Corporate,9,31500.0,0,10744.08,34.11,Debit Card,34.10819047619047
+ORD00980,2026-06-29,2026-06,Monday,South,Bangalore,Electronics,Smartphone,Consumer,3,10368.0,25,1831.65,17.67,Credit Card,17.666377314814817
+ORD00981,2026-07-13,2026-07,Monday,East,Kolkata,Office Supplies,Markers,Corporate,9,16271.55,15,5303.63,32.59,Debit Card,32.594497758357384
+ORD00982,2026-10-28,2026-10,Wednesday,Central,Bhopal,Office Supplies,Stapler,Corporate,2,6069.6,10,2245.37,36.99,Cash,36.99370633979174
+ORD00983,2026-07-12,2026-07,Sunday,Central,Bhopal,Sports,Tennis Racket,Consumer,2,2444.0,0,578.01,23.65,Credit Card,23.650163666121113
+ORD00984,2026-10-27,2026-10,Tuesday,North,Chandigarh,Sports,Yoga Mat,Corporate,1,1792.65,5,587.25,32.76,Cash,32.75876495690737
+ORD00985,2026-08-25,2026-08,Tuesday,East,Bhubaneswar,Office Supplies,Pens,Consumer,5,7935.0,0,2831.97,35.69,Net Banking,35.689603024574666
+ORD00986,2026-05-19,2026-05,Tuesday,South,Hyderabad,Furniture,Conference Table,Corporate,7,20508.6,5,6671.27,32.53,Cash,32.52913411934506
+ORD00987,2026-10-23,2026-10,Friday,West,Ahmedabad,Furniture,Bookshelf,Small Business,8,18892.8,10,4040.45,21.39,Credit Card,21.386189447831978
+ORD00988,2026-06-29,2026-06,Monday,North,Chandigarh,Office Supplies,Markers,Small Business,3,12549.0,0,5552.3,44.24,UPI,44.244959757749626
+ORD00989,2026-07-07,2026-07,Tuesday,East,Bhubaneswar,Sports,Cycling Helmet,Home Office,7,14017.5,10,4614.58,32.92,Credit Card,32.920135544854645
+ORD00990,2026-10-08,2026-10,Thursday,West,Surat,Furniture,Bookshelf,Small Business,9,31225.5,25,9965.44,31.91,UPI,31.91442891226722
+ORD00991,2026-09-28,2026-09,Monday,South,Chennai,Office Supplies,Pens,Consumer,5,21655.0,0,9491.12,43.83,Credit Card,43.828769337335494
+ORD00992,2026-10-17,2026-10,Saturday,South,Chennai,Clothing,Jeans,Home Office,10,38943.0,10,10688.16,27.45,Debit Card,27.445651336568833
+ORD00993,2026-06-20,2026-06,Saturday,North,Delhi,Office Supplies,Printer Paper,Corporate,1,3267.05,5,1186.63,36.32,Cash,36.3211459879708
+ORD00994,2026-08-17,2026-08,Monday,North,Delhi,Furniture,Bookshelf,Small Business,3,7672.95,15,2163.9,28.2,Net Banking,28.201669501300024
+ORD00995,2026-05-30,2026-05,Saturday,East,Ranchi,Sports,Tennis Racket,Home Office,7,24174.85,15,8867.8,36.68,UPI,36.681923569329285
+ORD00996,2026-09-17,2026-09,Thursday,West,Surat,Sports,Basketball,Small Business,7,28053.9,10,5835.93,20.8,UPI,20.802562210601735
+ORD00997,2026-06-27,2026-06,Saturday,Central,Nagpur,Sports,Yoga Mat,Home Office,7,24872.4,10,9720.04,39.08,Debit Card,39.0796223926923
+ORD00998,2026-10-13,2026-10,Tuesday,West,Mumbai,Furniture,Conference Table,Consumer,5,7452.0,20,2569.34,34.48,Debit Card,34.47852925389158
+ORD00999,2026-06-08,2026-06,Monday,South,Chennai,Sports,Dumbbells,Consumer,6,9384.0,0,3697.91,39.41,Credit Card,39.40654305200341
+ORD01000,2026-07-08,2026-07,Wednesday,South,Chennai,Office Supplies,Notebooks,Corporate,3,9544.65,15,2864.6,30.01,UPI,30.012624873620304
+ORD01001,2026-06-06,2026-06,Saturday,East,Bhubaneswar,Office Supplies,Stapler,Home Office,3,3300.3,5,1414.72,42.87,Cash,42.86640608429536
+ORD01002,2026-05-19,2026-05,Tuesday,Central,Nagpur,Furniture,Conference Table,Consumer,1,3030.25,15,678.47,22.39,Credit Card,22.389901823281907
+ORD01003,2026-05-16,2026-05,Saturday,East,Ranchi,Furniture,Filing Cabinet,Corporate,8,21492.0,25,5080.95,23.64,Debit Card,23.64112227805695
+ORD01004,2026-06-12,2026-06,Friday,South,Pune,Furniture,Bookshelf,Home Office,7,10035.9,10,3359.05,33.47,UPI,33.470341474107954
+ORD01005,2026-07-18,2026-07,Saturday,South,Pune,Sports,Tennis Racket,Corporate,2,8775.0,10,2611.98,29.77,Net Banking,29.76615384615385
+ORD01006,2026-09-30,2026-09,Wednesday,West,Mumbai,Furniture,Conference Table,Consumer,4,7052.4,10,1793.72,25.43,Net Banking,25.434178435709832
+ORD01007,2026-09-23,2026-09,Wednesday,Central,Bhopal,Sports,Cycling Helmet,Corporate,2,5641.5,25,1387.89,24.6,UPI,24.601435788354163
+ORD01008,2026-07-13,2026-07,Monday,West,Mumbai,Furniture,Bookshelf,Home Office,2,7318.8,10,1885.4,25.76,Cash,25.761053724654314
+ORD01009,2026-08-21,2026-08,Friday,West,Ahmedabad,Office Supplies,Stapler,Small Business,8,29344.0,0,9952.1,33.92,UPI,33.91528080697928
+ORD01010,2026-06-01,2026-06,Monday,East,Bhubaneswar,Furniture,Filing Cabinet,Consumer,2,8054.6,15,2585.0,32.09,Cash,32.09346212102401
+ORD01011,2026-08-28,2026-08,Friday,West,Mumbai,Clothing,T-Shirts,Home Office,6,10356.9,5,3261.77,31.49,Debit Card,31.49369019687358
+ORD01012,2026-10-24,2026-10,Saturday,North,Lucknow,Electronics,Headphones,Home Office,7,26530.0,0,4783.24,18.03,Cash,18.029551451187334
+ORD01013,2026-07-17,2026-07,Friday,North,Delhi,Sports,Tennis Racket,Corporate,6,23521.2,15,8053.77,34.24,Cash,34.24047242487628
+ORD01014,2026-10-27,2026-10,Tuesday,West,Surat,Electronics,Smartphone,Consumer,9,30393.45,15,7204.2,23.7,UPI,23.70313340538833
+ORD01015,2026-08-12,2026-08,Wednesday,Central,Bhopal,Office Supplies,Markers,Small Business,4,8358.4,20,3526.62,42.19,UPI,42.19252488514548
+ORD01016,2026-07-09,2026-07,Thursday,West,Indore,Clothing,T-Shirts,Small Business,5,21535.0,0,4830.52,22.43,Net Banking,22.431019270954263
+ORD01017,2026-09-06,2026-09,Sunday,South,Hyderabad,Electronics,Monitor,Corporate,5,14981.25,15,2752.75,18.37,Debit Card,18.374634960367125
+ORD01018,2026-09-16,2026-09,Wednesday,South,Bangalore,Sports,Basketball,Consumer,5,8838.0,10,2504.8,28.34,Credit Card,28.341253677302557
+ORD01019,2026-09-04,2026-09,Friday,Central,Jabalpur,Electronics,Monitor,Small Business,6,6363.0,25,977.75,15.37,UPI,15.366179475090366
+ORD01020,2026-08-21,2026-08,Friday,East,Bhubaneswar,Furniture,Office Chair,Consumer,2,9275.8,5,2866.39,30.9,Debit Card,30.901809008387417
+ORD01021,2026-05-21,2026-05,Thursday,North,Lucknow,Office Supplies,Stapler,Corporate,10,40394.0,5,17685.15,43.78,Debit Card,43.781625984057044
+ORD01022,2026-10-01,2026-10,Thursday,North,Lucknow,Electronics,Laptop,Consumer,6,19050.0,0,3137.06,16.47,Net Banking,16.46750656167979
+ORD01023,2026-05-11,2026-05,Monday,East,Kolkata,Clothing,Caps,Consumer,6,5152.5,25,1802.62,34.99,UPI,34.98534691897137
+ORD01024,2026-08-19,2026-08,Wednesday,West,Mumbai,Furniture,Bookshelf,Consumer,7,8043.0,0,2566.09,31.9,UPI,31.904637573044887
+ORD01025,2026-07-22,2026-07,Wednesday,Central,Jabalpur,Sports,Cycling Helmet,Corporate,4,14748.0,25,5306.2,35.98,Debit Card,35.97911581231353
+ORD01026,2026-10-02,2026-10,Friday,West,Indore,Furniture,Filing Cabinet,Corporate,3,7427.7,10,-818.03,-11.01,UPI,-11.013234244786407
+ORD01027,2026-07-04,2026-07,Saturday,East,Bhubaneswar,Office Supplies,Stapler,Corporate,7,3597.65,5,1089.4,30.28,Net Banking,30.28087779522744
+ORD01028,2026-05-07,2026-05,Thursday,Central,Nagpur,Office Supplies,Stapler,Small Business,10,32160.0,25,11182.8,34.77,Net Banking,34.77238805970149
+ORD01029,2026-05-24,2026-05,Sunday,North,Delhi,Office Supplies,Pens,Home Office,10,9198.0,10,3764.05,40.92,Net Banking,40.922483148510544
+ORD01030,2026-06-28,2026-06,Sunday,North,Lucknow,Sports,Tennis Racket,Consumer,9,24426.45,15,7208.75,29.51,UPI,29.51206581390255
+ORD01031,2026-10-20,2026-10,Tuesday,West,Surat,Office Supplies,Stapler,Home Office,8,25361.2,5,9365.69,36.93,UPI,36.929206819866565
+ORD01032,2026-09-25,2026-09,Friday,South,Chennai,Sports,Dumbbells,Consumer,5,15703.75,15,3242.09,20.65,Net Banking,20.645323569211175
+ORD01033,2026-09-28,2026-09,Monday,East,Kolkata,Clothing,Caps,Consumer,2,6323.2,5,2210.6,34.96,Cash,34.9601467611336
+ORD01034,2026-05-06,2026-05,Wednesday,East,Guwahati,Office Supplies,Stapler,Consumer,8,33584.0,0,10860.56,32.34,Credit Card,32.33849452120057
+ORD01035,2026-10-20,2026-10,Tuesday,West,Surat,Sports,Tennis Racket,Corporate,1,3511.8,10,1093.18,31.13,Debit Card,31.12876587504983
+ORD01036,2026-07-08,2026-07,Wednesday,East,Bhubaneswar,Clothing,Caps,Small Business,7,8836.8,20,3444.26,38.98,Cash,38.97632627195365
+ORD01037,2026-09-25,2026-09,Friday,North,Lucknow,Furniture,Desk,Corporate,10,12654.0,10,2869.84,22.68,Credit Card,22.679310889837208
+ORD01038,2026-05-11,2026-05,Monday,West,Indore,Sports,Tennis Racket,Consumer,4,11502.2,15,4371.89,38.01,UPI,38.00916346438073
+ORD01039,2026-06-14,2026-06,Sunday,North,Chandigarh,Electronics,Tablet,Home Office,9,33220.8,20,6285.95,18.92,Debit Card,18.92172975966864
+ORD01040,2026-08-29,2026-08,Saturday,Central,Gwalior,Clothing,Jackets,Consumer,3,11915.85,5,-798.52,-6.7,Cash,-6.7013263846053785
+ORD01041,2026-09-10,2026-09,Thursday,Central,Gwalior,Furniture,Office Chair,Consumer,10,27300.0,25,7172.12,26.27,Debit Card,26.27150183150183
+ORD01042,2026-10-14,2026-10,Wednesday,South,Chennai,Electronics,Monitor,Small Business,3,5606.4,20,1188.51,21.2,UPI,21.199165239726028
+ORD01043,2026-08-22,2026-08,Saturday,East,Ranchi,Electronics,Tablet,Consumer,3,6112.8,20,1299.27,21.25,Credit Card,21.25490773458971
+ORD01044,2026-07-11,2026-07,Saturday,Central,Jabalpur,Electronics,Monitor,Corporate,9,26560.8,20,6277.48,23.63,Credit Card,23.634378482575823
+ORD01045,2026-06-16,2026-06,Tuesday,East,Bhubaneswar,Clothing,Jackets,Small Business,3,6273.0,15,2430.34,38.74,Credit Card,38.74286625219194
+ORD01046,2026-09-27,2026-09,Sunday,North,Chandigarh,Furniture,Bookshelf,Small Business,1,978.5,5,280.48,28.66,Cash,28.66428206438426
+ORD01047,2026-08-20,2026-08,Thursday,West,Indore,Furniture,Desk,Small Business,9,28883.25,25,6258.24,21.67,Credit Card,21.66736776505414
+ORD01048,2026-10-10,2026-10,Saturday,Central,Jabalpur,Furniture,Desk,Consumer,2,8572.0,0,2676.96,31.23,Cash,31.22911805879608
+ORD01049,2026-09-03,2026-09,Thursday,West,Indore,Sports,Tennis Racket,Small Business,2,6215.2,15,2433.34,39.15,Cash,39.151435191144294
+ORD01050,2026-05-24,2026-05,Sunday,Central,Bhopal,Sports,Cycling Helmet,Small Business,8,4719.2,15,1725.11,36.56,Net Banking,36.55513646380742
+ORD01051,2026-08-29,2026-08,Saturday,East,Ranchi,Electronics,Tablet,Corporate,9,25461.0,25,5473.17,21.5,Cash,21.496288441145282
+ORD01052,2026-07-29,2026-07,Wednesday,Central,Bhopal,Electronics,Smartphone,Home Office,10,26500.0,0,5888.28,22.22,Debit Card,22.219924528301885
+ORD01053,2026-08-13,2026-08,Thursday,Central,Jabalpur,Furniture,Desk,Corporate,4,16030.8,10,3439.71,21.46,Credit Card,21.45688300022457
+ORD01054,2026-07-25,2026-07,Saturday,North,Delhi,Clothing,Shoes,Corporate,5,11268.0,10,2919.07,25.91,Cash,25.905839545615905
+ORD01055,2026-07-22,2026-07,Wednesday,South,Pune,Office Supplies,Markers,Home Office,10,27550.0,0,11411.17,41.42,UPI,41.41985480943738
+ORD01056,2026-10-19,2026-10,Monday,North,Chandigarh,Electronics,Smartphone,Home Office,10,31842.0,10,7049.19,22.14,Cash,22.138025249670246
+ORD01057,2026-05-27,2026-05,Wednesday,West,Ahmedabad,Sports,Basketball,Small Business,8,26358.0,25,6826.09,25.9,Cash,25.89760224599742
+ORD01058,2026-06-11,2026-06,Thursday,East,Bhubaneswar,Furniture,Conference Table,Corporate,7,18232.2,10,-2348.92,-12.88,Net Banking,-12.883360208861244
+ORD01059,2026-07-24,2026-07,Friday,East,Guwahati,Furniture,Conference Table,Consumer,5,2691.0,10,829.29,30.82,Debit Card,30.817168338907468
+ORD01060,2026-08-14,2026-08,Friday,Central,Gwalior,Clothing,Caps,Corporate,6,8527.5,25,1971.35,23.12,UPI,23.117560832600407
+ORD01061,2026-10-25,2026-10,Sunday,East,Guwahati,Sports,Basketball,Home Office,8,21576.0,25,5044.99,23.38,Net Banking,23.3824156470152
+ORD01062,2026-09-04,2026-09,Friday,South,Chennai,Clothing,Shoes,Small Business,2,1108.8,10,271.62,24.5,Debit Card,24.496753246753247
+ORD01063,2026-07-13,2026-07,Monday,South,Chennai,Office Supplies,Markers,Small Business,4,5324.4,10,1995.68,37.48,Cash,37.481781984824586
+ORD01064,2026-10-17,2026-10,Saturday,Central,Bhopal,Sports,Dumbbells,Small Business,6,9715.5,25,2006.91,20.66,UPI,20.656785548865216
+ORD01065,2026-08-11,2026-08,Tuesday,Central,Jabalpur,Sports,Yoga Mat,Consumer,9,19605.6,20,7240.76,36.93,Debit Card,36.932101032358105
+ORD01066,2026-09-18,2026-09,Friday,West,Mumbai,Electronics,Headphones,Consumer,4,18175.4,5,3191.73,17.56,Net Banking,17.560713932018
+ORD01067,2026-05-10,2026-05,Sunday,Central,Nagpur,Furniture,Filing Cabinet,Home Office,1,1562.4,20,374.76,23.99,Cash,23.986175115207374
+ORD01068,2026-08-25,2026-08,Tuesday,North,Jaipur,Electronics,Smartphone,Small Business,5,23900.0,0,4081.48,17.08,Cash,17.077322175732217
+ORD01069,2026-05-23,2026-05,Saturday,North,Lucknow,Clothing,T-Shirts,Corporate,1,4408.2,10,1578.15,35.8,Credit Card,35.80032666394447
+ORD01070,2026-07-20,2026-07,Monday,North,Lucknow,Electronics,Headphones,Small Business,8,8990.8,5,1438.42,16.0,Net Banking,15.998798772078127
+ORD01071,2026-07-04,2026-07,Saturday,South,Pune,Office Supplies,Markers,Corporate,10,4913.0,15,2108.52,42.92,UPI,42.9171585589253
+ORD01072,2026-07-22,2026-07,Wednesday,East,Ranchi,Furniture,Conference Table,Corporate,1,3813.3,10,1194.26,31.32,Cash,31.318280754202394
+ORD01073,2026-05-30,2026-05,Saturday,West,Indore,Furniture,Bookshelf,Consumer,8,29792.0,20,7226.45,24.26,Credit Card,24.256343984962406
+ORD01074,2026-08-12,2026-08,Wednesday,Central,Jabalpur,Sports,Dumbbells,Small Business,5,12352.5,25,3857.1,31.23,Debit Card,31.225258044930175
+ORD01075,2026-09-09,2026-09,Wednesday,West,Indore,Electronics,Smartphone,Home Office,1,4044.6,10,968.02,23.93,Cash,23.933639914948326
+ORD01076,2026-05-01,2026-05,Friday,South,Pune,Furniture,Desk,Small Business,7,5444.25,25,1337.63,24.57,Debit Card,24.569591771134686
+ORD01077,2026-10-16,2026-10,Friday,Central,Gwalior,Office Supplies,Markers,Small Business,4,7984.0,0,3308.79,41.44,Cash,41.44276052104208
+ORD01078,2026-09-16,2026-09,Wednesday,Central,Jabalpur,Office Supplies,Markers,Home Office,2,6547.5,25,2258.95,34.5,Debit Card,34.50095456281023
+ORD01079,2026-08-27,2026-08,Thursday,South,Chennai,Office Supplies,Pens,Home Office,7,13778.8,5,5895.31,42.79,Net Banking,42.785365924463676
+ORD01080,2026-08-14,2026-08,Friday,East,Bhubaneswar,Office Supplies,Markers,Small Business,10,37238.5,15,15527.09,41.7,Debit Card,41.69633578151644
+ORD01081,2026-05-14,2026-05,Thursday,Central,Jabalpur,Clothing,Jackets,Home Office,3,9549.9,10,2547.38,26.67,Debit Card,26.67441543890512
+ORD01082,2026-06-18,2026-06,Thursday,East,Guwahati,Clothing,Jackets,Corporate,10,33864.0,15,-1896.43,-5.6,Cash,-5.600135837467517
+ORD01083,2026-09-10,2026-09,Thursday,South,Bangalore,Clothing,Jackets,Consumer,8,11851.2,10,2416.41,20.39,Cash,20.389580801944103
+ORD01084,2026-08-01,2026-08,Saturday,West,Ahmedabad,Office Supplies,Stapler,Home Office,1,3203.1,10,1166.33,36.41,Debit Card,36.41253785395398
+ORD01085,2026-10-07,2026-10,Wednesday,Central,Nagpur,Furniture,Conference Table,Corporate,8,33264.0,10,7185.86,21.6,Net Banking,21.602513227513224
+ORD01086,2026-09-05,2026-09,Saturday,East,Guwahati,Clothing,Caps,Consumer,1,3261.75,25,906.81,27.8,UPI,27.80133363991722
+ORD01087,2026-10-08,2026-10,Thursday,Central,Gwalior,Furniture,Bookshelf,Home Office,1,3572.0,0,744.47,20.84,Credit Card,20.841825307950728
+ORD01088,2026-08-22,2026-08,Saturday,East,Guwahati,Clothing,Jackets,Consumer,8,10708.4,5,4028.18,37.62,Debit Card,37.61701094467894
+ORD01089,2026-05-14,2026-05,Thursday,Central,Gwalior,Furniture,Desk,Small Business,10,28006.0,5,7961.42,28.43,Net Banking,28.42755123902021
+ORD01090,2026-06-22,2026-06,Monday,Central,Jabalpur,Sports,Cycling Helmet,Home Office,9,18972.0,20,6895.6,36.35,Debit Card,36.346194391735196
+ORD01091,2026-07-08,2026-07,Wednesday,Central,Nagpur,Electronics,Tablet,Corporate,8,20754.0,25,4948.97,23.85,Credit Card,23.84586103883589
+ORD01092,2026-09-18,2026-09,Friday,West,Indore,Furniture,Filing Cabinet,Corporate,6,19761.9,5,5961.18,30.17,UPI,30.165014497593855
+ORD01093,2026-06-03,2026-06,Wednesday,Central,Jabalpur,Sports,Yoga Mat,Consumer,2,2473.5,25,697.91,28.22,UPI,28.215484131797048
+ORD01094,2026-07-13,2026-07,Monday,East,Ranchi,Electronics,Monitor,Corporate,9,8043.3,10,1219.53,15.16,Debit Card,15.162060348364475
+ORD01095,2026-08-21,2026-08,Friday,West,Mumbai,Sports,Basketball,Corporate,8,35373.6,10,11141.38,31.5,Credit Card,31.49631363502725
+ORD01096,2026-10-26,2026-10,Monday,North,Delhi,Sports,Yoga Mat,Home Office,9,12141.0,5,4367.34,35.97,Debit Card,35.971830985915496
+ORD01097,2026-09-02,2026-09,Wednesday,East,Kolkata,Sports,Tennis Racket,Consumer,2,3094.5,25,885.61,28.62,Cash,28.618839877201484
+ORD01098,2026-06-01,2026-06,Monday,East,Ranchi,Furniture,Bookshelf,Corporate,3,2470.5,25,707.26,28.63,UPI,28.628212912365917
+ORD01099,2026-05-08,2026-05,Friday,North,Lucknow,Electronics,Headphones,Small Business,1,2324.8,20,-296.36,-12.75,Net Banking,-12.747763248451479
+ORD01100,2026-10-09,2026-10,Friday,West,Indore,Furniture,Bookshelf,Home Office,10,17437.5,25,5495.72,31.52,Net Banking,31.51667383512545
+ORD01101,2026-10-03,2026-10,Saturday,Central,Nagpur,Sports,Basketball,Corporate,4,6650.0,5,1604.17,24.12,Net Banking,24.122857142857143
+ORD01102,2026-07-01,2026-07,Wednesday,East,Kolkata,Sports,Cycling Helmet,Corporate,3,1975.2,20,532.72,26.97,Credit Card,26.97043337383556
+ORD01103,2026-06-10,2026-06,Wednesday,North,Chandigarh,Furniture,Desk,Corporate,5,10222.0,5,2694.95,26.36,Credit Card,26.364214439444332
+ORD01104,2026-07-19,2026-07,Sunday,Central,Nagpur,Office Supplies,Printer Paper,Home Office,8,12992.0,0,5523.21,42.51,UPI,42.51239224137931
+ORD01105,2026-09-19,2026-09,Saturday,West,Indore,Furniture,Filing Cabinet,Home Office,8,6140.4,15,1595.75,25.99,Credit Card,25.98772066966322
+ORD01106,2026-05-04,2026-05,Monday,East,Ranchi,Sports,Yoga Mat,Consumer,3,3024.0,20,1157.15,38.27,Cash,38.26554232804233
+ORD01107,2026-09-19,2026-09,Saturday,Central,Bhopal,Furniture,Desk,Home Office,8,8910.0,25,2590.38,29.07,UPI,29.07272727272727
+ORD01108,2026-08-13,2026-08,Thursday,Central,Jabalpur,Clothing,Jeans,Corporate,2,3556.8,20,967.35,27.2,UPI,27.197199730094468
+ORD01109,2026-05-24,2026-05,Sunday,South,Bangalore,Clothing,T-Shirts,Corporate,7,3326.05,15,931.5,28.01,Cash,28.006193532869318
+ORD01110,2026-06-27,2026-06,Saturday,North,Chandigarh,Office Supplies,Stapler,Small Business,7,5428.5,25,1873.4,34.51,Cash,34.51045408492217
+ORD01111,2026-05-30,2026-05,Saturday,Central,Bhopal,Clothing,Shoes,Home Office,5,2358.75,25,777.14,32.95,Cash,32.947111817700055
+ORD01112,2026-08-27,2026-08,Thursday,West,Ahmedabad,Furniture,Desk,Corporate,3,1380.0,20,308.24,22.34,Debit Card,22.336231884057973
+ORD01113,2026-05-31,2026-05,Sunday,South,Bangalore,Electronics,Monitor,Small Business,5,9981.0,10,2113.53,21.18,Net Banking,21.175533513675987
+ORD01114,2026-10-13,2026-10,Tuesday,Central,Gwalior,Furniture,Desk,Consumer,3,10683.0,25,3433.65,32.14,Net Banking,32.14125245717495
+ORD01115,2026-06-09,2026-06,Tuesday,Central,Jabalpur,Electronics,Smartphone,Consumer,8,5662.0,5,1022.59,18.06,UPI,18.060579300600494
+ORD01116,2026-09-05,2026-09,Saturday,West,Surat,Sports,Basketball,Consumer,1,659.7,10,135.7,20.57,Cash,20.569956040624522
+ORD01117,2026-07-14,2026-07,Tuesday,South,Chennai,Clothing,T-Shirts,Corporate,7,27546.4,20,9489.86,34.45,Credit Card,34.450454505851944
+ORD01118,2026-09-08,2026-09,Tuesday,South,Bangalore,Electronics,Tablet,Corporate,2,3950.8,15,983.03,24.88,Cash,24.881796091930745
+ORD01119,2026-10-28,2026-10,Wednesday,North,Lucknow,Clothing,Shoes,Consumer,8,37209.6,5,13819.02,37.14,UPI,37.13831914344686
+ORD01120,2026-07-09,2026-07,Thursday,Central,Bhopal,Office Supplies,Notebooks,Small Business,5,20643.5,5,7192.85,34.84,Net Banking,34.84317097391431
+ORD01121,2026-08-15,2026-08,Saturday,North,Delhi,Clothing,Shoes,Consumer,3,6004.95,5,1819.18,30.29,Debit Card,30.294673560978865
+ORD01122,2026-09-01,2026-09,Tuesday,South,Chennai,Furniture,Office Chair,Home Office,7,8038.8,10,2677.22,33.3,Cash,33.30372692441658
+ORD01123,2026-08-29,2026-08,Saturday,North,Jaipur,Office Supplies,Pens,Corporate,6,13347.0,25,5954.01,44.61,Net Banking,44.60935041582378
+ORD01124,2026-07-02,2026-07,Thursday,West,Surat,Furniture,Bookshelf,Corporate,6,17806.5,25,3949.18,22.18,UPI,22.178305674894
+ORD01125,2026-08-25,2026-08,Tuesday,East,Kolkata,Clothing,T-Shirts,Home Office,3,6363.0,0,-448.74,-7.05,UPI,-7.052333804809052
+ORD01126,2026-09-19,2026-09,Saturday,West,Ahmedabad,Clothing,Jackets,Corporate,10,5057.5,15,1500.91,29.68,Net Banking,29.67691547207118
+ORD01127,2026-06-07,2026-06,Sunday,South,Pune,Clothing,Jeans,Home Office,10,37908.0,10,11720.24,30.92,Net Banking,30.91758995462699
+ORD01128,2026-08-07,2026-08,Friday,West,Surat,Sports,Basketball,Consumer,3,8807.4,10,2362.11,26.82,Cash,26.8196062402071
+ORD01129,2026-06-18,2026-06,Thursday,South,Pune,Electronics,Tablet,Consumer,5,23760.0,0,5421.92,22.82,Credit Card,22.81952861952862
+ORD01130,2026-10-01,2026-10,Thursday,West,Mumbai,Sports,Dumbbells,Corporate,4,4331.6,15,1585.43,36.6,Cash,36.60148674854557
+ORD01131,2026-09-08,2026-09,Tuesday,Central,Jabalpur,Furniture,Bookshelf,Corporate,8,20502.0,15,5801.96,28.3,Debit Card,28.29948297727051
+ORD01132,2026-06-04,2026-06,Thursday,Central,Nagpur,Clothing,Caps,Consumer,3,4716.0,25,-361.52,-7.67,Net Banking,-7.665818490245971
+ORD01133,2026-05-18,2026-05,Monday,West,Surat,Sports,Cycling Helmet,Home Office,10,13944.0,20,4253.05,30.5,Debit Card,30.500932300631096
+ORD01134,2026-07-10,2026-07,Friday,North,Chandigarh,Sports,Dumbbells,Consumer,3,13089.6,10,3033.51,23.17,Debit Card,23.1749633296663
+ORD01135,2026-08-15,2026-08,Saturday,South,Chennai,Furniture,Conference Table,Home Office,4,14302.8,10,2965.5,20.73,Credit Card,20.733702491819788
+ORD01136,2026-07-27,2026-07,Monday,Central,Gwalior,Office Supplies,Notebooks,Small Business,7,28405.3,15,10515.66,37.02,Cash,37.0200631572277
+ORD01137,2026-09-07,2026-09,Monday,South,Hyderabad,Electronics,Laptop,Consumer,9,17266.5,25,3128.01,18.12,UPI,18.116062896360006
+ORD01138,2026-07-08,2026-07,Wednesday,Central,Bhopal,Electronics,Headphones,Home Office,3,4204.95,15,976.57,23.22,Debit Card,23.224295175923615
+ORD01139,2026-05-01,2026-05,Friday,East,Bhubaneswar,Clothing,Jeans,Home Office,7,22019.2,20,5255.42,23.87,Debit Card,23.867442958872257
+ORD01140,2026-07-12,2026-07,Sunday,West,Mumbai,Furniture,Bookshelf,Home Office,7,11550.0,0,3567.76,30.89,Debit Card,30.889696969696974
+ORD01141,2026-07-16,2026-07,Thursday,Central,Nagpur,Furniture,Filing Cabinet,Corporate,5,7497.0,10,1511.51,20.16,Debit Card,20.161531279178337
+ORD01142,2026-09-28,2026-09,Monday,West,Surat,Sports,Yoga Mat,Corporate,4,13077.0,25,3761.66,28.77,UPI,28.765466085493614
+ORD01143,2026-09-26,2026-09,Saturday,East,Ranchi,Furniture,Office Chair,Small Business,5,16480.0,0,4239.07,25.72,Cash,25.722512135922326
+ORD01144,2026-10-16,2026-10,Friday,South,Bangalore,Clothing,Shoes,Small Business,8,13528.8,10,3313.56,24.49,Credit Card,24.492637927975874
+ORD01145,2026-09-03,2026-09,Thursday,West,Surat,Furniture,Filing Cabinet,Home Office,7,28294.0,0,8366.79,29.57,Debit Card,29.570898423694068
+ORD01146,2026-06-08,2026-06,Monday,Central,Jabalpur,Office Supplies,Stapler,Corporate,6,23766.0,15,9507.51,40.0,Net Banking,40.004670537742996
+ORD01147,2026-08-23,2026-08,Sunday,East,Guwahati,Electronics,Laptop,Home Office,8,10092.8,5,2105.14,20.86,UPI,20.85783925174382
+ORD01148,2026-09-15,2026-09,Tuesday,Central,Gwalior,Office Supplies,Printer Paper,Corporate,9,32371.2,20,13777.56,42.56,Credit Card,42.56116548042704
+ORD01149,2026-09-01,2026-09,Tuesday,East,Ranchi,Electronics,Monitor,Corporate,10,10372.5,25,2545.49,24.54,Net Banking,24.540756808869606
+ORD01150,2026-07-28,2026-07,Tuesday,East,Kolkata,Furniture,Bookshelf,Small Business,7,20763.75,25,6470.95,31.16,Net Banking,31.164649930768768
+ORD01151,2026-07-25,2026-07,Saturday,Central,Gwalior,Clothing,Caps,Home Office,1,4064.7,15,1473.99,36.26,Net Banking,36.2631928555613
+ORD01152,2026-09-19,2026-09,Saturday,West,Indore,Electronics,Smartphone,Home Office,1,1485.0,25,363.22,24.46,Debit Card,24.459259259259262
+ORD01153,2026-09-17,2026-09,Thursday,South,Pune,Electronics,Headphones,Corporate,6,11592.0,25,2137.62,18.44,Cash,18.44047619047619
+ORD01154,2026-08-05,2026-08,Wednesday,South,Chennai,Office Supplies,Notebooks,Corporate,6,4544.1,15,1839.75,40.49,Debit Card,40.48656499636891
+ORD01155,2026-08-25,2026-08,Tuesday,East,Bhubaneswar,Furniture,Conference Table,Consumer,6,22423.5,25,5834.55,26.02,Net Banking,26.019800655562246
+ORD01156,2026-07-22,2026-07,Wednesday,Central,Nagpur,Clothing,T-Shirts,Small Business,6,15523.2,20,4775.67,30.76,Credit Card,30.76472634508349
+ORD01157,2026-06-18,2026-06,Thursday,East,Bhubaneswar,Office Supplies,Stapler,Consumer,2,1993.5,25,719.47,36.09,Debit Card,36.09079508402308
+ORD01158,2026-10-26,2026-10,Monday,South,Chennai,Clothing,Jeans,Corporate,8,19209.6,10,5136.65,26.74,Credit Card,26.740015408962186
+ORD01159,2026-07-01,2026-07,Wednesday,East,Guwahati,Furniture,Desk,Home Office,1,3144.0,0,718.3,22.85,Debit Card,22.846692111959285
+ORD01160,2026-09-24,2026-09,Thursday,East,Guwahati,Sports,Cycling Helmet,Corporate,7,10959.2,20,3716.56,33.91,Cash,33.91269435725235
+ORD01161,2026-08-07,2026-08,Friday,South,Bangalore,Sports,Tennis Racket,Consumer,3,5978.25,25,1602.37,26.8,Cash,26.803328733324967
+ORD01162,2026-06-29,2026-06,Monday,West,Ahmedabad,Clothing,T-Shirts,Small Business,10,23256.0,20,9166.33,39.41,Debit Card,39.41490368077055
+ORD01163,2026-08-14,2026-08,Friday,East,Bhubaneswar,Clothing,T-Shirts,Corporate,9,21494.7,5,7168.57,33.35,Debit Card,33.3504073097089
+ORD01164,2026-05-12,2026-05,Tuesday,West,Indore,Furniture,Desk,Home Office,4,8530.6,15,2535.16,29.72,Cash,29.71842543314655
+ORD01165,2026-07-21,2026-07,Tuesday,East,Kolkata,Office Supplies,Pens,Consumer,10,5695.0,15,2424.3,42.57,Credit Card,42.56892010535558
+ORD01166,2026-08-30,2026-08,Sunday,Central,Nagpur,Clothing,Jeans,Corporate,10,40358.0,15,13134.55,32.55,Cash,32.545096387333366
+ORD01167,2026-10-28,2026-10,Wednesday,East,Ranchi,Office Supplies,Stapler,Home Office,7,16751.7,10,5941.45,35.47,Debit Card,35.467743572294154
+ORD01168,2026-08-06,2026-08,Thursday,East,Bhubaneswar,Office Supplies,Markers,Home Office,2,5137.5,25,1644.89,32.02,Credit Card,32.017323600973235
+ORD01169,2026-08-07,2026-08,Friday,North,Jaipur,Sports,Cycling Helmet,Corporate,2,2486.4,20,849.53,34.17,Debit Card,34.167068854568846
+ORD01170,2026-10-17,2026-10,Saturday,Central,Bhopal,Sports,Dumbbells,Consumer,9,28668.15,5,8401.41,29.31,UPI,29.305727785015772
+ORD01171,2026-10-14,2026-10,Wednesday,Central,Bhopal,Clothing,Caps,Home Office,8,26156.8,20,7513.2,28.72,Debit Card,28.723697088328848
+ORD01172,2026-06-08,2026-06,Monday,West,Ahmedabad,Electronics,Monitor,Small Business,9,28167.75,25,4387.26,15.58,Cash,15.575471949303726
+ORD01173,2026-09-04,2026-09,Friday,West,Ahmedabad,Electronics,Tablet,Consumer,5,4140.0,20,725.33,17.52,Net Banking,17.520048309178744
+ORD01174,2026-05-10,2026-05,Sunday,East,Kolkata,Sports,Tennis Racket,Home Office,3,10273.95,15,2496.99,24.3,Cash,24.30408946899683
+ORD01175,2026-06-02,2026-06,Tuesday,South,Hyderabad,Office Supplies,Pens,Corporate,7,30995.65,5,12861.49,41.49,Cash,41.49450003468228
+ORD01176,2026-09-06,2026-09,Sunday,East,Guwahati,Electronics,Monitor,Corporate,6,4478.4,20,725.36,16.2,Credit Card,16.196856020007147
+ORD01177,2026-09-29,2026-09,Tuesday,North,Delhi,Sports,Tennis Racket,Consumer,4,6916.0,5,2738.43,39.6,UPI,39.59557547715442
+ORD01178,2026-07-24,2026-07,Friday,East,Bhubaneswar,Furniture,Office Chair,Home Office,2,8197.2,10,1749.0,21.34,Credit Card,21.336553945249594
+ORD01179,2026-05-26,2026-05,Tuesday,North,Lucknow,Clothing,Shoes,Home Office,3,11842.2,10,2801.84,23.66,Debit Card,23.65979294387867
+ORD01180,2026-08-21,2026-08,Friday,East,Bhubaneswar,Clothing,Jackets,Consumer,2,8726.7,5,2200.01,25.21,Net Banking,25.21010232963205
+ORD01181,2026-05-26,2026-05,Tuesday,West,Surat,Electronics,Tablet,Consumer,2,6720.0,20,1181.22,17.58,Cash,17.57767857142857
+ORD01182,2026-09-12,2026-09,Saturday,East,Kolkata,Sports,Yoga Mat,Consumer,2,6756.4,5,1353.62,20.03,Net Banking,20.034633828666156
+ORD01183,2026-08-25,2026-08,Tuesday,West,Mumbai,Electronics,Tablet,Small Business,5,18255.0,0,4198.72,23.0,Net Banking,23.000383456587237
+ORD01184,2026-05-04,2026-05,Monday,South,Hyderabad,Electronics,Smartphone,Small Business,10,17374.0,15,2921.94,16.82,Debit Card,16.81788879935536
+ORD01185,2026-06-06,2026-06,Saturday,South,Hyderabad,Electronics,Smartphone,Small Business,10,33867.5,5,8099.2,23.91,Debit Card,23.914372185723774
+ORD01186,2026-08-13,2026-08,Thursday,Central,Nagpur,Sports,Dumbbells,Corporate,1,3316.8,20,689.08,20.78,Net Banking,20.77544621321756
+ORD01187,2026-10-15,2026-10,Thursday,East,Kolkata,Office Supplies,Stapler,Small Business,6,6219.0,25,2034.0,32.71,Cash,32.70622286541244
+ORD01188,2026-06-09,2026-06,Tuesday,Central,Bhopal,Clothing,Jeans,Small Business,10,15939.0,10,6177.38,38.76,Debit Card,38.75638371290545
+ORD01189,2026-05-20,2026-05,Wednesday,East,Ranchi,Clothing,T-Shirts,Small Business,6,5905.2,5,1612.94,27.31,Cash,27.31389284020863
+ORD01190,2026-08-29,2026-08,Saturday,South,Pune,Furniture,Filing Cabinet,Home Office,6,5040.0,0,1700.96,33.75,Debit Card,33.749206349206354
+ORD01191,2026-07-07,2026-07,Tuesday,North,Delhi,Sports,Yoga Mat,Small Business,9,22500.0,20,7087.89,31.5,Cash,31.501733333333338
+ORD01192,2026-07-26,2026-07,Sunday,Central,Gwalior,Sports,Dumbbells,Consumer,6,16039.8,5,4644.82,28.96,Cash,28.958091746779886
+ORD01193,2026-10-07,2026-10,Wednesday,Central,Gwalior,Clothing,Shoes,Small Business,2,6099.6,15,1249.0,20.48,UPI,20.476752573939276
+ORD01194,2026-10-25,2026-10,Sunday,South,Pune,Sports,Tennis Racket,Corporate,8,21636.0,10,7662.79,35.42,Debit Card,35.41685154372342
+ORD01195,2026-08-10,2026-08,Monday,South,Bangalore,Furniture,Office Chair,Corporate,10,22612.5,25,7576.12,33.5,UPI,33.504123825317855
+ORD01196,2026-10-14,2026-10,Wednesday,North,Chandigarh,Electronics,Monitor,Small Business,1,656.1,10,123.67,18.85,Net Banking,18.84926078341716
+ORD01197,2026-05-21,2026-05,Thursday,Central,Bhopal,Clothing,Caps,Consumer,3,11500.8,20,3153.11,27.42,Cash,27.416440595436843
+ORD01198,2026-07-24,2026-07,Friday,South,Chennai,Electronics,Headphones,Consumer,4,6063.0,25,1103.65,18.2,Cash,18.203034801253505
+ORD01199,2026-10-20,2026-10,Tuesday,South,Pune,Furniture,Conference Table,Home Office,1,532.95,15,123.06,23.09,Credit Card,23.090346186321415
+ORD01200,2026-09-14,2026-09,Monday,North,Chandigarh,Electronics,Smartphone,Consumer,3,8182.95,15,1903.82,23.27,Debit Card,23.265692690288954

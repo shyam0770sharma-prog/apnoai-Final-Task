@@ -1,0 +1,7 @@
+Hello Mentor,
+
+I completed the ApnoMart Insight Board project using Python (Pandas, Matplotlib, Streamlit and Plotly). The deliverables include an interactive dashboard with Region, Category and date filters, three dashboard views, KPI cards, multiple visualizations, a calculated weighted Profit Margin %, an executive insight report, and a 1920×1080 screenshot.
+
+ChatGPT was used to help structure the analysis, refine the business wording and scaffold the dashboard/report code. I checked the metrics against the supplied dataset. One scope limitation is that the task template says Q2 2026, but the provided dataset covers May–October 2026; the report discloses this rather than presenting the full data as Q2-only.
+
+Thank you.
